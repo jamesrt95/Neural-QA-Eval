@@ -8,6 +8,7 @@
             "2014"
         ], 
         "context": "On May 21, 2013, NFL owners at their spring meetings in Boston voted and awarded the game to Levi's Stadium. The $1.2 billion stadium opened in 2014. It is the first Super Bowl held in the San Francisco Bay Area since Super Bowl XIX in 1985, and the first in California since Super Bowl XXXVII took place in San Diego in 2003.", 
+        "model_prediction": "may 21 , 2013", 
         "id": "56bf23363aeaaa14008c9530"
     }, 
     {
@@ -18,6 +19,7 @@
             "Kony Ealy"
         ], 
         "context": "The Panthers defense gave up just 308 points, ranking sixth in the league, while also leading the NFL in interceptions with 24 and boasting four Pro Bowl selections. Pro Bowl defensive tackle Kawann Short led the team in sacks with 11, while also forcing three fumbles and recovering two. Fellow lineman Mario Addison added 6\u00bd sacks. The Panthers line also featured veteran defensive end Jared Allen, a 5-time pro bowler who was the NFL's active career sack leader with 136, along with defensive end Kony Ealy, who had 5 sacks in just 9 starts. Behind them, two of the Panthers three starting linebackers were also selected to play in the Pro Bowl: Thomas Davis and Luke Kuechly. Davis compiled 5\u00bd sacks, four forced fumbles, and four interceptions, while Kuechly led the team in tackles (118) forced two fumbles, and intercepted four passes of his own. Carolina's secondary featured Pro Bowl safety Kurt Coleman, who led the team with a career high seven interceptions, while also racking up 88 tackles and Pro Bowl cornerback Josh Norman, who developed into a shutdown corner during the season and had four interceptions, two of which were returned for touchdowns.", 
+        "model_prediction": "mario addison", 
         "id": "56d9992fdc89441400fdb59e"
     }, 
     {
@@ -29,6 +31,7 @@
             "1998"
         ], 
         "context": "Following their loss in the divisional round of the previous season's playoffs, the Denver Broncos underwent numerous coaching changes, including a mutual parting with head coach John Fox (who had won four divisional championships in his four years as Broncos head coach), and the hiring of Gary Kubiak as the new head coach. Under Kubiak, the Broncos planned to install a run-oriented offense with zone blocking to blend in with quarterback Peyton Manning's shotgun passing skills, but struggled with numerous changes and injuries to the offensive line, as well as Manning having his worst statistical season since his rookie year with the Indianapolis Colts in 1998, due to a plantar fasciitis injury in his heel that he had suffered since the summer, and the simple fact that Manning was getting old, as he turned 39 in the 2015 off-season. Although the team had a 7\u20130 start, Manning led the NFL in interceptions. In week 10, Manning suffered a partial tear of the plantar fasciitis in his left foot. He set the NFL's all-time record for career passing yards in this game, but was benched after throwing four interceptions in favor of backup quarterback Brock Osweiler, who took over as the starter for most of the remainder of the regular season. Osweiler was injured, however, leading to Manning's return during the Week 17 regular season finale, where the Broncos were losing 13\u20137 against the 4\u201311 San Diego Chargers, resulting in Manning re-claiming the starting quarterback position for the playoffs by leading the team to a key 27\u201320 win that enabled the team to clinch the number one overall AFC seed. Under defensive coordinator Wade Phillips, the Broncos' defense ranked number one in total yards allowed, passing yards allowed and sacks, and like the previous three seasons, the team has continued to set numerous individual, league and franchise records. With the defense carrying the team despite the issues with the offense, the Broncos finished the regular season with a 12\u20134 record and earned home-field advantage throughout the AFC playoffs.", 
+        "model_prediction": "week 17 regular season finale", 
         "id": "56bf301c3aeaaa14008c954f"
     }, 
     {
@@ -40,6 +43,7 @@
             "2,249"
         ], 
         "context": "Manning finished the year with a career-low 67.9 passer rating, throwing for 2,249 yards and nine touchdowns, with 17 interceptions. In contrast, Osweiler threw for 1,967 yards, 10 touchdowns and six interceptions for a rating of 86.4. Veteran receiver Demaryius Thomas led the team with 105 receptions for 1,304 yards and six touchdowns, while Emmanuel Sanders caught 76 passes for 1,135 yards and six scores, while adding another 106 yards returning punts. Tight end Owen Daniels was also a big element of the passing game with 46 receptions for 517 yards. Running back C. J. Anderson was the team's leading rusher 863 yards and seven touchdowns, while also catching 25 passes for 183 yards. Running back Ronnie Hillman also made a big impact with 720 yards, five touchdowns, 24 receptions, and a 4.7 yards per carry average. Overall, the offense ranked 19th in scoring with 355 points and did not have any Pro Bowl selections.", 
+        "model_prediction": "25", 
         "id": "56bf38383aeaaa14008c956c"
     }, 
     {
@@ -51,6 +55,7 @@
             "Linebacker"
         ], 
         "context": "The Broncos' defense ranked first in the NFL yards allowed (4,530) for the first time in franchise history, and fourth in points allowed (296). Defensive ends Derek Wolfe and Malik Jackson each had 5\u00bd sacks. Pro Bowl linebacker Von Miller led the team with 11 sacks, forced four fumbles, and recovered three. Linebacker DeMarcus Ware was selected to play in the Pro Bowl for the ninth time in his career, ranking second on the team with 7\u00bd sacks. Linebacker Brandon Marshall led the team in total tackles with 109, while Danny Trevathan ranked second with 102. Cornerbacks Aqib Talib (three interceptions) and Chris Harris, Jr. (two interceptions) were the other two Pro Bowl selections from the defense.", 
+        "model_prediction": "total tackles with 109", 
         "id": "56bf3e803aeaaa14008c9589"
     }, 
     {
@@ -62,6 +67,7 @@
             "Gap"
         ], 
         "context": "For the first time, the Super Bowl 50 Host Committee and the NFL have openly sought disabled veteran and lesbian, gay, bisexual and transgender-owned businesses in Business Connect, the Super Bowl program that provides local companies with contracting opportunities in and around the Super Bowl. The host committee has already raised over $40 million through sponsors including Apple, Google, Yahoo!, Intel, Gap, Chevron, and Dignity Health.", 
+        "model_prediction": "business connect", 
         "id": "56bebe873aeaaa14008c9342"
     }, 
     {
@@ -73,6 +79,7 @@
             "10"
         ], 
         "context": "CBS provided digital streams of the game via CBSSports.com, and the CBS Sports apps on tablets, Windows 10, Xbox One and other digital media players (such as Chromecast and Roku). Due to Verizon Communications exclusivity, streaming on smartphones was only provided to Verizon Wireless customers via the NFL Mobile service. The ESPN Deportes Spanish broadcast was made available through WatchESPN.", 
+        "model_prediction": "digital streams", 
         "id": "56bec2013aeaaa14008c9375"
     }, 
     {
@@ -84,6 +91,7 @@
             "Gods of Egypt,"
         ], 
         "context": "20th Century Fox, Lionsgate, Paramount Pictures, Universal Studios and Walt Disney Studios paid for movie trailers to be aired during the Super Bowl. Fox paid for Deadpool, X-Men: Apocalypse, Independence Day: Resurgence and Eddie the Eagle, Lionsgate paid for Gods of Egypt, Paramount paid for Teenage Mutant Ninja Turtles: Out of the Shadows and 10 Cloverfield Lane, Universal paid for The Secret Life of Pets and the debut trailer for Jason Bourne and Disney paid for Captain America: Civil War, The Jungle Book and Alice Through the Looking Glass.[citation needed]", 
+        "model_prediction": "fox", 
         "id": "56bec4343aeaaa14008c93aa"
     }, 
     {
@@ -95,6 +103,7 @@
             "Jason Bourne"
         ], 
         "context": "20th Century Fox, Lionsgate, Paramount Pictures, Universal Studios and Walt Disney Studios paid for movie trailers to be aired during the Super Bowl. Fox paid for Deadpool, X-Men: Apocalypse, Independence Day: Resurgence and Eddie the Eagle, Lionsgate paid for Gods of Egypt, Paramount paid for Teenage Mutant Ninja Turtles: Out of the Shadows and 10 Cloverfield Lane, Universal paid for The Secret Life of Pets and the debut trailer for Jason Bourne and Disney paid for Captain America: Civil War, The Jungle Book and Alice Through the Looking Glass.[citation needed]", 
+        "model_prediction": "10 cloverfield lane", 
         "id": "56d723560d65d214001983ae"
     }, 
     {
@@ -106,6 +115,7 @@
             "Marlee Matlin"
         ], 
         "context": "Six-time Grammy winner and Academy Award nominee Lady Gaga performed the national anthem, while Academy Award winner Marlee Matlin provided American Sign Language (ASL) translation.", 
+        "model_prediction": "lady gaga", 
         "id": "56d7253b0d65d214001983d5"
     }, 
     {
@@ -117,6 +127,7 @@
             "Daniels"
         ], 
         "context": "Denver took the opening kickoff and started out strong with Peyton Manning completing an 18-yard pass to tight end Owen Daniels and a 22-yard throw to receiver Andre Caldwell. A pair of carries by C. J. Anderson moved the ball up 20 yards to the Panthers 14-yard line, but Carolina's defense dug in over the next three plays. First, linebacker Shaq Thompson tackled Ronnie Hillman for a 3-yard loss. Then after an incompletion, Thomas Davis tackled Anderson for a 1-yard gain on third down, forcing Denver to settle for a 3\u20130 lead on a Brandon McManus 34-yard field goal. The score marked the first time in the entire postseason that Carolina was facing a deficit.", 
+        "model_prediction": "andre caldwell", 
         "id": "56d9c5e7dc89441400fdb7d9"
     }, 
     {
@@ -128,6 +139,7 @@
             "sacked"
         ], 
         "context": "On Carolina's next possession fullback Mike Tolbert lost a fumble while being tackled by safety Darian Stewart, which linebacker Danny Trevathan recovered on the Broncos 40-yard line. However, the Panthers soon took the ball back when defensive end Kony Ealy tipped a Manning pass to himself and then intercepted it, returning the ball 19 yards to the Panthers 39-yard line with 1:55 left on the clock. The Panthers could not gain any yards with their possession and had to punt. After a Denver punt, Carolina drove to the Broncos 45-yard line. But with 11 seconds left, Newton was sacked by DeMarcus Ware as time expired in the half.", 
+        "model_prediction": "the", 
         "id": "56d9c79edc89441400fdb807"
     }, 
     {
@@ -139,6 +151,7 @@
             "Warsaw"
         ], 
         "context": "Today, Warsaw has some of the best medical facilities in Poland and East-Central Europe. The city is home to the Children's Memorial Health Institute (CMHI), the highest-reference hospital in all of Poland, as well as an active research and education center. While the Maria Sk\u0142odowska-Curie Institute of Oncology it is one of the largest and most modern oncological institutions in Europe. The clinical section is located in a 10-floor building with 700 beds, 10 operating theatres, an intensive care unit, several diagnostic departments as well as an outpatient clinic. The infrastructure has developed a lot over the past years.", 
+        "model_prediction": "maria skodowska-curie institute of oncology", 
         "id": "57339a554776f41900660e74"
     }, 
     {
@@ -150,6 +163,7 @@
             "captured"
         ], 
         "context": "The origin of the legendary figure is not fully known. The best-known legend, by Artur Oppman, is that long ago two of Triton's daughters set out on a journey through the depths of the oceans and seas. One of them decided to stay on the coast of Denmark and can be seen sitting at the entrance to the port of Copenhagen. The second mermaid reached the mouth of the Vistula River and plunged into its waters. She stopped to rest on a sandy beach by the village of Warszowa, where fishermen came to admire her beauty and listen to her beautiful voice. A greedy merchant also heard her songs; he followed the fishermen and captured the mermaid.", 
+        "model_prediction": "followed the fishermen", 
         "id": "5733a560d058e614000b5f7b"
     }, 
     {
@@ -161,6 +175,7 @@
             "highest terrace"
         ], 
         "context": "The plain moraine plateau has only a few natural and artificial ponds and also groups of clay pits. The pattern of the Vistula terraces is asymmetrical. The left side consist mainly of two levels: the highest one contains former flooded terraces and the lowest one the flood plain terrace. The contemporary flooded terrace still has visible valleys and ground depressions with water systems coming from the Vistula old \u2013 riverbed. They consist of still quite natural streams and lakes as well as the pattern of drainage ditches. The right side of Warsaw has a different pattern of geomorphological forms. There are several levels of the plain Vistula terraces (flooded as well as former flooded once) and only small part and not so visible moraine escarpment. Aeolian sand with a number of dunes parted by peat swamps or small ponds cover the highest terrace. These are mainly forested areas (pine forest).", 
+        "model_prediction": "peat swamps or small ponds", 
         "id": "57335ddbd058e614000b5932"
     }, 
     {
@@ -172,6 +187,7 @@
             "Pole Mokotowskie"
         ], 
         "context": "Other green spaces in the city include the Botanic Garden and the University Library garden. They have extensive botanical collection of rare domestic and foreign plants, while a palm house in the New Orangery displays plants of subtropics from all over the world. Besides, within the city borders, there are also: Pole Mokotowskie (a big park in the northern Mokot\u00f3w, where was the first horse racetrack and then the airport), Park Ujazdowski (close to the Sejm and John Lennon street), Park of Culture and Rest in Powsin, by the southern city border, Park Skaryszewski by the right Vistula bank, in Praga. The oldest park in Praga, the Praga Park, was established in 1865\u20131871 and designed by Jan Dobrowolski. In 1927 a zoological garden (Ogr\u00f3d Zoologiczny) was established on the park grounds, and in 1952 a bear run, still open today.", 
+        "model_prediction": "northern mokotw", 
         "id": "573368044776f41900660a2b"
     }, 
     {
@@ -183,6 +199,7 @@
             "711,988"
         ], 
         "context": "Throughout its existence, Warsaw has been a multi-cultural city. According to the 1901 census, out of 711,988 inhabitants 56.2% were Catholics, 35.7% Jews, 5% Greek orthodox Christians and 2.8% Protestants. Eight years later, in 1909, there were 281,754 Jews (36.9%), 18,189 Protestants (2.4%) and 2,818 Mariavites (0.4%). This led to construction of hundreds of places of religious worship in all parts of the town. Most of them were destroyed in the aftermath of the Warsaw Uprising of 1944. After the war, the new communist authorities of Poland discouraged church construction and only a small number were rebuilt.", 
+        "model_prediction": "the 1901 census", 
         "id": "57338007d058e614000b5bdb"
     }, 
     {
@@ -194,6 +211,7 @@
             "Warsaw City Council"
         ], 
         "context": "Legislative power in Warsaw is vested in a unicameral Warsaw City Council (Rada Miasta), which comprises 60 members. Council members are elected directly every four years. Like most legislative bodies, the City Council divides itself into committees which have the oversight of various functions of the city government. Bills passed by a simple majority are sent to the mayor (the President of Warsaw), who may sign them into law. If the mayor vetoes a bill, the Council has 30 days to override the veto by a two-thirds majority vote.", 
+        "model_prediction": "unicameral", 
         "id": "57338160d058e614000b5bf9"
     }, 
     {
@@ -205,6 +223,7 @@
             "fighting horsemen"
         ], 
         "context": "The Normans thereafter adopted the growing feudal doctrines of the rest of France, and worked them into a functional hierarchical system in both Normandy and in England. The new Norman rulers were culturally and ethnically distinct from the old French aristocracy, most of whom traced their lineage to Franks of the Carolingian dynasty. Most Norman knights remained poor and land-hungry, and by 1066 Normandy had been exporting fighting horsemen for more than a generation. Many Normans of Italy, France and England eventually served as avid Crusaders under the Italo-Norman prince Bohemund I and the Anglo-Norman king Richard the Lion-Heart.", 
+        "model_prediction": "land-hungry", 
         "id": "56dde2fa66d3e219004dad9b"
     }, 
     {
@@ -216,6 +235,7 @@
             "enter the priesthood"
         ], 
         "context": "In 1873, Tesla returned to his birthtown, Smiljan. Shortly after he arrived, Tesla contracted cholera; he was bedridden for nine months and was near death multiple times. Tesla's father, in a moment of despair, promised to send him to the best engineering school if he recovered from the illness (his father had originally wanted him to enter the priesthood).", 
+        "model_prediction": "despair", 
         "id": "56e0c2307aa994140058e6e2"
     }, 
     {
@@ -227,6 +247,7 @@
             "He had to work at various electrical repair jobs"
         ], 
         "context": "The investors showed little interest in Tesla's ideas for new types of motors and electrical transmission equipment and also seemed to think it was better to develop an electrical utility than invent new systems. They eventually forced Tesla out leaving him penniless. He even lost control of the patents he had generated since he had assigned them to the company in lieu of stock. He had to work at various electrical repair jobs and even as a ditch digger for $2 per day. Tesla considered the winter of 1886/1887 as a time of \"terrible headaches and bitter tears.\" During this time, he questioned the value of his education.", 
+        "model_prediction": "questioned the value of his education", 
         "id": "56e0d76d231d4119001ac42d"
     }, 
     {
@@ -238,6 +259,7 @@
             "feed the pigeons"
         ], 
         "context": "In the fall of 1937, after midnight one night, Tesla left the Hotel New Yorker to make his regular commute to the cathedral and the library to feed the pigeons. While crossing a street a couple of blocks from the hotel, Tesla was unable to dodge a moving taxicab and was thrown heavily to the ground. Tesla's back was severely wrenched and three of his ribs were broken in the accident (the full extent of his injuries will never be known; Tesla refused to consult a doctor\u2014an almost lifelong custom). Tesla didn't raise any question as to who was at fault and refused medical aid, only asking to be taken to his hotel via cab. Tesla was bedridden for some months and was unable to continue feeding pigeons from his window; soon, they failed to come. In early 1938, Tesla was able to get up. He at once resumed the pigeon-feeding walks on a much more limited scale, but frequently had a messenger act for him.", 
+        "model_prediction": "dodge a moving taxicab", 
         "id": "56e10ddce3433e1400422b48"
     }, 
     {
@@ -249,6 +271,7 @@
             "exercise"
         ], 
         "context": "For exercise, Tesla walked between 8 to 10 miles per day. He squished his toes one hundred times for each foot every night, saying that it stimulated his brain cells.", 
+        "model_prediction": "it stimulated his brain cells", 
         "id": "56e11a73e3433e1400422bf1"
     }, 
     {
@@ -260,6 +283,7 @@
             "blinding flashes of light"
         ], 
         "context": "Tesla read many works, memorizing complete books, and supposedly possessed a photographic memory.:33 He was a polyglot, speaking eight languages: Serbo-Croatian, Czech, English, French, German, Hungarian, Italian, and Latin.:282 Tesla related in his autobiography that he experienced detailed moments of inspiration. During his early life, Tesla was repeatedly stricken with illness. He suffered a peculiar affliction in which blinding flashes of light would appear before his eyes, often accompanied by visions.:33 Often, the visions were linked to a word or idea he might have come across; at other times they would provide the solution to a particular problem he had encountered. Just by hearing the name of an item, he would be able to envision it in realistic detail.:33 Tesla would visualize an invention in his mind with extreme precision, including all dimensions, before moving to the construction stage, a technique sometimes known as picture thinking. He typically did not make drawings by hand but worked from memory. Beginning in his childhood, Tesla had frequent flashbacks to events that had happened previously in his life.:33", 
+        "model_prediction": "visions", 
         "id": "56e11cedcd28a01900c675ea"
     }, 
     {
@@ -270,6 +294,7 @@
             "ether"
         ], 
         "context": "Tesla exhibited a pre-atomic understanding of physics in his writings; he disagreed with the theory of atoms being composed of smaller subatomic particles, stating there was no such thing as an electron creating an electric charge (he believed that if electrons existed at all, they were some fourth state of matter or \"sub-atom\" that could only exist in an experimental vacuum and that they had nothing to do with electricity).:249 Tesla believed that atoms are immutable\u2014they could not change state or be split in any way. He was a believer in the 19th century concept of an all pervasive \"ether\" that transmitted electrical energy.", 
+        "model_prediction": "atoms", 
         "id": "56e120a1e3433e1400422c39"
     }, 
     {
@@ -281,6 +306,7 @@
             "problem instance"
         ], 
         "context": "When considering computational problems, a problem instance is a string over an alphabet. Usually, the alphabet is taken to be the binary alphabet (i.e., the set {0,1}), and thus the strings are bitstrings. As in a real-world computer, mathematical objects other than bitstrings must be suitably encoded. For example, integers can be represented in binary notation, and graphs can be encoded directly via their adjacency matrices, or by encoding their adjacency lists in binary.", 
+        "model_prediction": "the alphabet", 
         "id": "56e181d9e3433e1400422fa0"
     }, 
     {
@@ -292,6 +318,7 @@
             "DTIME(n2)"
         ], 
         "context": "For the complexity classes defined in this way, it is desirable to prove that relaxing the requirements on (say) computation time indeed defines a bigger set of problems. In particular, although DTIME(n) is contained in DTIME(n2), it would be interesting to know if the inclusion is strict. For time and space requirements, the answer to such questions is given by the time and space hierarchy theorems respectively. They are called hierarchy theorems because they induce a proper hierarchy on the classes defined by constraining the respective resources. Thus there are pairs of complexity classes such that one is properly included in the other. Having deduced such proper set inclusions, we can proceed to make quantitative statements about how much more additional time or space is needed in order to increase the number of problems that can be solved.", 
+        "model_prediction": "dtime", 
         "id": "56e1c720e3433e140042316b"
     }, 
     {
@@ -303,6 +330,7 @@
             "reversed"
         ], 
         "context": "Along the same lines, co-NP is the class containing the complement problems (i.e. problems with the yes/no answers reversed) of NP problems. It is believed that NP is not equal to co-NP; however, it has not yet been proven. It has been shown that if these two complexity classes are not equal then P is not equal to NP.", 
+        "model_prediction": "np", 
         "id": "56e1efa0e3433e140042321b"
     }, 
     {
@@ -315,6 +343,7 @@
             "intractable"
         ], 
         "context": "Problems that can be solved in theory (e.g., given large but finite time), but which in practice take too long for their solutions to be useful, are known as intractable problems. In complexity theory, problems that lack polynomial-time solutions are considered to be intractable for more than the smallest inputs. In fact, the Cobham\u2013Edmonds thesis states that only those problems that can be solved in polynomial time can be feasibly computed on some computational device. Problems that are known to be intractable in this sense include those that are EXPTIME-hard. If NP is not the same as P, then the NP-complete problems are also intractable in this sense. To see why exponential-time algorithms might be unusable in practice, consider a program that makes 2n operations before halting. For small n, say 100, and assuming for the sake of example that the computer does 1012 operations each second, the program would run for about 4 \u00d7 1010 years, which is the same order of magnitude as the age of the universe. Even with a much faster computer, the program would only be useful for very small instances and in that sense the intractability of a problem is somewhat independent of technological progress. Nevertheless, a polynomial time algorithm is not always practical. If its running time is, say, n15, it is unreasonable to consider it efficient and it is still useless except on small instances.", 
+        "model_prediction": "theory", 
         "id": "56e1fc57e3433e140042322c"
     }, 
     {
@@ -326,6 +355,7 @@
             "field trips"
         ], 
         "context": "The objective is typically accomplished through either an informal or formal approach to learning, including a course of study and lesson plan that teaches skills, knowledge and/or thinking skills. Different ways to teach are often referred to as pedagogy. When deciding what teaching method to use teachers consider students' background knowledge, environment, and their learning goals as well as standardized curricula as determined by the relevant authority. Many times, teachers assist in learning outside of the classroom by accompanying students on field trips. The increasing use of technology, specifically the rise of the internet over the past decade, has begun to shape the way teachers approach their roles in the classroom.", 
+        "model_prediction": "pedagogy", 
         "id": "56e751fb00c9c71400d76faa"
     }, 
     {
@@ -337,6 +367,7 @@
             "deflate"
         ], 
         "context": "Teaching using pedagogy also involve assessing the educational levels of the students on particular skills. Understanding the pedagogy of the students in a classroom involves using differentiated instruction as well as supervision to meet the needs of all students in the classroom. Pedagogy can be thought of in two manners. First, teaching itself can be taught in many different ways, hence, using a pedagogy of teaching styles. Second, the pedagogy of the learners comes into play when a teacher assesses the pedagogic diversity of his/her students and differentiates for the individual students accordingly. For example, an experienced teacher and parent described the place of a teacher in learning as follows: \"The real bulk of learning takes place in self-study and problem solving with a lot of feedback around that loop. The function of the teacher is to pressure the lazy, inspire the bored, deflate the cocky, encourage the timid, detect and correct individual flaws, and broaden the viewpoint of all. This function looks like that of a coach using the whole gamut of psychology to get each new class of rookies off the bench and into the game.\"", 
+        "model_prediction": "assesses the pedagogic diversity of his/her students", 
         "id": "56e7542f00c9c71400d76fbf"
     }, 
     {
@@ -348,6 +379,7 @@
             "Wartburg Castle"
         ], 
         "context": "Luther's disappearance during his return trip back to Wittenberg was planned. Frederick III had him intercepted on his way home in the forest near Wittenberg by masked horsemen who were made to appear as armed highwaymen. They escorted Luther to the security of the Wartburg Castle at Eisenach. During his stay at Wartburg, which he referred to as \"my Patmos\", Luther translated the New Testament from Greek into German and poured out doctrinal and polemical writings. These included a renewed attack on Archbishop Albrecht of Mainz, whom he shamed into halting the sale of indulgences in his episcopates, and a \"Refutation of the Argument of Latomus,\" in which he expounded the principle of justification to Jacobus Latomus, an orthodox theologian from Louvain.", 
+        "model_prediction": "wittenberg", 
         "id": "56f82989aef2371900625e6c"
     }, 
     {
@@ -359,6 +391,7 @@
             "backing"
         ], 
         "context": "Without Luther's backing for the uprising, many rebels laid down their weapons; others felt betrayed. Their defeat by the Swabian League at the Battle of Frankenhausen on 15 May 1525, followed by M\u00fcntzer's execution, brought the revolutionary stage of the Reformation to a close. Thereafter, radicalism found a refuge in the anabaptist movement and other religious movements, while Luther's Reformation flourished under the wing of the secular powers.", 
+        "model_prediction": "down their weapons", 
         "id": "56f851b1a6d7ea1400e1755d"
     }, 
     {
@@ -370,6 +403,7 @@
             "rejected"
         ], 
         "context": "In contrast to the views of John Calvin and Philipp Melanchthon, throughout his life Luther maintained that it was not false doctrine to believe that a Christian's soul sleeps after it is separated from the body in death; and, accordingly, he disputed traditional interpretations of some Bible passages, such as the parable of the rich man and Lazarus. This also led Luther to reject the idea of torments for the saints: \"It is enough for us to know that souls do not leave their bodies to be threatened by the torments and punishments of hell, but enter a prepared bedchamber in which they sleep in peace.\" He also rejected the existence of Purgatory, which involved Christian souls undergoing penitential suffering after death. He affirmed the continuity of one's personal identity beyond death. In his Smalcald Articles, he described the saints as currently residing \"in their graves and in heaven.\"", 
+        "model_prediction": "christian souls undergoing penitential suffering death", 
         "id": "56f8837aa6d7ea1400e17700"
     }, 
     {
@@ -381,6 +415,7 @@
             "Luther"
         ], 
         "context": "Other scholars argue that, even if his views were merely anti-Judaic\u2014that is, opposed to Judaism and its adherence rather than the Jews as an ethnic group\u2014their violence lent a new element to the standard Christian suspicion of Judaism. Ronald Berger writes that Luther is credited with \"Germanizing the Christian critique of Judaism and establishing anti-Semitism as a key element of German culture and national identity.\" Paul Rose argues that he caused a \"hysterical and demonizing mentality\" about Jews to enter German thought and discourse, a mentality that might otherwise have been absent. Christopher J. Probst in his book Demonizing the Jews: Luther and the Protestant Church in Nazi Germany (2012), shows that a large number of German Lutheran clergy and theologians during the Nazi Third Reich used Luther's hostile publications towards the Jews and their Jewish religion to justify at least in part the anti-Semitic policies of the National Socialists.", 
+        "model_prediction": "paul rose", 
         "id": "56f8bbb09e9bad19000a03de"
     }, 
     {
@@ -392,6 +427,7 @@
             "San Diego"
         ], 
         "context": "Los Angeles (at 3.7 million people) and San Diego (at 1.3 million people), both in southern California, are the two largest cities in all of California (and two of the eight largest cities in the United States). In southern California there are also twelve cities with more than 200,000 residents and 34 cities over 100,000 in population. Many of southern California's most developed cities lie along or in close proximity to the coast, with the exception of San Bernardino and Riverside.", 
+        "model_prediction": "200,000", 
         "id": "570607f575f01819005e78b5"
     }, 
     {
@@ -403,6 +439,7 @@
             "flattened"
         ], 
         "context": "BSkyB's direct-to-home satellite service became available in 10 million homes in 2010, Europe's first pay-TV platform in to achieve that milestone. Confirming it had reached its target, the broadcaster said its reach into 36% of households in the UK represented an audience of more than 25m people. The target was first announced in August 2004, since then an additional 2.4m customers had subscribed to BSkyB's direct-to-home service. Media commentators had debated whether the figure could be reached as the growth in subscriber numbers elsewhere in Europe flattened.", 
+        "model_prediction": "europe", 
         "id": "57097b50200fba1400368051"
     }, 
     {
@@ -414,6 +451,7 @@
             "168,637"
         ], 
         "context": "About 61.1% of Victorians describe themselves as Christian. Roman Catholics form the single largest religious group in the state with 26.7% of the Victorian population, followed by Anglicans and members of the Uniting Church. Buddhism is the state's largest non-Christian religion, with 168,637 members as of the most recent census. Victoria is also home of 152,775 Muslims and 45,150 Jews. Hinduism is the fastest growing religion. Around 20% of Victorians claim no religion. Amongst those who declare a religious affiliation, church attendance is low.", 
+        "model_prediction": "61.1 %", 
         "id": "570d29c2b3d812140066d4c0"
     }, 
     {
@@ -425,6 +463,7 @@
             "1629"
         ], 
         "context": "Montpellier was among the most important of the 66 \"villes de s\u00fbret\u00e9\" that the Edict of 1598 granted to the Huguenots. The city's political institutions and the university were all handed over to the Huguenots. Tension with Paris led to a siege by the royal army in 1622. Peace terms called for the dismantling of the city's fortifications. A royal citadel was built and the university and consulate were taken over by the Catholic party. Even before the Edict of Al\u00e8s (1629), Protestant rule was dead and the ville de s\u00fbret\u00e9 was no more.[citation needed]", 
+        "model_prediction": "1598", 
         "id": "57106d2fb654c5140001f8f3"
     }, 
     {
@@ -436,6 +475,7 @@
             "Alsace"
         ], 
         "context": "Approximately one million Protestants in modern France represent some 2% of its population. Most are concentrated in Alsace in northeast France and the C\u00e9vennes mountain region in the south, who still regard themselves as Huguenots to this day.[citation needed] A diaspora of French Australians still considers itself Huguenot, even after centuries of exile. Long integrated into Australian society, it is encouraged by the Huguenot Society of Australia to embrace and conserve its cultural heritage, aided by the Society's genealogical research services.", 
+        "model_prediction": "huguenot", 
         "id": "57108198b654c5140001f939"
     }, 
     {
@@ -447,6 +487,7 @@
             "William of Orange"
         ], 
         "context": "Following the French Crown's revocation of the Edict of Nantes, many Huguenots settled in Ireland in the late 17th and early 18th centuries, encouraged by an act of parliament for Protestants' settling in Ireland. Huguenot regiments fought for William of Orange in the Williamite war in Ireland, for which they were rewarded with land grants and titles, many settling in Dublin. Significant Huguenot settlements were in Dublin, Cork, Portarlington, Lisburn, Waterford and Youghal. Smaller settlements, which included Killeshandra in County Cavan, contributed to the expansion of flax cultivation and the growth of the Irish linen industry.", 
+        "model_prediction": "protestants crown", 
         "id": "5710f2e2a58dae1900cd6b73"
     }, 
     {
@@ -458,6 +499,7 @@
             "glass-making"
         ], 
         "context": "Prince Louis de Cond\u00e9, along with his sons Daniel and Osias,[citation needed] arranged with Count Ludwig von Nassau-Saarbr\u00fccken to establish a Huguenot community in present-day Saarland in 1604. The Count supported mercantilism and welcomed technically skilled immigrants into his lands, regardless of their religion. The Cond\u00e9s established a thriving glass-making works, which provided wealth to the principality for many years. Other founding families created enterprises based on textiles and such traditional Huguenot occupations in France. The community and its congregation remain active to this day, with descendants of many of the founding families still living in the region. Some members of this community emigrated to the United States in the 1890s.", 
+        "model_prediction": "huguenot community", 
         "id": "5710f4b8b654c5140001fa47"
     }, 
     {
@@ -469,6 +511,7 @@
             "adapted quickly and often married outside their immediate French communities"
         ], 
         "context": "Most of the Huguenot congregations (or individuals) in North America eventually affiliated with other Protestant denominations with more numerous members. The Huguenots adapted quickly and often married outside their immediate French communities, which led to their assimilation. Their descendants in many families continued to use French first names and surnames for their children well into the nineteenth century. Assimilated, the French made numerous contributions to United States economic life, especially as merchants and artisans in the late Colonial and early Federal periods. For example, E.I. du Pont, a former student of Lavoisier, established the Eleutherian gunpowder mills.", 
+        "model_prediction": "the huguenots", 
         "id": "57111713a58dae1900cd6c01"
     }, 
     {
@@ -480,6 +523,7 @@
             "lower-pressure boiler feed water"
         ], 
         "context": "The Rankine cycle and most practical steam engines have a water pump to recycle or top up the boiler water, so that they may be run continuously. Utility and industrial boilers commonly use multi-stage centrifugal pumps; however, other types are used. Another means of supplying lower-pressure boiler feed water is an injector, which uses a steam jet usually supplied from the boiler. Injectors became popular in the 1850s but are no longer widely used, except in applications such as steam locomotives.", 
+        "model_prediction": "multi-stage centrifugal pumps", 
         "id": "571135b8a58dae1900cd6d12"
     }, 
     {
@@ -491,6 +535,7 @@
             "four"
         ], 
         "context": "The acme of the horizontal engine was the Corliss steam engine, patented in 1849, which was a four-valve counter flow engine with separate steam admission and exhaust valves and automatic variable steam cutoff. When Corliss was given the Rumford medal the committee said that \"no one invention since Watt's time has so enhanced the efficiency of the steam engine\". In addition to using 30% less steam, it provided more uniform speed due to variable steam cut off, making it well suited to manufacturing, especially cotton spinning.", 
+        "model_prediction": "exhaust", 
         "id": "5711628a2419e314009555df"
     }, 
     {
@@ -500,6 +545,7 @@
             "pure O"
         ], 
         "context": "Concentrated O\n2 will allow combustion to proceed rapidly and energetically. Steel pipes and storage vessels used to store and transmit both gaseous and liquid oxygen will act as a fuel; and therefore the design and manufacture of O\n2 systems requires special training to ensure that ignition sources are minimized. The fire that killed the Apollo 1 crew in a launch pad test spread so rapidly because the capsule was pressurized with pure O\n2 but at slightly more than atmospheric pressure, instead of the 1\u20443 normal pressure that would be used in a mission.[k]", 
+        "model_prediction": "combustion", 
         "id": "571a52cb4faf5e1900b8a968"
     }, 
     {
@@ -513,6 +559,7 @@
             "silicates (in silicate minerals)"
         ], 
         "context": "Oxygen is present in the atmosphere in trace quantities in the form of carbon dioxide (CO\n2). The Earth's crustal rock is composed in large part of oxides of silicon (silica SiO\n2, as found in granite and quartz), aluminium (aluminium oxide Al\n2O\n3, in bauxite and corundum), iron (iron(III) oxide Fe\n2O\n3, in hematite and rust), and calcium carbonate (in limestone). The rest of the Earth's crust is also made of oxygen compounds, in particular various complex silicates (in silicate minerals). The Earth's mantle, of much larger mass than the crust, is largely composed of silicates of magnesium and iron.", 
+        "model_prediction": "oxygen compounds", 
         "id": "571ce7f25efbb31900334e42"
     }, 
     {
@@ -526,6 +573,7 @@
             "azote"
         ], 
         "context": "In one experiment, Lavoisier observed that there was no overall increase in weight when tin and air were heated in a closed container. He noted that air rushed in when he opened the container, which indicated that part of the trapped air had been consumed. He also noted that the tin had increased in weight and that increase was the same as the weight of the air that rushed back in. This and other experiments on combustion were documented in his book Sur la combustion en g\u00e9n\u00e9ral, which was published in 1777. In that work, he proved that air is a mixture of two gases; 'vital air', which is essential to combustion and respiration, and azote (Gk. \u1f04\u03b6\u03c9\u03c4\u03bf\u03bd \"lifeless\"), which did not support either. Azote later became nitrogen in English, although it has kept the name in French and several other European languages.", 
+        "model_prediction": "part of the trapped air", 
         "id": "571c8eb9dd7acb1400e4c0fa"
     }, 
     {
@@ -539,6 +587,7 @@
             "lung tissue"
         ], 
         "context": "Trioxygen (O\n3) is usually known as ozone and is a very reactive allotrope of oxygen that is damaging to lung tissue. Ozone is produced in the upper atmosphere when O\n2 combines with atomic oxygen made by the splitting of O\n2 by ultraviolet (UV) radiation. Since ozone absorbs strongly in the UV region of the spectrum, the ozone layer of the upper atmosphere functions as a protective radiation shield for the planet. Near the Earth's surface, it is a pollutant formed as a by-product of automobile exhaust. The metastable molecule tetraoxygen (O\n4) was discovered in 2001, and was assumed to exist in one of the six phases of solid oxygen. It was proven in 2006 that this phase, created by pressurizing O\n2 to 20 GPa, is in fact a rhombohedral O\n8 cluster. This cluster has the potential to be a much more powerful oxidizer than either O\n2 or O\n3 and may therefore be used in rocket fuel. A metallic phase was discovered in 1990 when solid oxygen is subjected to a pressure of above 96 GPa and it was shown in 1998 that at very low temperatures, this phase becomes superconducting.", 
+        "model_prediction": "oxygen", 
         "id": "571c9074dd7acb1400e4c102"
     }, 
     {
@@ -550,6 +599,7 @@
             "recreational"
         ], 
         "context": "Oxygen, as a supposed mild euphoric, has a history of recreational use in oxygen bars and in sports. Oxygen bars are establishments, found in Japan, California, and Las Vegas, Nevada since the late 1990s that offer higher than normal O\n2 exposure for a fee. Professional athletes, especially in American football, also sometimes go off field between plays to wear oxygen masks in order to get a \"boost\" in performance. The pharmacological effect is doubtful; a placebo effect is a more likely explanation. Available studies support a performance boost from enriched O\n2 mixtures only if they are breathed during aerobic exercise.", 
+        "model_prediction": "as a supposed mild euphoric", 
         "id": "571cd11add7acb1400e4c16e"
     }, 
     {
@@ -562,6 +612,7 @@
             "specially insulated tankers"
         ], 
         "context": "Oxygen storage methods include high pressure oxygen tanks, cryogenics and chemical compounds. For reasons of economy, oxygen is often transported in bulk as a liquid in specially insulated tankers, since one liter of liquefied oxygen is equivalent to 840 liters of gaseous oxygen at atmospheric pressure and 20 \u00b0C (68 \u00b0F). Such tankers are used to refill bulk liquid oxygen storage containers, which stand outside hospitals and other institutions with a need for large volumes of pure oxygen gas. Liquid oxygen is passed through heat exchangers, which convert the cryogenic liquid into gas before it enters the building. Oxygen is also stored and shipped in smaller cylinders containing the compressed gas; a form that is useful in certain portable medical applications and oxy-fuel welding and cutting.", 
+        "model_prediction": "liquid cylinders", 
         "id": "571cda1bdd7acb1400e4c198"
     }, 
     {
@@ -574,6 +625,7 @@
             "important"
         ], 
         "context": "Among the most important classes of organic compounds that contain oxygen are (where \"R\" is an organic group): alcohols (R-OH); ethers (R-O-R); ketones (R-CO-R); aldehydes (R-CO-H); carboxylic acids (R-COOH); esters (R-COO-R); acid anhydrides (R-CO-O-CO-R); and amides (R-C(O)-NR\n2). There are many important organic solvents that contain oxygen, including: acetone, methanol, ethanol, isopropanol, furan, THF, diethyl ether, dioxane, ethyl acetate, DMF, DMSO, acetic acid, and formic acid. Acetone ((CH\n3)\n2CO) and phenol (C\n6H\n5OH) are used as feeder materials in the synthesis of many different substances. Other important organic compounds that contain oxygen are: glycerol, formaldehyde, glutaraldehyde, citric acid, acetic anhydride, and acetamide. Epoxides are ethers in which the oxygen atom is part of a ring of three atoms.", 
+        "model_prediction": "glycerol , formaldehyde , glutaraldehyde , citric acid , acetic anhydride , and acetamide", 
         "id": "571cdcb85efbb31900334e10"
     }, 
     {
@@ -587,6 +639,7 @@
             "1.4 times normal"
         ], 
         "context": "Breathing pure O\n2 in space applications, such as in some modern space suits, or in early spacecraft such as Apollo, causes no damage due to the low total pressures used. In the case of spacesuits, the O\n2 partial pressure in the breathing gas is, in general, about 30 kPa (1.4 times normal), and the resulting O\n2 partial pressure in the astronaut's arterial blood is only marginally more than normal sea-level O\n2 partial pressure (for more information on this, see space suit and arterial blood gas).", 
+        "model_prediction": "marginally", 
         "id": "571ce5055efbb31900334e2c"
     }, 
     {
@@ -600,6 +653,7 @@
             "The system limited the price of \"old oil\""
         ], 
         "context": "Price controls exacerbated the crisis in the US. The system limited the price of \"old oil\" (that which had already been discovered) while allowing newly discovered oil to be sold at a higher price to encourage investment. Predictably, old oil was withdrawn from the market, creating greater scarcity. The rule also discouraged development of alternative energies. The rule had been intended to promote oil exploration. Scarcity was addressed by rationing (as in many countries). Motorists faced long lines at gas stations beginning in summer 1972 and increasing by summer 1973.", 
+        "model_prediction": "greater scarcity", 
         "id": "57264cac708984140094c1b5"
     }, 
     {
@@ -612,6 +666,7 @@
             "power windows"
         ], 
         "context": "Some buyers lamented the small size of the first Japanese compacts, and both Toyota and Nissan (then known as Datsun) introduced larger cars such as the Toyota Corona Mark II, the Toyota Cressida, the Mazda 616 and Datsun 810, which added passenger space and amenities such as air conditioning, power steering, AM-FM radios, and even power windows and central locking without increasing the price of the vehicle. A decade after the 1973 oil crisis, Honda, Toyota and Nissan, affected by the 1981 voluntary export restraints, opened US assembly plants and established their luxury divisions (Acura, Lexus and Infiniti, respectively) to distinguish themselves from their mass-market brands.", 
+        "model_prediction": "am-fm radios", 
         "id": "572659535951b619008f7041"
     }, 
     {
@@ -625,6 +680,7 @@
             "AS-205/208"
         ], 
         "context": "In December 1966, the AS-205 mission was canceled, since the validation of the CSM would be accomplished on the 14-day first flight, and AS-205 would have been devoted to space experiments and contribute no new engineering knowledge about the spacecraft. Its Saturn IB was allocated to the dual mission, now redesignated AS-205/208 or AS-258, planned for August 1967. McDivitt, Scott and Schweickart were promoted to the prime AS-258 crew, and Schirra, Eisele and Cunningham were reassigned as the Apollo 1 backup crew.", 
+        "model_prediction": "saturn ib", 
         "id": "5725d94bec44d21400f3d69d"
     }, 
     {
@@ -638,6 +694,7 @@
             "Gemini"
         ], 
         "context": "The G mission was achieved on Apollo 11 in July 1969 by an all-Gemini veteran crew consisting of Neil Armstrong, Michael Collins and Buzz Aldrin. Armstrong and Aldrin performed the first landing at the Sea of Tranquility at 20:17:40 UTC on July 20, 1969. They spent a total of 21 hours, 36 minutes on the surface, and spent 2 hours, 31 minutes outside the spacecraft, walking on the surface, taking photographs, collecting material samples, and deploying automated scientific instruments, while continuously sending black-and-white television back to Earth. The astronauts returned safely on July 24.", 
+        "model_prediction": "sea of tranquility", 
         "id": "5725e36f89a1e219009ac038"
     }, 
     {
@@ -651,6 +708,7 @@
             "KREEP"
         ], 
         "context": "The rocks collected from the Moon are extremely old compared to rocks found on Earth, as measured by radiometric dating techniques. They range in age from about 3.2 billion years for the basaltic samples derived from the lunar maria, to about 4.6 billion years for samples derived from the highlands crust. As such, they represent samples from a very early period in the development of the Solar System, that are largely absent on Earth. One important rock found during the Apollo Program is dubbed the Genesis Rock, retrieved by astronauts David Scott and James Irwin during the Apollo 15 mission. This anorthosite rock is composed almost exclusively of the calcium-rich feldspar mineral anorthite, and is believed to be representative of the highland crust. A geochemical component called KREEP was discovered, which has no known terrestrial counterpart. KREEP and the anorthositic samples have been used to infer that the outer portion of the Moon was once completely molten (see lunar magma ocean).", 
+        "model_prediction": "genesis rock", 
         "id": "5725ea6889a1e219009ac0a0"
     }, 
     {
@@ -663,6 +721,7 @@
             "the referendum in France and the referendum in the Netherlands"
         ], 
         "context": "Following the Nice Treaty, there was an attempt to reform the constitutional law of the European Union and make it more transparent; this would have also produced a single constitutional document. However, as a result of the referendum in France and the referendum in the Netherlands, the 2004 Treaty establishing a Constitution for Europe never came into force. Instead, the Lisbon Treaty was enacted. Its substance was very similar to the proposed constitutional treaty, but it was formally an amending treaty, and \u2013 though it significantly altered the existing treaties \u2013 it did not completely replace them.", 
+        "model_prediction": "2004", 
         "id": "57268f2bf1498d1400e8e3c6"
     }, 
     {
@@ -673,6 +732,7 @@
             "tree growth"
         ], 
         "context": "To accurately map the Amazon's biomass and subsequent carbon related emissions, the classification of tree growth stages within different parts of the forest is crucial. In 2006 Tatiana Kuplich organized the trees of the Amazon into four categories: (1) mature forest, (2) regenerating forest [less than three years], (3) regenerating forest [between three and five years of regrowth], and (4) regenerating forest [eleven to eighteen years of continued development]. The researcher used a combination of Synthetic aperture radar (SAR) and Thematic Mapper (TM) to accurately place the different portions of the Amazon into one of the four classifications.", 
+        "model_prediction": "synthetic aperture radar ( sar ) and thematic mapper ( tm )", 
         "id": "572a09abaf94a219006aa75b"
     }, 
     {
@@ -684,6 +744,7 @@
             "rats and fleas"
         ], 
         "context": "The historian Francis Aidan Gasquet wrote about the 'Great Pestilence' in 1893 and suggested that \"it would appear to be some form of the ordinary Eastern or bubonic plague\". He was able to adopt the epidemiology of the bubonic plague for the Black Death for the second edition in 1908, implicating rats and fleas in the process, and his interpretation was widely accepted for other ancient and medieval epidemics, such as the Justinian plague that was prevalent in the Eastern Roman Empire from 541 to 700 CE.", 
+        "model_prediction": "'great pestilence", 
         "id": "57264cc6dd62a815002e80e7"
     }, 
     {
@@ -695,6 +756,7 @@
             "Continual motion along the fault"
         ], 
         "context": "The addition of new rock units, both depositionally and intrusively, often occurs during deformation. Faulting and other deformational processes result in the creation of topographic gradients, causing material on the rock unit that is increasing in elevation to be eroded by hillslopes and channels. These sediments are deposited on the rock unit that is going down. Continual motion along the fault maintains the topographic gradient in spite of the movement of sediment, and continues to create accommodation space for the material to deposit. Deformational events are often also associated with volcanism and igneous activity. Volcanic ashes and lavas accumulate on the surface, and igneous intrusions enter from below. Dikes, long, planar igneous intrusions, enter along cracks, and therefore often form in large numbers in areas that are being actively deformed. This can result in the emplacement of dike swarms, such as those that are observable across the Canadian shield, or rings of dikes around the lava tube of a volcano.", 
+        "model_prediction": "deformational processes", 
         "id": "572673f5708984140094c69e"
     }, 
     {
@@ -706,6 +768,7 @@
             "2007"
         ], 
         "context": "In 2010, Newcastle was positioned ninth in the retail centre expenditure league of the UK. There are several major shopping areas in Newcastle City Centre. The largest of these is the Eldon Square Shopping Centre, one of the largest city centre shopping complexes in the UK. It incorporates a flagship Debenhams store as well as one of the largest John Lewis stores in the UK. John Lewis is still known to many in Newcastle as Bainbridges. Newcastle store Bainbridge's, opened in 1838, is often cited as the world\u2019s first department store. Emerson Bainbridge (1817\u20131892), a pioneer and the founder of Bainbridges, sold goods via department, a new for merchant custom for that time. The Bainbridge\u2019s official ledgers reported revenue by department, giving birth to the name department store. Eldon Square is currently undergoing a full redevelopment. A new bus station, replacing the old underground bus station, was officially opened in March 2007. The wing of the centre, including the undercover Green Market, near Grainger Street was demolished in 2007 so that the area could be redeveloped. This was completed in February 2010 with the opening of a flagship Debenhams department store as well as other major stores including Apple, Hollister and Guess.", 
+        "model_prediction": "the new bus station in replacing the old underground bus station", 
         "id": "572674f6f1498d1400e8e03e"
     }, 
     {
@@ -717,6 +780,7 @@
             "Venom"
         ], 
         "context": "Lindisfarne are a folk-rock group with a strong Tyneside connection. Their most famous song, \"Fog on the Tyne\" (1971), was covered by Geordie ex-footballer Paul Gascoigne in 1990. Venom, reckoned by many to be the originators of black metal and extremely influential to the extreme metal scene as a whole, formed in Newcastle in 1979. Folk metal band Skyclad, often regarded as the first folk metal band, also formed in Newcastle after the break-up of Martin Walkyier thrash metal band, Sabbat. Andy Taylor, former lead guitarist of Duran Duran was born here in 1961. Brian Johnson was a member of local rock band Geordie before becoming the lead vocalist of AC/DC.", 
+        "model_prediction": "skyclad", 
         "id": "5726847f708984140094c8ad"
     }, 
     {
@@ -728,6 +792,7 @@
             "A bridge"
         ], 
         "context": "The city is served by the Tyne and Wear Metro, a system of suburban and underground railways covering much of Tyne and Wear. It was opened in five phases between 1980 and 1984, and was Britain's first urban light rail transit system; two extensions were opened in 1991 and 2002. It was developed from a combination of existing and newly built tracks and stations, with deep-level tunnels constructed through Newcastle city centre. A bridge was built across the Tyne, between Newcastle and Gateshead, and opened by Queen Elizabeth II in 1981. The network is operated by DB Regio on behalf of Nexus and carries over 37 million passengers a year, extending as far as Newcastle Airport, Tynemouth, South Shields and South Hylton in Sunderland. In 2004, the company Marconi designed and constructed the mobile radio system to the underground Metro system. The Metro system was the first in the UK to have mobile phone antennae installed in the tunnels.", 
+        "model_prediction": "the mobile radio system", 
         "id": "57268a8fdd62a815002e88d1"
     }, 
     {
@@ -739,6 +804,7 @@
             "Zaha Hadid"
         ], 
         "context": "Not only are all the major British architects of the last four hundred years represented, but many European (especially Italian) and American architects' drawings are held in the collection. The RIBA's holdings of over 330 drawings by Andrea Palladio are the largest in the world, other Europeans well represented are Jacques Gentilhatre and Antonio Visentini. British architects whose drawings, and in some cases models of their buildings, in the collection, include: Inigo Jones, Sir Christopher Wren, Sir John Vanbrugh, Nicholas Hawksmoor, William Kent, James Gibbs, Robert Adam, Sir William Chambers, James Wyatt, Henry Holland, John Nash, Sir John Soane, Sir Charles Barry, Charles Robert Cockerell, Augustus Welby Northmore Pugin, Sir George Gilbert Scott, John Loughborough Pearson, George Edmund Street, Richard Norman Shaw, Alfred Waterhouse, Sir Edwin Lutyens, Charles Rennie Mackintosh, Charles Holden, Frank Hoar, Lord Richard Rogers, Lord Norman Foster, Sir Nicholas Grimshaw, Zaha Hadid and Alick Horsnell.", 
+        "model_prediction": "john loughborough pearson", 
         "id": "5726b6e05951b619008f7b9a"
     }, 
     {
@@ -750,6 +816,7 @@
             "Thailand"
         ], 
         "context": "The smaller galleries cover Korea, the Himalayan kingdoms and South East Asia. Korean displays include green-glazed ceramics, silk embroideries from officials' robes and gleaming boxes inlaid with mother-of-pearl made between 500 AD and 2000. Himalayan items include important early Nepalese bronze sculptures, repouss\u00e9 work and embroidery. Tibetan art from the 14th to the 19th century is represented by notable 14th- and 15th-century religious images in wood and bronze, scroll paintings and ritual objects. Art from Thailand, Burma, Cambodia, Indonesia and Sri Lanka in gold, silver, bronze, stone, terracotta and ivory represents these rich and complex cultures, the displays span the 6th to 19th centuries. Refined Hindu and Buddhist sculptures reflect the influence of India; items on show include betel-nut cutters, ivory combs and bronze palanquin hooks.", 
+        "model_prediction": "south east asia", 
         "id": "5726c80c5951b619008f7de8"
     }, 
     {
@@ -761,6 +828,7 @@
             "Encoded Archival Description (EAD)"
         ], 
         "context": "The National Art Library (also called Word and Image Department) at the Victoria and Albert Museum collection catalog used to be kept in different formats including printed exhibit catalogs, and card catalogs. A computer system called MODES cataloging system was used from the 1980s to the 1990s, but those electronic files were not available to the library users. All of the archival material at the National Art Library is using Encoded Archival Description (EAD). The Victoria and Albert Museum has a computer system but most of the items in the collection, unless those were newly accessioned into the collection, probably do not show up in the computer system. There is a feature on the Victoria and Albert Museum web-site called \"Search the Collections,\" but not everything is listed there.", 
+        "model_prediction": "modes cataloging system", 
         "id": "5726ce11f1498d1400e8ebc6"
     }, 
     {
@@ -772,6 +840,7 @@
             "All"
         ], 
         "context": "The sculpture collection at the V&A is the most comprehensive holding of post-classical European sculpture in the world. There are approximately 22,000 objects in the collection that cover the period from about 400 AD to 1914. This covers among other periods Byzantine and Anglo Saxon ivory sculptures, British, French and Spanish medieval statues and carvings, the Renaissance, Baroque, Neo-Classical, Victorian and Art Nouveau periods. All uses of sculpture are represented, from tomb and memorial, to portrait, allegorical, religious, mythical, statues for gardens including fountains, as well as architectural decorations. Materials used include, marble, alabaster, stone, terracotta, wood (history of wood carving), ivory, gesso, plaster, bronze, lead and ceramics.", 
+        "model_prediction": "from tomb and memorial , to portrait , allegorical , religious , mythical , statues for gardens", 
         "id": "5726fb18dd62a815002e96d1"
     }, 
     {
@@ -783,6 +852,7 @@
             "Rodin"
         ], 
         "context": "Rodin is represented by more than 20 works in the museum collection, making it one of the largest collections of the sculptor's work outside France; these were given to the museum by the sculptor in 1914, as acknowledgement of Britain's support of France in World War I, although the statue of St John the Baptist had been purchased in 1902 by public subscription. Other French sculptors with work in the collection are Hubert Le Sueur, Fran\u00e7ois Girardon, Michel Clodion, Jean-Antoine Houdon, Jean-Baptiste Carpeaux and Jules Dalou.", 
+        "model_prediction": "the museum", 
         "id": "5726fe95dd62a815002e9733"
     }, 
     {
@@ -794,6 +864,7 @@
             "both British and Europeans"
         ], 
         "context": "Sculptors both British and Europeans who were based in Britain and whose work is in the collection include Nicholas Stone, Caius Gabriel Cibber, Grinling Gibbons, John Michael Rysbrack, Louis-Fran\u00e7ois Roubiliac, Peter Scheemakers, Sir Henry Cheere, Agostino Carlini, Thomas Banks, Joseph Nollekens, Joseph Wilton, John Flaxman, Sir Francis Chantrey, John Gibson, Edward Hodges Baily, Lord Leighton, Alfred Stevens, Thomas Brock, Alfred Gilbert, George Frampton, and Eric Gill. A sample of some of these sculptors' work is on display in the British Galleries.", 
+        "model_prediction": "sculptors", 
         "id": "572700c8dd62a815002e976d"
     }, 
     {
@@ -805,6 +876,7 @@
             "Happy Endings"
         ], 
         "context": "The network's troubles with sustaining existing series and gaining new hits spilled over into its 2010\u201311 schedule: ABC's dramas during that season continued to fail, with the midseason forensic investigation drama Body of Proof being the only one that was renewed for a second season. The network also struggled to establish new comedies to support the previous year's debuts, with only late-season premiere Happy Endings earning a second season. Meanwhile, the new lows hit by Brothers & Sisters led to its cancellation, and the previous year's only drama renewal, V, also failed to earn another season after a low-rated midseason run. Despite this and another noticeable ratings decline, ABC would manage to outrate NBC for third place by a larger margin than the previous year.", 
+        "model_prediction": "body of proof", 
         "id": "57275743f1498d1400e8f681"
     }, 
     {
@@ -816,6 +888,7 @@
             "10% and 18%"
         ], 
         "context": "It was not until the late 1950s that the ABC network became a serious contender to NBC and CBS, and this was in large part due to the diverse range of programming that met the expectations of the public, such as westerns and detective series. Despite an almost 500% increase in advertising revenues between 1953 and 1958, the network only had a national reach of between 10% and 18% of the total U.S. population, as it still had relatively fewer affiliates than NBC and CBS. In 1957, ABC Entertainment president Ollie Treiz discovered that the locally produced variety show Bandstand had pulled very strong ratings in the Philadelphia market on WFIL-TV; Treiz ultimately negotiated a deal to take the show national, under the revised title American Bandstand; the show quickly became a social phenomenon by presenting new musical talent and dances to America's youth and helped make a star out of its host, Dick Clark.", 
+        "model_prediction": "500 %", 
         "id": "5727780a5951b619008f8a9f"
     }, 
     {
@@ -827,6 +900,7 @@
             "Subutai"
         ], 
         "context": "The next direct threat to Tem\u00fcjin was the Naimans (Naiman Mongols), with whom Jamukha and his followers took refuge. The Naimans did not surrender, although enough sectors again voluntarily sided with Tem\u00fcjin. In 1201, a khuruldai elected Jamukha as G\u00fcr Khan, \"universal ruler\", a title used by the rulers of the Qara Khitai. Jamukha's assumption of this title was the final breach with Tem\u00fcjin, and Jamukha formed a coalition of tribes to oppose him. Before the conflict, however, several generals abandoned Jamukha, including Subutai, Jelme's well-known younger brother. After several battles, Jamukha was finally turned over to Tem\u00fcjin by his own men in 1206.", 
+        "model_prediction": "jamukha", 
         "id": "5726b0985951b619008f7a94"
     }, 
     {
@@ -838,6 +912,7 @@
             "the road back to Samarkand"
         ], 
         "context": "The Mongols learned from captives of the abundant green pastures beyond the Bulgar territory, allowing for the planning for conquest of Hungary and Europe. Genghis Khan recalled Subutai back to Mongolia soon afterwards, and Jebe died on the road back to Samarkand. The famous cavalry expedition led by Subutai and Jebe, in which they encircled the entire Caspian Sea defeating all armies in their path, remains unparalleled to this day, and word of the Mongol triumphs began to trickle to other nations, particularly Europe. These two campaigns are generally regarded as reconnaissance campaigns that tried to get the feel of the political and cultural elements of the regions. In 1225 both divisions returned to Mongolia. These invasions added Transoxiana and Persia to an already formidable empire while destroying any resistance along the way. Later under Genghis Khan's grandson Batu and the Golden Horde, the Mongols returned to conquer Volga Bulgaria and Kievan Rus' in 1237, concluding the campaign in 1240.", 
+        "model_prediction": "mongolia", 
         "id": "57272bcb5951b619008f8687"
     }, 
     {
@@ -849,6 +924,7 @@
             "Urgench"
         ], 
         "context": "Jochi died in 1226, during his father's lifetime. Some scholars, notably Ratchnevsky, have commented on the possibility that Jochi was secretly poisoned by an order from Genghis Khan. Rashid al-Din reports that the great Khan sent for his sons in the spring of 1223, and while his brothers heeded the order, Jochi remained in Khorasan. Juzjani suggests that the disagreement arose from a quarrel between Jochi and his brothers in the siege of Urgench. Jochi had attempted to protect Urgench from destruction, as it belonged to territory allocated to him as a fief. He concludes his story with the clearly apocryphal statement by Jochi: \"Genghis Khan is mad to have massacred so many people and laid waste so many lands. I would be doing a service if I killed my father when he is hunting, made an alliance with Sultan Muhammad, brought this land to life and gave assistance and support to the Muslims.\" Juzjani claims that it was in response to hearing of these plans that Genghis Khan ordered his son secretly poisoned; however, as Sultan Muhammad was already dead in 1223, the accuracy of this story is questionable.", 
+        "model_prediction": "khorasan", 
         "id": "5727311d5951b619008f86ad"
     }, 
     {
@@ -860,6 +936,7 @@
             "Jin dynasty"
         ], 
         "context": "Genghis Khan realised that he needed people who could govern cities and states conquered by him. He also realised that such administrators could not be found among his Mongol people because they were nomads and thus had no experience governing cities. For this purpose Genghis Khan invited a Khitan prince, Chu'Tsai, who worked for the Jin and had been captured by the Mongol army after the Jin dynasty was defeated. Jin had captured power by displacing Khitan. Genghis told Chu'Tsai, who was a lineal descendant of Khitan rulers, that he had avenged Chu'Tsai's forefathers. Chu'Tsai responded that his father served the Jin dynasty honestly and so did he; also he did not consider his own father his enemy, so the question of revenge did not apply. This reply impressed Genghis Khan. Chu'Tsai administered parts of the Mongol Empire and became a confidant of the successive Mongol Khans.", 
+        "model_prediction": "the mongol army", 
         "id": "57273b1a5951b619008f870b"
     }, 
     {
@@ -871,6 +948,7 @@
             "his butchery"
         ], 
         "context": "In the early 1990s the memory of Genghis Khan with the Mongolian national identity has had a powerful revival partly because of his perception during the Mongolian People's Republic period. Genghis Khan became one of the central figures of the national identity. He is looked upon positively by Mongolians for his role in uniting warring tribes. For example, it is not uncommon for Mongolians to refer to their country as \"Genghis Khan's Mongolia\", to themselves as \"Genghis Khan's children\", and to Genghis Khan as the \"father of the Mongols\" especially among the younger generation. However, there is a chasm in the perception of his brutality. Mongolians maintain that the historical records written by non-Mongolians are unfairly biased against Genghis Khan and that his butchery is exaggerated, while his positive role is underrated.", 
+        "model_prediction": "unfairly biased", 
         "id": "5727404b708984140094db5c"
     }, 
     {
@@ -882,6 +960,7 @@
             "dealing with patients' prescriptions and patient safety issues"
         ], 
         "context": "In most countries, the dispensary is subject to pharmacy legislation; with requirements for storage conditions, compulsory texts, equipment, etc., specified in legislation. Where it was once the case that pharmacists stayed within the dispensary compounding/dispensing medications, there has been an increasing trend towards the use of trained pharmacy technicians while the pharmacist spends more time communicating with patients. Pharmacy technicians are now more dependent upon automation to assist them in their new role dealing with patients' prescriptions and patient safety issues.", 
+        "model_prediction": "automation", 
         "id": "5726e08e5951b619008f8112"
     }, 
     {
@@ -893,6 +972,7 @@
             "phagolysosome"
         ], 
         "context": "Phagocytosis is an important feature of cellular innate immunity performed by cells called 'phagocytes' that engulf, or eat, pathogens or particles. Phagocytes generally patrol the body searching for pathogens, but can be called to specific locations by cytokines. Once a pathogen has been engulfed by a phagocyte, it becomes trapped in an intracellular vesicle called a phagosome, which subsequently fuses with another vesicle called a lysosome to form a phagolysosome. The pathogen is killed by the activity of digestive enzymes or following a respiratory burst that releases free radicals into the phagolysosome. Phagocytosis evolved as a means of acquiring nutrients, but this role was extended in phagocytes to include engulfment of pathogens as a defense mechanism. Phagocytosis probably represents the oldest form of host defense, as phagocytes have been identified in both vertebrate and invertebrate animals.", 
+        "model_prediction": "intracellular vesicle", 
         "id": "572905ce1d04691400778f86"
     }, 
     {
@@ -904,6 +984,7 @@
             "hormones"
         ], 
         "context": "It is conjectured that a progressive decline in hormone levels with age is partially responsible for weakened immune responses in aging individuals. Conversely, some hormones are regulated by the immune system, notably thyroid hormone activity. The age-related decline in immune function is also related to decreasing vitamin D levels in the elderly. As people age, two things happen that negatively affect their vitamin D levels. First, they stay indoors more due to decreased activity levels. This means that they get less sun and therefore produce less cholecalciferol via UVB radiation. Second, as a person ages the skin becomes less adept at producing vitamin D.", 
+        "model_prediction": "thyroid hormone activity", 
         "id": "5729fb003f37b31900478629"
     }, 
     {
@@ -917,6 +998,7 @@
             "Creon"
         ], 
         "context": "One of the oldest depictions of civil disobedience is in Sophocles' play Antigone, in which Antigone, one of the daughters of former King of Thebes, Oedipus, defies Creon, the current King of Thebes, who is trying to stop her from giving her brother Polynices a proper burial. She gives a stirring speech in which she tells him that she must obey her conscience rather than human law. She is not at all afraid of the death he threatens her with (and eventually carries out), but she is afraid of how her conscience will smite her if she does not do this.", 
+        "model_prediction": "oedipus", 
         "id": "57271f125951b619008f8637"
     }, 
     {
@@ -930,6 +1012,7 @@
             "civil disobedience"
         ], 
         "context": "It is usually recognized that lawbreaking, if it is not done publicly, at least must be publicly announced in order to constitute civil disobedience. But Stephen Eilmann argues that if it is necessary to disobey rules that conflict with morality, we might ask why disobedience should take the form of public civil disobedience rather than simply covert lawbreaking. If a lawyer wishes to help a client overcome legal obstacles to securing her or his natural rights, he might, for instance, find that assisting in fabricating evidence or committing perjury is more effective than open disobedience. This assumes that common morality does not have a prohibition on deceit in such situations. The Fully Informed Jury Association's publication \"A Primer for Prospective Jurors\" notes, \"Think of the dilemma faced by German citizens when Hitler's secret police demanded to know if they were hiding a Jew in their house.\" By this definition, civil disobedience could be traced back to the Book of Exodus, where Shiphrah and Puah refused a direct order of Pharaoh but misrepresented how they did it. (Exodus 1: 15-19)", 
+        "model_prediction": "fabricating evidence or committing perjury", 
         "id": "5728dddc2ca10214002da9d2"
     }, 
     {
@@ -943,6 +1026,7 @@
             "prevent the installation of pagan images"
         ], 
         "context": "The earliest recorded incidents of collective civil disobedience took place during the Roman Empire[citation needed]. Unarmed Jews gathered in the streets to prevent the installation of pagan images in the Temple in Jerusalem.[citation needed][original research?] In modern times, some activists who commit civil disobedience as a group collectively refuse to sign bail until certain demands are met, such as favorable bail conditions, or the release of all the activists. This is a form of jail solidarity.[page needed] There have also been many instances of solitary civil disobedience, such as that committed by Thoreau, but these sometimes go unnoticed. Thoreau, at the time of his arrest, was not yet a well-known author, and his arrest was not covered in any newspapers in the days, weeks and months after it happened. The tax collector who arrested him rose to higher political office, and Thoreau's essay was not published until after the end of the Mexican War.", 
+        "model_prediction": "release bail conditions", 
         "id": "5728e3c33acd2414000e0132"
     }, 
     {
@@ -956,6 +1040,7 @@
             "Voice in the Wilderness"
         ], 
         "context": "Civil disobedients have chosen a variety of different illegal acts. Bedau writes, \"There is a whole class of acts, undertaken in the name of civil disobedience, which, even if they were widely practiced, would in themselves constitute hardly more than a nuisance (e.g. trespassing at a nuclear-missile installation)...Such acts are often just a harassment and, at least to the bystander, somewhat inane...The remoteness of the connection between the disobedient act and the objectionable law lays such acts open to the charge of ineffectiveness and absurdity.\" Bedau also notes, though, that the very harmlessness of such entirely symbolic illegal protests toward public policy goals may serve a propaganda purpose. Some civil disobedients, such as the proprietors of illegal medical cannabis dispensaries and Voice in the Wilderness, which brought medicine to Iraq without the permission of the U.S. Government, directly achieve a desired social goal (such as the provision of medication to the sick) while openly breaking the law. Julia Butterfly Hill lived in Luna, a 180-foot (55 m)-tall, 600-year-old California Redwood tree for 738 days, successfully preventing it from being cut down.", 
+        "model_prediction": "illegal medical cannabis dispensaries", 
         "id": "572825a92ca10214002d9f00"
     }, 
     {
@@ -968,6 +1053,7 @@
             "broadcasting"
         ], 
         "context": "In cases where the criminalized behavior is pure speech, civil disobedience can consist simply of engaging in the forbidden speech. An example would be WBAI's broadcasting the track \"Filthy Words\" from a George Carlin comedy album, which eventually led to the 1978 Supreme Court case of FCC v. Pacifica Foundation. Threatening government officials is another classic way of expressing defiance toward the government and unwillingness to stand for its policies. For example, Joseph Haas was arrested for allegedly sending an email to the Lebanon, New Hampshire city councilors stating, \"Wise up or die.\"", 
+        "model_prediction": "engaging in the forbidden speech", 
         "id": "5728e5f43acd2414000e0174"
     }, 
     {
@@ -979,6 +1065,7 @@
             "US/Canada"
         ], 
         "context": "In 2010 a salary survey revealed the differences in remuneration between different roles, sectors and locations in the construction and built environment industry. The results showed that areas of particularly strong growth in the construction industry, such as the Middle East, yield higher average salaries than in the UK for example. The average earning for a professional in the construction industry in the Middle East, across all sectors, job types and levels of experience, is \u00a342,090, compared to \u00a326,719 in the UK. This trend is not necessarily due to the fact that more affluent roles are available, however, as architects with 14 or more years experience working in the Middle East earn on average \u00a343,389 per annum, compared to \u00a340,000 in the UK. Some construction workers in the US/Canada have made more than $100,000 annually, depending on their trade.", 
+        "model_prediction": "depending on their trade", 
         "id": "5727565ef1498d1400e8f676"
     }, 
     {
@@ -990,6 +1077,7 @@
             "certain number of teacher's salaries are paid by the State"
         ], 
         "context": "In Ireland, private schools (Irish: scoil phr\u00edobh\u00e1ideach) are unusual because a certain number of teacher's salaries are paid by the State. If the school wishes to employ extra teachers they are paid for with school fees, which tend to be relatively low in Ireland compared to the rest of the world. There is, however, a limited element of state assessment of private schools, because of the requirement that the state ensure that children receive a certain minimum education; Irish private schools must still work towards the Junior Certificate and the Leaving Certificate, for example. Many private schools in Ireland also double as boarding schools. The average fee is around \u20ac5,000 annually for most schools, but some of these schools also provide boarding and the fees may then rise up to \u20ac25,000 per year. The fee-paying schools are usually run by a religious order, i.e., the Society of Jesus or Congregation of Christian Brothers, etc.", 
+        "model_prediction": "double as boarding schools", 
         "id": "57274d1cdd62a815002e9aaf"
     }, 
     {
@@ -1001,6 +1089,7 @@
             "cattle were brought across the river there"
         ], 
         "context": "Spain ceded Florida to the British in 1763 after the French and Indian War, and the British soon constructed the King's Road connecting St. Augustine to Georgia. The road crossed the St. Johns River at a narrow point, which the Seminole called Wacca Pilatka and the British called the Cow Ford or Cowford; these names ostensibly reflect the fact that cattle were brought across the river there. The British introduced the cultivation of sugar cane, indigo and fruits as well the export of lumber. As a result, the northeastern Florida area prospered economically more than it had under the Spanish. Britain ceded control of the territory back to Spain in 1783, after its defeat in the American Revolutionary War, and the settlement at the Cow Ford continued to grow. After Spain ceded the Florida Territory to the United States in 1821, American settlers on the north side of the Cow Ford decided to plan a town, laying out the streets and plats. They soon named the town Jacksonville, after Andrew Jackson. Led by Isaiah D. Hart, residents wrote a charter for a town government, which was approved by the Florida Legislative Council on February 9, 1832.", 
+        "model_prediction": "wacca pilatka", 
         "id": "572810ec2ca10214002d9d08"
     }, 
     {
@@ -1011,6 +1100,7 @@
             "tax base dissipated"
         ], 
         "context": "Much of the city's tax base dissipated, leading to problems with funding education, sanitation, and traffic control within the city limits. In addition, residents in unincorporated suburbs had difficulty obtaining municipal services, such as sewage and building code enforcement. In 1958, a study recommended that the city of Jacksonville begin annexing outlying communities in order to create the needed tax base to improve services throughout the county. Voters outside the city limits rejected annexation plans in six referendums between 1960 and 1965.", 
+        "model_prediction": "funding education , sanitation , and traffic control within the city limits", 
         "id": "57281bb84b864d190016449a"
     }, 
     {
@@ -1022,6 +1112,7 @@
             "public high schools lost their accreditation"
         ], 
         "context": "In the mid-1960s, corruption scandals began to arise among many of the city's officials, who were mainly elected through the traditional old boy network. After a grand jury was convened to investigate, 11 officials were indicted and more were forced to resign. Jacksonville Consolidation, led by J. J. Daniel and Claude Yates, began to win more support during this period, from both inner city blacks, who wanted more involvement in government, and whites in the suburbs, who wanted more services and more control over the central city. In 1964 all 15 of Duval County's public high schools lost their accreditation. This added momentum to proposals for government reform. Lower taxes, increased economic development, unification of the community, better public spending and effective administration by a more central authority were all cited as reasons for a new consolidated government.", 
+        "model_prediction": "j. j. , and claude yates", 
         "id": "57281d494b864d19001644c1"
     }, 
     {
@@ -1033,6 +1124,7 @@
             "downward pressure on wages"
         ], 
         "context": "In Marxian analysis, capitalist firms increasingly substitute capital equipment for labor inputs (workers) under competitive pressure to reduce costs and maximize profits. Over the long-term, this trend increases the organic composition of capital, meaning that less workers are required in proportion to capital inputs, increasing unemployment (the \"reserve army of labour\"). This process exerts a downward pressure on wages. The substitution of capital equipment for labor (mechanization and automation) raises the productivity of each worker, resulting in a situation of relatively stagnant wages for the working class amidst rising levels of property income for the capitalist class.", 
+        "model_prediction": "increasing unemployment", 
         "id": "5727ea45ff5b5019007d9871"
     }, 
     {
@@ -1044,6 +1136,7 @@
             "machine labor"
         ], 
         "context": "Trade liberalization may shift economic inequality from a global to a domestic scale. When rich countries trade with poor countries, the low-skilled workers in the rich countries may see reduced wages as a result of the competition, while low-skilled workers in the poor countries may see increased wages. Trade economist Paul Krugman estimates that trade liberalisation has had a measurable effect on the rising inequality in the United States. He attributes this trend to increased trade with poor countries and the fragmentation of the means of production, resulting in low skilled jobs becoming more tradeable. However, he concedes that the effect of trade on inequality in America is minor when compared to other causes, such as technological innovation, a view shared by other experts. Empirical economists Max Roser and Jesus Crespo-Cuaresma find support in the data that international trade is increasing income inequality. They empirically confirm the predictions of the Stolper\u2013Samuelson theorem regarding the effects of international trade on the distribution of incomes. Lawrence Katz estimates that trade has only accounted for 5-15% of rising income inequality. Robert Lawrence argues that technological innovation and automation has meant that low-skilled jobs have been replaced by machine labor in wealthier nations, and that wealthier countries no longer have significant numbers of low-skilled manufacturing workers that could be affected by competition from poor countries.", 
+        "model_prediction": "wealthier countries", 
         "id": "5727fc37ff5b5019007d9a1b"
     }, 
     {
@@ -1055,6 +1148,7 @@
             "higher"
         ], 
         "context": "British researchers Richard G. Wilkinson and Kate Pickett have found higher rates of health and social problems (obesity, mental illness, homicides, teenage births, incarceration, child conflict, drug use), and lower rates of social goods (life expectancy by country, educational performance, trust among strangers, women's status, social mobility, even numbers of patents issued) in countries and states with higher inequality. Using statistics from 23 developed countries and the 50 states of the US, they found social/health problems lower in countries like Japan and Finland and states like Utah and New Hampshire with high levels of equality, than in countries (US and UK) and states (Mississippi and New York) with large differences in household income.", 
+        "model_prediction": "lower", 
         "id": "572a06866aef0514001551bf"
     }, 
     {
@@ -1066,6 +1160,7 @@
             "bought prints for broadcast"
         ], 
         "context": "Some episodes have been returned to the BBC from the archives of other countries who bought prints for broadcast, or by private individuals who acquired them by various means. Early colour videotape recordings made off-air by fans have also been retrieved, as well as excerpts filmed from the television screen onto 8 mm cine film and clips that were shown on other programmes. Audio versions of all of the lost episodes exist from home viewers who made tape recordings of the show. Short clips from every story with the exception of Marco Polo, \"Mission to the Unknown\" and The Massacre of St Bartholomew's Eve also exist.", 
+        "model_prediction": "audio versions of all of the lost episodes exist from home viewers who made them by various means", 
         "id": "572804522ca10214002d9b94"
     }, 
     {
@@ -1077,6 +1172,7 @@
             "2005\u20132010"
         ], 
         "context": "The show has received recognition as one of Britain's finest television programmes, winning the 2006 British Academy Television Award for Best Drama Series and five consecutive (2005\u20132010) awards at the National Television Awards during Russell T Davies' tenure as executive producer. In 2011, Matt Smith became the first Doctor to be nominated for a BAFTA Television Award for Best Actor and in 2016, Michelle Gomez became the first female to receive a BAFTA nomination for the series, getting a Best Supporting Actress nomination for her work as Missy.", 
+        "model_prediction": "20052010", 
         "id": "572838323acd2414000df738"
     }, 
     {
@@ -1088,6 +1184,7 @@
             "electronic"
         ], 
         "context": "In 2013, the Peabody Awards honoured Doctor Who with an Institutional Peabody \"for evolving with technology and the times like nothing else in the known television universe.\" The programme is listed in Guinness World Records as the longest-running science fiction television show in the world, the \"most successful\" science fiction series of all time\u2014based on its over-all broadcast ratings, DVD and book sales, and iTunes traffic\u2014 and for the largest ever simulcast of a TV drama with its 50th anniversary special. During its original run, it was recognised for its imaginative stories, creative low-budget special effects, and pioneering use of electronic music (originally produced by the BBC Radiophonic Workshop).", 
+        "model_prediction": "science fiction", 
         "id": "57283a392ca10214002da11a"
     }, 
     {
@@ -1099,6 +1196,7 @@
             "public charter schools on the South Side of Chicago"
         ], 
         "context": "The university runs a number of academic institutions and programs apart from its undergraduate and postgraduate schools. It operates the University of Chicago Laboratory Schools (a private day school for K-12 students and day care), the Sonia Shankman Orthogenic School (a residential treatment program for those with behavioral and emotional problems), and four public charter schools on the South Side of Chicago administered by the university's Urban Education Institute. In addition, the Hyde Park Day School, a school for students with learning disabilities, maintains a location on the University of Chicago campus. Since 1983, the University of Chicago has maintained the University of Chicago School Mathematics Project, a mathematics program used in urban primary and secondary schools. The university runs a program called the Council on Advanced Studies in the Social Sciences and Humanities, which administers interdisciplinary workshops to provide a forum for graduate students, faculty, and visiting scholars to present scholarly work in progress. The university also operates the University of Chicago Press, the largest university press in the United States.", 
+        "model_prediction": "a forum for graduate students , faculty , and visiting scholars to present scholarly work in progress", 
         "id": "572855973acd2414000df928"
     }, 
     {
@@ -1109,6 +1207,7 @@
             "saw them as too Chinese"
         ], 
         "context": "The final years of the Yuan dynasty were marked by struggle, famine, and bitterness among the populace. In time, Kublai Khan's successors lost all influence on other Mongol lands across Asia, while the Mongols beyond the Middle Kingdom saw them as too Chinese. Gradually, they lost influence in China as well. The reigns of the later Yuan emperors were short and marked by intrigues and rivalries. Uninterested in administration, they were separated from both the army and the populace, and China was torn by dissension and unrest. Outlaws ravaged the country without interference from the weakening Yuan armies.", 
+        "model_prediction": "outlaws ravaged the country without interference from the weakening yuan armies", 
         "id": "572872822ca10214002da375"
     }, 
     {
@@ -1120,6 +1219,7 @@
             "the Song dynasty"
         ], 
         "context": "In the China of the Yuan, or Mongol era, various important developments in the arts occurred or continued in their development, including the areas of painting, mathematics, calligraphy, poetry, and theater, with many great artists and writers being famous today. Due to the coming together of painting, poetry, and calligraphy at this time many of the artists practicing these different pursuits were the same individuals, though perhaps more famed for one area of their achievements than others. Often in terms of the further development of landscape painting as well as the classical joining together of the arts of painting, poetry, and calligraphy, the Song dynasty and the Yuan dynasty are linked together. In the area of Chinese painting during the Yuan dynasty there were many famous painters. In the area of calligraphy many of the great calligraphers were from the Yuan dynasty era. In Yuan poetry, the main development was the qu, which was used among other poetic forms by most of the famous Yuan poets. Many of the poets were also involved in the major developments in the theater during this time, and the other way around, with people important in the theater becoming famous through the development of the sanqu type of qu. One of the key factors in the mix of the zaju variety show was the incorporation of poetry both classical and of the newer qu form. One of the important cultural developments during the Yuan era was the consolidation of poetry, painting, and calligraphy into a unified piece of the type that tends to come to mind when people think of classical Chinese art. Another important aspect of Yuan times is the increasing incorporation of the then current, vernacular Chinese into both the qu form of poetry and the zaju variety show. Another important consideration regarding Yuan dynasty arts and culture is that so much of it has survived in China, relatively to works from the Tang dynasty and Song dynasty, which have often been better preserved in places such as the Sh\u014ds\u014din, in Japan.", 
+        "model_prediction": "yuan", 
         "id": "57287f6a3acd2414000dfa53"
     }
 ]
