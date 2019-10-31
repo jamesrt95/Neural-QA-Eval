@@ -1,0 +1,1128 @@
+[
+    {
+        "error_type": "sentence selection", 
+        "question": "What was the number of times the Denver Broncos played in a Super Bowl by the time they reached Super Bowl 50?", 
+        "answers": [
+            "eight", 
+            "eight", 
+            "eight"
+        ], 
+        "context": "For the third straight season, the number one seeds from both conferences met in the Super Bowl. The Carolina Panthers became one of only ten teams to have completed a regular season with only one loss, and one of only six teams to have acquired a 15\u20131 record, while the Denver Broncos became one of four teams to have made eight appearances in the Super Bowl. The Broncos made their second Super Bowl appearance in three years, having reached Super Bowl XLVIII, while the Panthers made their second Super Bowl appearance in franchise history, their other appearance being Super Bowl XXXVIII. Coincidentally, both teams were coached by John Fox in their last Super Bowl appearance prior to Super Bowl 50.", 
+        "id": "56bf28c73aeaaa14008c9539"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "What was the score of the last game the Carolina Panthers played prior to the NFC Championship?", 
+        "answers": [
+            "31\u201324", 
+            "31\u201324", 
+            "31\u201324,"
+        ], 
+        "context": "The Panthers beat the Seattle Seahawks in the divisional round, running up a 31\u20130 halftime lead and then holding off a furious second half comeback attempt to win 31\u201324, avenging their elimination from a year earlier. The Panthers then blew out the Arizona Cardinals in the NFC Championship Game, 49\u201315, racking up 487 yards and forcing seven turnovers.", 
+        "id": "56bf34293aeaaa14008c955a"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "What team was the divisional round winner between the Broncos and Steelers?", 
+        "answers": [
+            "Broncos", 
+            "The Broncos", 
+            "Broncos"
+        ], 
+        "context": "The Broncos defeated the Pittsburgh Steelers in the divisional round, 23\u201316, by scoring 11 points in the final three minutes of the game. They then beat the defending Super Bowl XLIX champion New England Patriots in the AFC Championship Game, 20\u201318, by intercepting a pass on New England's 2-point conversion attempt with 17 seconds left on the clock. Despite Manning's problems with interceptions during the season, he didn't throw any in their two playoff games.", 
+        "id": "56bf36b93aeaaa14008c9561"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "What body part did Thomas Davis break during the NFC Championship Game?", 
+        "answers": [
+            "arm", 
+            "arm", 
+            "arm"
+        ], 
+        "context": "Carolina suffered a major setback when Thomas Davis, an 11-year veteran who had already overcome three ACL tears in his career, went down with a broken arm in the NFC Championship Game. Despite this, he insisted he would still find a way to play in the Super Bowl. His prediction turned out to be accurate.", 
+        "id": "56bf3a223aeaaa14008c9576"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "What is the name of the quarterback who was 38 in Super Bowl XXXIII?", 
+        "answers": [
+            "John Elway", 
+            "John Elway", 
+            "Elway", 
+            "Elway"
+        ], 
+        "context": "Peyton Manning became the first quarterback ever to lead two different teams to multiple Super Bowls. He is also the oldest quarterback ever to play in a Super Bowl at age 39. The past record was held by John Elway, who led the Broncos to victory in Super Bowl XXXIII at age 38 and is currently Denver's Executive Vice President of Football Operations and General Manager.", 
+        "id": "56d9a0eadc89441400fdb640"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "Which company was given permission to air TV commercials during Super Bowl 50 at a discounted price?", 
+        "answers": [
+            "Anheuser-Busch InBev", 
+            "Anheuser-Busch InBev", 
+            "Anheuser-Busch InBev"
+        ], 
+        "context": "CBS set the base rate for a 30-second advertisement at $5,000,000, a record high price for a Super Bowl ad. As of January 26, the advertisements had not yet sold out. CBS mandated that all advertisers purchase a package covering time on both the television and digital broadcasts of the game, meaning that for the first time, digital streams of the game would carry all national advertising in pattern with the television broadcast. This would be the final year in a multi-year contract with Anheuser-Busch InBev that allowed the beer manufacturer to air multiple advertisements during the game at a steep discount. It was also the final year that Doritos, a longtime sponsor of the game, held its \"Crash the Super Bowl\" contest that allowed viewers to create their own Doritos ads for a chance to have it aired during the game. Nintendo and The Pok\u00e9mon Company also made their Super Bowl debut, promoting the 20th anniversary of the Pok\u00e9mon video game and media franchise.", 
+        "id": "56bf717d3aeaaa14008c9637"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "Paramount paid fo, 10 Cloverfield Lane and which other film trailer to be aired during the game?", 
+        "answers": [
+            "Teenage Mutant Ninja Turtles: Out of the Shadows", 
+            "Teenage Mutant Ninja Turtles: Out of the Shadows", 
+            "Teenage Mutant Ninja Turtles"
+        ], 
+        "context": "20th Century Fox, Lionsgate, Paramount Pictures, Universal Studios and Walt Disney Studios paid for movie trailers to be aired during the Super Bowl. Fox paid for Deadpool, X-Men: Apocalypse, Independence Day: Resurgence and Eddie the Eagle, Lionsgate paid for Gods of Egypt, Paramount paid for Teenage Mutant Ninja Turtles: Out of the Shadows and 10 Cloverfield Lane, Universal paid for The Secret Life of Pets and the debut trailer for Jason Bourne and Disney paid for Captain America: Civil War, The Jungle Book and Alice Through the Looking Glass.[citation needed]", 
+        "id": "56d723560d65d214001983ad"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "Who lead the halftime show of Super Bowl 50?", 
+        "answers": [
+            "Coldplay.", 
+            "Coldplay", 
+            "Coldplay"
+        ], 
+        "context": "In late November 2015, reports surfaced stating that \"multiple acts\" would perform during the halftime show. On December 3, the league confirmed that the show would be headlined by the British rock group Coldplay. On January 7, 2016, Pepsi confirmed to the Associated Press that Beyonc\u00e9, who headlined the Super Bowl XLVII halftime show and collaborated with Coldplay on the single \"Hymn for the Weekend\", would be making an appearance. Bruno Mars, who headlined the Super Bowl XLVIII halftime show, and Mark Ronson also performed.", 
+        "id": "56d725790d65d214001983d8"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "Who kicked a field goal for Denver?", 
+        "answers": [
+            "Brandon McManus", 
+            "Brandon McManus", 
+            "McManus"
+        ], 
+        "context": "Denver took the opening kickoff and started out strong with Peyton Manning completing an 18-yard pass to tight end Owen Daniels and a 22-yard throw to receiver Andre Caldwell. A pair of carries by C. J. Anderson moved the ball up 20 yards to the Panthers 14-yard line, but Carolina's defense dug in over the next three plays. First, linebacker Shaq Thompson tackled Ronnie Hillman for a 3-yard loss. Then after an incompletion, Thomas Davis tackled Anderson for a 1-yard gain on third down, forcing Denver to settle for a 3\u20130 lead on a Brandon McManus 34-yard field goal. The score marked the first time in the entire postseason that Carolina was facing a deficit.", 
+        "id": "56bec7a63aeaaa14008c941a"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "Who did Newton get a pass to in the Panther starting plays of Super Bowl 50?", 
+        "answers": [
+            "Ted Ginn Jr.", 
+            "Ted Ginn Jr"
+        ], 
+        "context": "The Panthers seemed primed to score on their opening drive of the second half when Newton completed a 45-yard pass to Ted Ginn Jr. on the Denver 35-yard line on their second offensive play. But the Broncos defense halted the drive on the 26-yard line, and it ended with no points when Graham Gano hit the uprights on a 44-yard field goal attempt. After the miss, Manning completed a pair of passes to Emmanuel Sanders for gains of 25 and 22 yards, setting up McManus' 33-yard field goal that gave the Broncos a 16\u20137 lead. Carolina got off to another strong start after the kickoff, with Newton completing a 42-yard pass to Corey Brown. But once again they came up empty, this time as a result of a Newton pass that bounced off the hands of Ginn and was intercepted by safety T. J. Ward. Ward fumbled the ball during the return, but Trevathan recovered it to enable Denver to keep possession.", 
+        "id": "56d9c92bdc89441400fdb80e"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "How many picks did Cam Newton throw?", 
+        "answers": [
+            "one", 
+            "one", 
+            "one"
+        ], 
+        "context": "Manning finished the game 13 of 23 for 141 yards with one interception and zero touchdowns. Sanders was his top receiver with six receptions for 83 yards. Anderson was the game's leading rusher with 90 yards and a touchdown, along with four receptions for 10 yards. Miller had six total tackles (five solo), 2\u00bd sacks, and two forced fumbles. Ware had five total tackles and two sacks. Ward had seven total tackles, a fumble recovery, and an interception. McManus made all four of his field goals, making him perfect on all 11 attempts during the post-season. Newton completed 18 of 41 passes for 265 yards, with one interception. He was also the team's leading rusher with 45 yards on six carries. Brown caught four passes for 80 yards, while Ginn had four receptions for 74. Ealy was the top defensive performer for Carolina with four total tackles, three sacks, a forced fumble, a fumble recovery, and an interception. Defensive End Charles Johnson had four total tackles, a sack, and a forced fumble. Linebacker Luke Kuechly had 11 total tackles, while Thomas Davis had seven, despite playing just two weeks after breaking his right arm in the NFC title game.", 
+        "id": "56becaf93aeaaa14008c9485"
+    }, 
+    {
+        "error_type": "copying from question", 
+        "question": "What is the highest reference hospital in all of Poland?", 
+        "answers": [
+            "Children's Memorial Health Institute", 
+            "Children's Memorial Health Institute", 
+            "Children's Memorial Health Institute"
+        ], 
+        "context": "Today, Warsaw has some of the best medical facilities in Poland and East-Central Europe. The city is home to the Children's Memorial Health Institute (CMHI), the highest-reference hospital in all of Poland, as well as an active research and education center. While the Maria Sk\u0142odowska-Curie Institute of Oncology it is one of the largest and most modern oncological institutions in Europe. The clinical section is located in a 10-floor building with 700 beds, 10 operating theatres, an intensive care unit, several diagnostic departments as well as an outpatient clinic. The infrastructure has developed a lot over the past years.", 
+        "id": "57339a554776f41900660e75"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "When was the Duchy of Normandy founded?", 
+        "answers": [
+            "911", 
+            "911", 
+            "911"
+        ], 
+        "context": "In the course of the 10th century, the initially destructive incursions of Norse war bands into the rivers of France evolved into more permanent encampments that included local women and personal property. The Duchy of Normandy, which began in 911 as a fiefdom, was established by the treaty of Saint-Clair-sur-Epte between King Charles III of West Francia and the famed Viking ruler Rollo, and was situated in the former Frankish kingdom of Neustria. The treaty offered Rollo and his men the French lands between the river Epte and the Atlantic coast in exchange for their protection against further Viking incursions. The area corresponded to the northern part of present-day Upper Normandy down to the river Seine, but the Duchy would eventually extend west beyond the Seine. The territory was roughly equivalent to the old province of Rouen, and reproduced the Roman administrative structure of Gallia Lugdunensis II (part of the former Gallia Lugdunensis).", 
+        "id": "56dde0ba66d3e219004dad75"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "What was the Anglo-Norman language's final form?", 
+        "answers": [
+            "Modern English", 
+            "Modern English", 
+            "Modern English"
+        ], 
+        "context": "Eventually, the Normans merged with the natives, combining languages and traditions. In the course of the Hundred Years' War, the Norman aristocracy often identified themselves as English. The Anglo-Norman language became distinct from the Latin language, something that was the subject of some humour by Geoffrey Chaucer. The Anglo-Norman language was eventually absorbed into the Anglo-Saxon language of their subjects (see Old English) and influenced it, helping (along with the Norse language of the earlier Anglo-Norse settlers and the Latin used by the church) in the development of Middle English. It in turn evolved into Modern English.", 
+        "id": "56de1728cffd8e1900b4b5d7"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "What place had the Norman Arab architectural style?", 
+        "answers": [
+            "Sicily", 
+            "Sicily", 
+            "Kingdom of Sicily"
+        ], 
+        "context": "In England, the period of Norman architecture immediately succeeds that of the Anglo-Saxon and precedes the Early Gothic. In southern Italy, the Normans incorporated elements of Islamic, Lombard, and Byzantine building techniques into their own, initiating a unique style known as Norman-Arab architecture within the Kingdom of Sicily.", 
+        "id": "56de4b074396321400ee2795"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "Who did Tesla credit for his abilities?", 
+        "answers": [
+            "his mother's genetics", 
+            "his mother", 
+            "his mother"
+        ], 
+        "context": "Tesla was born on 10 July [O.S. 28 June] 1856 into a Serb family in the village of Smiljan, Austrian Empire (modern-day Croatia). His father, Milutin Tesla, was a Serbian Orthodox priest. Tesla's mother, \u0110uka Tesla (n\u00e9e Mandi\u0107), whose father was also an Orthodox priest,:10 had a talent for making home craft tools, mechanical appliances, and the ability to memorize Serbian epic poems. \u0110uka had never received a formal education. Nikola credited his eidetic memory and creative abilities to his mother's genetics and influence. Tesla's progenitors were from western Serbia, near Montenegro.:12", 
+        "id": "56dfa13d4a1a83140091ebc4"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "Where did Tesla believe his talents came from?", 
+        "answers": [
+            "his mother's genetics and influence", 
+            "his mother", 
+            "his mother's genetics and influence"
+        ], 
+        "context": "Tesla was born on 10 July [O.S. 28 June] 1856 into a Serb family in the village of Smiljan, Austrian Empire (modern-day Croatia). His father, Milutin Tesla, was a Serbian Orthodox priest. Tesla's mother, \u0110uka Tesla (n\u00e9e Mandi\u0107), whose father was also an Orthodox priest,:10 had a talent for making home craft tools, mechanical appliances, and the ability to memorize Serbian epic poems. \u0110uka had never received a formal education. Nikola credited his eidetic memory and creative abilities to his mother's genetics and influence. Tesla's progenitors were from western Serbia, near Montenegro.:12", 
+        "id": "56e0bcc0231d4119001ac36f"
+    }, 
+    {
+        "error_type": "factually correct", 
+        "question": "When did Tesla graduate?", 
+        "answers": [
+            "1873", 
+            "1873", 
+            "1873"
+        ], 
+        "context": "In 1870, Tesla moved to Karlovac, to attend school at the Higher Real Gymnasium, where he was profoundly influenced by a math teacher Martin Sekuli\u0107.:32 The classes were held in German, as it was a school within the Austro-Hungarian Military Frontier. Tesla was able to perform integral calculus in his head, which prompted his teachers to believe that he was cheating. He finished a four-year term in three years, graduating in 1873.:33", 
+        "id": "56e0c1617aa994140058e6d9"
+    }, 
+    {
+        "error_type": "sentence selection", 
+        "question": "Why was he unable to enroll at the university? ", 
+        "answers": [
+            "arrived too late", 
+            "arrived too late to enroll", 
+            "he arrived too late to enroll at Charles-Ferdinand University; he never studied Greek, a required subject; and he was illiterate in Czech"
+        ], 
+        "context": "In January 1880, two of Tesla's uncles put together enough money to help him leave Gospi\u0107 for Prague where he was to study. Unfortunately, he arrived too late to enroll at Charles-Ferdinand University; he never studied Greek, a required subject; and he was illiterate in Czech, another required subject. Tesla did, however, attend lectures at the university, although, as an auditor, he did not receive grades for the courses.", 
+        "id": "56dfac8e231d4119001abc5c"
+    }, 
+    {
+        "error_type": "sentence selection", 
+        "question": "What were X-rays known as at the time?", 
+        "answers": [
+            "Roentgen rays", 
+            "Roentgen rays", 
+            "Roentgen rays"
+        ], 
+        "context": "In March 1896, after hearing of Wilhelm R\u00f6ntgen's discovery of X-ray and X-ray imaging (radiography), Tesla proceeded to do his own experiments in X-ray imaging, developing a high energy single terminal vacuum tube of his own design that had no target electrode and that worked from the output of the Tesla Coil (the modern term for the phenomenon produced by this device is bremsstrahlung or braking radiation). In his research, Tesla devised several experimental setups to produce X-rays. Tesla held that, with his circuits, the \"instrument will ... enable one to generate Roentgen rays of much greater power than obtainable with ordinary apparatus.\"", 
+        "id": "56e0f5a6231d4119001ac4d6"
+    }, 
+    {
+        "error_type": "sentence selection", 
+        "question": "What publication published an article about Tesla in 1912?", 
+        "answers": [
+            "World Today", 
+            "World Today", 
+            "World Today"
+        ], 
+        "context": "Tesla invented a steam-powered mechanical oscillator\u2014Tesla's oscillator. While experimenting with mechanical oscillators at his Houston Street lab, Tesla allegedly generated a resonance of several buildings. As the speed grew, it is said that the machine oscillated at the resonance frequency of his own building and, belatedly realizing the danger, he was forced to use a sledge hammer to terminate the experiment, just as the police arrived.:162\u2013164 In February 1912, an article\u2014\"Nikola Tesla, Dreamer\" by Allan L. Benson\u2014was published in World Today, in which an artist's illustration appears showing the entire earth cracking in half with the caption, \"Tesla claims that in a few weeks he could set the earth's crust into such a state of vibration that it would rise and fall hundreds of feet and practically destroy civilization. A continuation of this process would, he says, eventually split the earth in two.\"", 
+        "id": "56e10412e3433e1400422abd"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "What field of computer science is primarily concerned with determining the likelihood of whether or not a problem can ultimately be solved using algorithms?", 
+        "answers": [
+            "computability theory", 
+            "computability theory", 
+            "computability theory"
+        ], 
+        "context": "Closely related fields in theoretical computer science are analysis of algorithms and computability theory. A key distinction between analysis of algorithms and computational complexity theory is that the former is devoted to analyzing the amount of resources needed by a particular algorithm to solve a problem, whereas the latter asks a more general question about all possible algorithms that could be used to solve the same problem. More precisely, it tries to classify problems that can or cannot be solved with appropriately restricted resources. In turn, imposing restrictions on the available resources is what distinguishes computational complexity from computability theory: the latter theory asks what kind of problems can, in principle, be solved algorithmically.", 
+        "id": "56e17644e3433e1400422f43"
+    }, 
+    {
+        "error_type": "reasonable answer", 
+        "question": "In considering Turing machines and alternate variables, what measurement left unaffected by conversion between machine models? ", 
+        "answers": [
+            "computational power", 
+            "computational power", 
+            "computational power"
+        ], 
+        "context": "Many machine models different from the standard multi-tape Turing machines have been proposed in the literature, for example random access machines. Perhaps surprisingly, each of these models can be converted to another without providing any extra computational power. The time and memory consumption of these alternate models may vary. What all these models have in common is that the machines operate deterministically.", 
+        "id": "56e1b169cd28a01900c67a73"
+    }, 
+    {
+        "error_type": "factually correct", 
+        "question": "What is the expression used to identify any given series of problems capable of being solved within time on a deterministic Turing machine?", 
+        "answers": [
+            "DTIME(f(n))", 
+            "DTIME(f(n)).", 
+            "DTIME(f(n))"
+        ], 
+        "context": "For a precise definition of what it means to solve a problem using a given amount of time and space, a computational model such as the deterministic Turing machine is used. The time required by a deterministic Turing machine M on input x is the total number of state transitions, or steps, the machine makes before it halts and outputs the answer (\"yes\" or \"no\"). A Turing machine M is said to operate within time f(n), if the time required by M on each input of length n is at most f(n). A decision problem A can be solved in time f(n) if there exists a Turing machine operating in time f(n) that solves the problem. Since complexity theory is interested in classifying problems based on their difficulty, one defines sets of problems based on some criteria. For instance, the set of problems solvable within time f(n) on a deterministic Turing machine is then denoted by DTIME(f(n)).", 
+        "id": "56e1b62ecd28a01900c67aa5"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "When extensive time is required to sort integers, this represents what case complexity?", 
+        "answers": [
+            "worst-case", 
+            "worst", 
+            "worst-case"
+        ], 
+        "context": "For example, consider the deterministic sorting algorithm quicksort. This solves the problem of sorting a list of integers that is given as the input. The worst-case is when the input is sorted or sorted in reverse order, and the algorithm takes time O(n2) for this case. If we assume that all possible permutations of the input list are equally likely, the average time taken for sorting is O(n log n). The best case occurs when each pivoting divides the list in half, also needing O(n log n) time.", 
+        "id": "56e1ba41cd28a01900c67ae1"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "In what expression can one expect to find DTIME(n)", 
+        "answers": [
+            "DTIME(n2)", 
+            "DTIME(n2)", 
+            "DTIME(n2)"
+        ], 
+        "context": "For the complexity classes defined in this way, it is desirable to prove that relaxing the requirements on (say) computation time indeed defines a bigger set of problems. In particular, although DTIME(n) is contained in DTIME(n2), it would be interesting to know if the inclusion is strict. For time and space requirements, the answer to such questions is given by the time and space hierarchy theorems respectively. They are called hierarchy theorems because they induce a proper hierarchy on the classes defined by constraining the respective resources. Thus there are pairs of complexity classes such that one is properly included in the other. Having deduced such proper set inclusions, we can proceed to make quantitative statements about how much more additional time or space is needed in order to increase the number of problems that can be solved.", 
+        "id": "56e1c720e3433e140042316b"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "What theoretical device is attributed to Alan Turing?", 
+        "answers": [
+            "Turing machines", 
+            "Turing machines", 
+            "Turing machines"
+        ], 
+        "context": "Before the actual research explicitly devoted to the complexity of algorithmic problems started off, numerous foundations were laid out by various researchers. Most influential among these was the definition of Turing machines by Alan Turing in 1936, which turned out to be a very robust and flexible simplification of a computer.", 
+        "id": "56e200e4cd28a01900c67c16"
+    }, 
+    {
+        "error_type": "sentence selection", 
+        "question": "Who would a teacher's college be protecting?", 
+        "answers": [
+            "the public", 
+            "public", 
+            "public interest"
+        ], 
+        "context": "There are a variety of bodies designed to instill, preserve and update the knowledge and professional standing of teachers. Around the world many governments operate teacher's colleges, which are generally established to serve and protect the public interest through certifying, governing and enforcing the standards of practice for the teaching profession.", 
+        "id": "56e74e4800c9c71400d76f78"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "Teacher's colleges certify, govern and enforce what for teachers?", 
+        "answers": [
+            "standards of practice", 
+            "standards of practice", 
+            "standards of practice for the teaching profession"
+        ], 
+        "context": "There are a variety of bodies designed to instill, preserve and update the knowledge and professional standing of teachers. Around the world many governments operate teacher's colleges, which are generally established to serve and protect the public interest through certifying, governing and enforcing the standards of practice for the teaching profession.", 
+        "id": "56e74e4800c9c71400d76f7a"
+    }, 
+    {
+        "error_type": "same entity type confusion, sentence selection", 
+        "question": "In addition to schools, where else is popularly based authority effective?", 
+        "answers": [
+            "governments", 
+            "governments", 
+            "governments"
+        ], 
+        "context": "Sudbury model democratic schools claim that popularly based authority can maintain order more effectively than dictatorial authority for governments and schools alike. They also claim that in these schools the preservation of public order is easier and more efficient than anywhere else. Primarily because rules and regulations are made by the community as a whole, thence the school atmosphere is one of persuasion and negotiation, rather than confrontation since there is no one to confront. Sudbury model democratic schools' proponents argue that a school that has good, clear laws, fairly and democratically passed by the entire school community, and a good judicial system for enforcing these laws, is a school in which community discipline prevails, and in which an increasingly sophisticated concept of law and order develops, against other schools today, where rules are arbitrary, authority is absolute, punishment is capricious, and due process of law is unknown.", 
+        "id": "56e7611500c9c71400d77055"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "Nonverbal expressions resulted in what kind of levels of motivation to learn?", 
+        "answers": [
+            "higher", 
+            "higher levels", 
+            "higher levels"
+        ], 
+        "context": "Teachers that exhibit enthusiasm can lead to students who are more likely to be engaged, interested, energetic, and curious about learning the subject matter. Recent research has found a correlation between teacher enthusiasm and students' intrinsic motivation to learn and vitality in the classroom. Controlled, experimental studies exploring intrinsic motivation of college students has shown that nonverbal expressions of enthusiasm, such as demonstrative gesturing, dramatic movements which are varied, and emotional facial expressions, result in college students reporting higher levels of intrinsic motivation to learn. Students who experienced a very enthusiastic teacher were more likely to read lecture material outside of the classroom.", 
+        "id": "56e762fe00c9c71400d77076"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "What event followed the battle?", 
+        "answers": [
+            "M\u00fcntzer's execution", 
+            "M\u00fcntzer's execution", 
+            "M\u00fcntzer's execution,"
+        ], 
+        "context": "Without Luther's backing for the uprising, many rebels laid down their weapons; others felt betrayed. Their defeat by the Swabian League at the Battle of Frankenhausen on 15 May 1525, followed by M\u00fcntzer's execution, brought the revolutionary stage of the Reformation to a close. Thereafter, radicalism found a refuge in the anabaptist movement and other religious movements, while Luther's Reformation flourished under the wing of the secular powers.", 
+        "id": "56f851b1a6d7ea1400e17560"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "What effort was Luther not particularly in favor of?", 
+        "answers": [
+            "writings in volumes", 
+            "plan to collect my writings in volumes", 
+            "Saturnian hunger,"
+        ], 
+        "context": "The catechism is one of Luther's most personal works. \"Regarding the plan to collect my writings in volumes,\" he wrote, \"I am quite cool and not at all eager about it because, roused by a Saturnian hunger, I would rather see them all devoured. For I acknowledge none of them to be really a book of mine, except perhaps the Bondage of the Will and the Catechism.\" The Small Catechism has earned a reputation as a model of clear religious teaching. It remains in use today, along with Luther's hymns and his translation of the Bible.", 
+        "id": "56f867e3a6d7ea1400e175d8"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "What did Agricola apparently believe about who should be in control  law?", 
+        "answers": [
+            "city hall", 
+            "city hall", 
+            "city hall."
+        ], 
+        "context": "Early in 1537, Johannes Agricola (1494\u20131566) \u2013 serving at the time as pastor in Luther's birthplace, Eisleben \u2013 preached a sermon in which he claimed that God's gospel, not God's moral law (the Ten Commandments), revealed God's wrath to Christians. Based on this sermon and others by Agricola, Luther suspected that Agricola was behind certain anonymous antinomian theses circulating in Wittenberg. These theses asserted that the law is no longer to be taught to Christians but belonged only to city hall. Luther responded to these theses with six series of theses against Agricola and the antinomians, four of which became the basis for disputations between 1538 and 1540. He also responded to these assertions in other writings, such as his 1539 open letter to C. G\u00fcttel Against the Antinomians, and his book On the Councils and the Church from the same year.", 
+        "id": "56f8a2969e9bad19000a022d"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "What does Mark U. Edwards claim as a possible cause of Luther's antisemitism?", 
+        "answers": [
+            "declining state of mind", 
+            "a declining state of mind", 
+            "health deteriorated"
+        ], 
+        "context": "Some scholars, such as Mark U. Edwards in his book Luther's Last Battles: Politics and Polemics 1531\u201346 (1983), suggest that since Luther's increasingly antisemitic views developed during the years his health deteriorated, it is possible they were at least partly the product of a declining state of mind. Edwards also comments that Luther often deliberately used \"vulgarity and violence\" for effect, both in his writings condemning the Jews and in diatribes against \"Turks\" (Muslims) and Catholics.", 
+        "id": "56f8bd509b226e1400dd0eed"
+    }, 
+    {
+        "error_type": "sentence selection", 
+        "question": "What is the population of the second largest city in California?", 
+        "answers": [
+            "1.3 million", 
+            "1.3 million", 
+            "San Diego"
+        ], 
+        "context": "Los Angeles (at 3.7 million people) and San Diego (at 1.3 million people), both in southern California, are the two largest cities in all of California (and two of the eight largest cities in the United States). In southern California there are also twelve cities with more than 200,000 residents and 34 cities over 100,000 in population. Many of southern California's most developed cities lie along or in close proximity to the coast, with the exception of San Bernardino and Riverside.", 
+        "id": "570607f575f01819005e78b5"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "What is the proprietary system that Sky+HD uses?", 
+        "answers": [
+            "OpenTV", 
+            "OpenTV", 
+            "OpenTV"
+        ], 
+        "context": "BSkyB's standard definition broadcasts are in DVB-compliant MPEG-2, with the Sky Movies and Sky Box Office channels including optional Dolby Digital soundtracks for recent films, although these are only accessible with a Sky+ box. Sky+ HD material is broadcast using MPEG-4 and most of the HD material uses the DVB-S2 standard. Interactive services and 7-day EPG use the proprietary OpenTV system, with set-top boxes including modems for a return path. Sky News, amongst other channels, provides a pseudo-video on demand interactive service by broadcasting looping video streams.", 
+        "id": "570966e0200fba1400367f52"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "How many Victorians are Buddhist?", 
+        "answers": [
+            "168,637", 
+            "168,637", 
+            "168,637"
+        ], 
+        "context": "About 61.1% of Victorians describe themselves as Christian. Roman Catholics form the single largest religious group in the state with 26.7% of the Victorian population, followed by Anglicans and members of the Uniting Church. Buddhism is the state's largest non-Christian religion, with 168,637 members as of the most recent census. Victoria is also home of 152,775 Muslims and 45,150 Jews. Hinduism is the fastest growing religion. Around 20% of Victorians claim no religion. Amongst those who declare a religious affiliation, church attendance is low.", 
+        "id": "570d29c2b3d812140066d4c0"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "What social construct did Huguenot refugees in Canterbury practice?", 
+        "answers": [
+            "economic separation", 
+            "economic separation", 
+            "worked as weavers"
+        ], 
+        "context": "Other evidence of the Walloons and Huguenots in Canterbury includes a block of houses in Turnagain Lane, where weavers' windows survive on the top floor, as many Huguenots worked as weavers. The Weavers, a half-timbered house by the river, was the site of a weaving school from the late 16th century to about 1830. (It has been adapted as a restaurant\u2014see illustration above. The house derives its name from a weaving school which was moved there in the last years of the 19th century, reviving an earlier use.) Others refugees practised the variety of occupations necessary to sustain the community as distinct from the indigenous population. Such economic separation was the condition of the refugees' initial acceptance in the City. They also settled elsewhere in Kent, particularly Sandwich, Faversham and Maidstone\u2014towns in which there used to be refugee churches.", 
+        "id": "571090abb654c5140001f997"
+    }, 
+    {
+        "error_type": "sentence selection", 
+        "question": "What did the Edict do for Huguenots in France?", 
+        "answers": [
+            "granted the Protestants equality with Catholics", 
+            "granted the Protestants equality", 
+            "granted the Protestants equality with Catholics under the throne and a degree of religious and political freedom within their domains"
+        ], 
+        "context": "The pattern of warfare, followed by brief periods of peace, continued for nearly another quarter-century. The warfare was definitively quelled in 1598, when Henry of Navarre, having succeeded to the French throne as Henry IV, and having recanted Protestantism in favour of Roman Catholicism, issued the Edict of Nantes. The Edict reaffirmed Catholicism as the state religion of France, but granted the Protestants equality with Catholics under the throne and a degree of religious and political freedom within their domains. The Edict simultaneously protected Catholic interests by discouraging the founding of new Protestant churches in Catholic-controlled regions.[citation needed]", 
+        "id": "571093aba58dae1900cd6a5e"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "What device is used to recycle the boiler water in most steam engines?", 
+        "answers": [
+            "water pump", 
+            "water pump", 
+            "water pump"
+        ], 
+        "context": "The Rankine cycle and most practical steam engines have a water pump to recycle or top up the boiler water, so that they may be run continuously. Utility and industrial boilers commonly use multi-stage centrifugal pumps; however, other types are used. Another means of supplying lower-pressure boiler feed water is an injector, which uses a steam jet usually supplied from the boiler. Injectors became popular in the 1850s but are no longer widely used, except in applications such as steam locomotives.", 
+        "id": "571135b8a58dae1900cd6d0e"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "How many horsepower was Watt's engine?", 
+        "answers": [
+            "ten", 
+            "ten-horsepower", 
+            "ten-horsepower", 
+            "ten"
+        ], 
+        "context": "In 1781 James Watt patented a steam engine that produced continuous rotary motion. Watt's ten-horsepower engines enabled a wide range of manufacturing machinery to be powered. The engines could be sited anywhere that water and coal or wood fuel could be obtained. By 1883, engines that could provide 10,000 hp had become feasible. The stationary steam engine was a key component of the Industrial Revolution, allowing factories to locate where water power was unavailable. The atmospheric engines of Newcomen and Watt were large compared to the amount of power they produced, but high pressure steam engines were light enough to be applied to vehicles such as traction engines and the railway locomotives.", 
+        "id": "57113be3a58dae1900cd6d2a"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "What is the typical working fluid in a steam engine?", 
+        "answers": [
+            "water", 
+            "water", 
+            "water"
+        ], 
+        "context": "The working fluid in a Rankine cycle can operate as a closed loop system, where the working fluid is recycled continuously, or may be an \"open loop\" system, where the exhaust steam is directly released to the atmosphere, and a separate source of water feeding the boiler is supplied. Normally water is the fluid of choice due to its favourable properties, such as non-toxic and unreactive chemistry, abundance, low cost, and its thermodynamic properties. Mercury is the working fluid in the mercury vapor turbine. Low boiling hydrocarbons can be used in a binary cycle.", 
+        "id": "57114dfb50c2381900b54a56"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "How many pounds of steam per kilowatt hour does the Energiprojekt AB engine use?", 
+        "answers": [
+            "8.8", 
+            "8.8", 
+            "8.8"
+        ], 
+        "context": "Although the reciprocating steam engine is no longer in widespread commercial use, various companies are exploring or exploiting the potential of the engine as an alternative to internal combustion engines. The company Energiprojekt AB in Sweden has made progress in using modern materials for harnessing the power of steam. The efficiency of Energiprojekt's steam engine reaches some 27-30% on high-pressure engines. It is a single-step, 5-cylinder engine (no compound) with superheated steam and consumes approx. 4 kg (8.8 lb) of steam per kWh.[not in citation given]", 
+        "id": "57115bf350c2381900b54a96"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "What characteristic of oxygen makes it necessary to life?", 
+        "answers": [
+            "energy content", 
+            "its energy content", 
+            "energy content", 
+            "energy content", 
+            "its energy content"
+        ], 
+        "context": "The common allotrope of elemental oxygen on Earth is called dioxygen, O\n2. It is the form that is a major part of the Earth's atmosphere (see Occurrence). O2 has a bond length of 121 pm and a bond energy of 498 kJ\u00b7mol\u22121, which is smaller than the energy of other double bonds or pairs of single bonds in the biosphere and responsible for the exothermic reaction of O2 with any organic molecule. Due to its energy content, O2 is used by complex forms of life, such as animals, in cellular respiration (see Biological role). Other aspects of O\n2 are covered in the remainder of this article.", 
+        "id": "571c91c8dd7acb1400e4c10d"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "How much is the sieve method of gas production used?", 
+        "answers": [
+            "major method", 
+            "increasingly", 
+            "major method", 
+            "increasingly"
+        ], 
+        "context": "The other major method of producing O\n2 gas involves passing a stream of clean, dry air through one bed of a pair of identical zeolite molecular sieves, which absorbs the nitrogen and delivers a gas stream that is 90% to 93% O\n2. Simultaneously, nitrogen gas is released from the other nitrogen-saturated zeolite bed, by reducing the chamber operating pressure and diverting part of the oxygen gas from the producer bed through it, in the reverse direction of flow. After a set cycle time the operation of the two beds is interchanged, thereby allowing for a continuous supply of gaseous oxygen to be pumped through a pipeline. This is known as pressure swing adsorption. Oxygen gas is increasingly obtained by these non-cryogenic technologies (see also the related vacuum swing adsorption).", 
+        "id": "571ccd9b5efbb31900334dfc"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "By decreasing resistance to blood flow in the lungs, what organ's workload  can be eased?", 
+        "answers": [
+            "heart", 
+            "the heart", 
+            "heart", 
+            "the heart", 
+            "heart"
+        ], 
+        "context": "Uptake of O\n2 from the air is the essential purpose of respiration, so oxygen supplementation is used in medicine. Treatment not only increases oxygen levels in the patient's blood, but has the secondary effect of decreasing resistance to blood flow in many types of diseased lungs, easing work load on the heart. Oxygen therapy is used to treat emphysema, pneumonia, some heart disorders (congestive heart failure), some disorders that cause increased pulmonary artery pressure, and any disease that impairs the body's ability to take up and use gaseous oxygen.", 
+        "id": "571cd5b1dd7acb1400e4c17a"
+    }, 
+    {
+        "error_type": "reasonable answer", 
+        "question": "By what means is bulk oxygen shipped?", 
+        "answers": [
+            "insulated tankers", 
+            "insulated tankers", 
+            "insulated tankers", 
+            "specially insulated tankers"
+        ], 
+        "context": "Oxygen storage methods include high pressure oxygen tanks, cryogenics and chemical compounds. For reasons of economy, oxygen is often transported in bulk as a liquid in specially insulated tankers, since one liter of liquefied oxygen is equivalent to 840 liters of gaseous oxygen at atmospheric pressure and 20 \u00b0C (68 \u00b0F). Such tankers are used to refill bulk liquid oxygen storage containers, which stand outside hospitals and other institutions with a need for large volumes of pure oxygen gas. Liquid oxygen is passed through heat exchangers, which convert the cryogenic liquid into gas before it enters the building. Oxygen is also stored and shipped in smaller cylinders containing the compressed gas; a form that is useful in certain portable medical applications and oxy-fuel welding and cutting.", 
+        "id": "571cda1bdd7acb1400e4c198"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "In what group of compounds is oxygen a necessary part?", 
+        "answers": [
+            "organic compounds", 
+            "organic", 
+            "solvents", 
+            "organic solvents"
+        ], 
+        "context": "Among the most important classes of organic compounds that contain oxygen are (where \"R\" is an organic group): alcohols (R-OH); ethers (R-O-R); ketones (R-CO-R); aldehydes (R-CO-H); carboxylic acids (R-COOH); esters (R-COO-R); acid anhydrides (R-CO-O-CO-R); and amides (R-C(O)-NR\n2). There are many important organic solvents that contain oxygen, including: acetone, methanol, ethanol, isopropanol, furan, THF, diethyl ether, dioxane, ethyl acetate, DMF, DMSO, acetic acid, and formic acid. Acetone ((CH\n3)\n2CO) and phenol (C\n6H\n5OH) are used as feeder materials in the synthesis of many different substances. Other important organic compounds that contain oxygen are: glycerol, formaldehyde, glutaraldehyde, citric acid, acetic anhydride, and acetamide. Epoxides are ethers in which the oxygen atom is part of a ring of three atoms.", 
+        "id": "571cdcb85efbb31900334e0d"
+    }, 
+    {
+        "error_type": "copying from question", 
+        "question": "President Johnson issued an executive order to rename the Launch Operations Center after whom?", 
+        "answers": [
+            "Kennedy", 
+            "Kennedy", 
+            "Kennedy", 
+            "Kennedy", 
+            "Kennedy"
+        ], 
+        "context": "It also became clear that Apollo would outgrow the Canaveral launch facilities in Florida. The two newest launch complexes were already being built for the Saturn I and IB rockets at the northernmost end: LC-34 and LC-37. But an even bigger facility would be needed for the mammoth rocket required for the manned lunar mission, so land acquisition was started in July 1961 for a Launch Operations Center (LOC) immediately north of Canaveral at Merritt Island. The design, development and construction of the center was conducted by Kurt H. Debus, a member of Dr. Wernher von Braun's original V-2 rocket engineering team. Debus was named the LOC's first Director. Construction began in November 1962. Upon Kennedy's death, President Johnson issued an executive order on November 29, 1963, to rename the LOC and Cape Canaveral in honor of Kennedy.", 
+        "id": "5725bf2e89a1e219009abdd1"
+    }, 
+    {
+        "error_type": "sentence selection", 
+        "question": "The initial LM weighed how much in kgs?", 
+        "answers": [
+            "15,100 kg", 
+            "(15,100", 
+            "15,100", 
+            "15,100 kg", 
+            "15,100"
+        ], 
+        "context": "The Lunar Module (LM) was designed to descend from lunar orbit to land two astronauts on the Moon and take them back to orbit to rendezvous with the Command Module. Not designed to fly through the Earth's atmosphere or return to Earth, its fuselage was designed totally without aerodynamic considerations, and was of an extremely lightweight construction. It consisted of separate descent and ascent stages, each with its own engine. The descent stage contained storage for the descent propellant, surface stay consumables, and surface exploration equipment. The ascent stage contained the crew cabin, ascent propellant, and a reaction control system. The initial LM model weighed approximately 33,300 pounds (15,100 kg), and allowed surface stays up to around 34 hours. An Extended Lunar Module weighed over 36,200 pounds (16,400 kg), and allowed surface stays of over 3 days.", 
+        "id": "5725ceb989a1e219009abf0d"
+    }, 
+    {
+        "error_type": "sentence selection", 
+        "question": "How many people were on the test flight of the AS-206?", 
+        "answers": [
+            "unmanned", 
+            "unmanned", 
+            "unmanned", 
+            "unmanned"
+        ], 
+        "context": "After an unmanned LM test flight AS-206, a crew would fly the first Block II CSM and LM in a dual mission known as AS-207/208, or AS-278 (each spacecraft would be launched on a separate Saturn IB.) The Block II crew positions were titled Commander (CDR) Command Module Pilot (CMP) and Lunar Module Pilot (LMP). The astronauts would begin wearing a new Apollo spacesuit, designed to accommodate lunar extravehicular activity (EVA). The traditional visor helmet was replaced with a clear \"fishbowl\" type for greater visibility, and the lunar surface EVA suit would include a water-cooled undergarment.", 
+        "id": "5725d79e89a1e219009abf90"
+    }, 
+    {
+        "error_type": "sentence selection", 
+        "question": "How soon after the cabin fire incident did NASA create its accident review board?", 
+        "answers": [
+            "immediately", 
+            "immediately", 
+            "immediately", 
+            "immediately"
+        ], 
+        "context": "NASA immediately convened an accident review board, overseen by both houses of Congress. While the determination of responsibility for the accident was complex, the review board concluded that \"deficiencies existed in Command Module design, workmanship and quality control.\" At the insistence of NASA Administrator Webb, North American removed Harrison Storms as Command Module program manager. Webb also reassigned Apollo Spacecraft Program Office (ASPO) Manager Joseph Francis Shea, replacing him with George Low.", 
+        "id": "5725dd1689a1e219009abfe5"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "Charles Conrad and Alan Bean were on what spacecraft to the moon?", 
+        "answers": [
+            "Apollo 12", 
+            "Apollo 12", 
+            "Apollo 12", 
+            "Apollo 12", 
+            "Apollo 12"
+        ], 
+        "context": "In November 1969, Gemini veteran Charles \"Pete\" Conrad and rookie Alan L. Bean made a precision landing on Apollo 12 within walking distance of the Surveyor 3 unmanned lunar probe, which had landed in April 1967 on the Ocean of Storms. The Command Module Pilot was Gemini veteran Richard F. Gordon, Jr. Conrad and Bean carried the first lunar surface color television camera, but it was damaged when accidentally pointed into the Sun. They made two EVAs totaling 7 hours and 45 minutes. On one, they walked to the Surveyor, photographed it, and removed some parts which they returned to Earth.", 
+        "id": "5725e44238643c19005ace35"
+    }, 
+    {
+        "error_type": "factually correct", 
+        "question": "As the moon has no atmosphere, what is prevalant in many moon rock samples brought back from Apollo missions?", 
+        "answers": [
+            "micrometeoroid impact craters", 
+            "micrometeoroid impact craters", 
+            "micrometeoroid impact craters", 
+            "micrometeoroid impact craters", 
+            "micrometeoroid impact craters"
+        ], 
+        "context": "Almost all the rocks show evidence of impact process effects. Many samples appear to be pitted with micrometeoroid impact craters, which is never seen on Earth rocks, due to the thick atmosphere. Many show signs of being subjected to high pressure shock waves that are generated during impact events. Some of the returned samples are of impact melt (materials melted near an impact crater.) All samples returned from the Moon are highly brecciated as a result of being subjected to multiple impact events.", 
+        "id": "5725eb8a38643c19005ace7f"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "In what country can most of the Amazon rainforest be found?", 
+        "answers": [
+            "Brazil", 
+            "Brazil", 
+            "Brazil"
+        ], 
+        "context": "The Amazon rainforest (Portuguese: Floresta Amaz\u00f4nica or Amaz\u00f4nia; Spanish: Selva Amaz\u00f3nica, Amazon\u00eda or usually Amazonia; French: For\u00eat amazonienne; Dutch: Amazoneregenwoud), also known in English as Amazonia or the Amazon Jungle, is a moist broadleaf forest that covers most of the Amazon basin of South America. This basin encompasses 7,000,000 square kilometres (2,700,000 sq mi), of which 5,500,000 square kilometres (2,100,000 sq mi) are covered by the rainforest. This region includes territory belonging to nine nations. The majority of the forest is contained within Brazil, with 60% of the rainforest, followed by Peru with 13%, Colombia with 10%, and with minor amounts in Venezuela, Ecuador, Bolivia, Guyana, Suriname and French Guiana. States or departments in four nations contain \"Amazonas\" in their names. The Amazon represents over half of the planet's remaining rainforests, and comprises the largest and most biodiverse tract of tropical rainforest in the world, with an estimated 390 billion individual trees divided into 16,000 species.", 
+        "id": "5728349dff5b5019007d9f00"
+    }, 
+    {
+        "error_type": "sentence selection", 
+        "question": "How has this debate been proven?", 
+        "answers": [
+            "This debate has proved difficult", 
+            "difficult to resolve"
+        ], 
+        "context": "There is evidence that there have been significant changes in Amazon rainforest vegetation over the last 21,000 years through the Last Glacial Maximum (LGM) and subsequent deglaciation. Analyses of sediment deposits from Amazon basin paleolakes and from the Amazon Fan indicate that rainfall in the basin during the LGM was lower than for the present, and this was almost certainly associated with reduced moist tropical vegetation cover in the basin. There is debate, however, over how extensive this reduction was. Some scientists argue that the rainforest was reduced to small, isolated refugia separated by open forest and grassland; other scientists argue that the rainforest remained largely intact but extended less far to the north, south, and east than is seen today. This debate has proved difficult to resolve because the practical limitations of working in the rainforest mean that data sampling is biased away from the center of the Amazon basin, and both explanations are reasonably well supported by the available data.", 
+        "id": "5725c41eec44d21400f3d50e"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "During what time did civilization in the Amazon was flourishing when Orellana made his observations?", 
+        "answers": [
+            "1540s", 
+            "1540s", 
+            "1540s"
+        ], 
+        "context": "The first European to travel the length of the Amazon River was Francisco de Orellana in 1542. The BBC's Unnatural Histories presents evidence that Orellana, rather than exaggerating his claims as previously thought, was correct in his observations that a complex civilization was flourishing along the Amazon in the 1540s. It is believed that the civilization was later devastated by the spread of diseases from Europe, such as smallpox. Since the 1970s, numerous geoglyphs have been discovered on deforested land dating between AD 0\u20131250, furthering claims about Pre-Columbian civilizations. Ondemar Dias is accredited with first discovering the geoglyphs in 1977 and Alceu Ranzi with furthering their discovery after flying over Acre. The BBC's Unnatural Histories presented evidence that the Amazon rainforest, rather than being a pristine wilderness, has been shaped by man for at least 11,000 years through practices such as forest gardening and terra preta.", 
+        "id": "5725cbb289a1e219009abed3"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "What do tribes use Google Earth and GPS for?", 
+        "answers": [
+            "to help strengthen their territorial claims", 
+            "map out their ancestral lands to help strengthen their territorial claims", 
+            "map out their ancestral lands"
+        ], 
+        "context": "The use of remote sensing for the conservation of the Amazon is also being used by the indigenous tribes of the basin to protect their tribal lands from commercial interests. Using handheld GPS devices and programs like Google Earth, members of the Trio Tribe, who live in the rainforests of southern Suriname, map out their ancestral lands to help strengthen their territorial claims. Currently, most tribes in the Amazon do not have clearly defined boundaries, making it easier for commercial ventures to target their territories.", 
+        "id": "572a07c11d046914007796d8"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "Where is the airport located?", 
+        "answers": [
+            "the West Side", 
+            "West Side", 
+            "on the West Side"
+        ], 
+        "context": "While many homes in the neighborhood date back to the 1930s or before, the neighborhood is also home to several public housing developments built between the 1960s and 1990s by the Fresno Housing Authority. The US Department of Housing and Urban Development has also built small subdivisions of single-family homes in the area for purchase by low-income working families. There have been numerous attempts to revitalize the neighborhood, including the construction of a modern shopping center on the corner of Fresno and B streets, an aborted attempt to build luxury homes and a golf course on the western edge of the neighborhood, and some new section 8 apartments have been built along Church Ave west of Elm St. Cargill Meat Solutions and Foster Farms both have large processing facilities in the neighborhood, and the stench from these (and other small industrial facilities) has long plagued area residents. The Fresno Chandler Executive Airport is also on the West Side. Due to its position on the edge of the city and years of neglect by developers, is not a true \"inner-city\" neighborhood, and there are many vacant lots, strawberry fields and vineyards throughout the neighborhood. The neighborhood has very little retail activity, aside from the area near Fresno Street and State Route 99 Freeway (Kearney Palm Shopping Center, built in the late 1990s) and small corner markets scattered throughout.", 
+        "id": "5725f190ec44d21400f3d772"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "Harrogate market is in the local what?", 
+        "answers": [
+            "authorities", 
+            "authorities", 
+            "authorities"
+        ], 
+        "context": "In terms of housing stock, the authority is one of few authorities to see the proportion of detached homes rise in the 2010 Census (to 7.8%), in this instance this was coupled with a similar rise in flats and waterside apartments to 25.6%, and the proportion of converted or shared houses in 2011 renders this dwelling type within the highest of the five colour-coded brackets at 5.9%, and on a par with Oxford and Reading, greater than Manchester and Liverpool and below a handful of historic densely occupied, arguably overinflated markets in the local authorities: Harrogate, Cheltenham, Bath, inner London, Hastings, Brighton and Tunbridge Wells.", 
+        "id": "572678c0dd62a815002e8641"
+    }, 
+    {
+        "error_type": "sentence selection", 
+        "question": "What Newcastle radio station is based at the Great North Children's Hospital?", 
+        "answers": [
+            "Radio Lollipop", 
+            "Radio Lollipop", 
+            "Radio Lollipop"
+        ], 
+        "context": "NE1fm launched on 8 June 2007, the first full-time community radio station in the area. Newcastle Student Radio is run by students from both of the city's universities, broadcasting from Newcastle University's student's union building during term time. Radio Tyneside has been the voluntary hospital radio service for most hospitals across Newcastle and Gateshead since 1951, broadcasting on Hospedia  and online. The city also has a Radio Lollipop station based at the Great North Children's Hospital in the Newcastle Royal Victoria Infirmary.", 
+        "id": "57269d745951b619008f77da"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "Approximately how many textiles comprise the museum's collections of South and South-East Asian art?", 
+        "answers": [
+            "about 10,000", 
+            "10,000", 
+            "10,000"
+        ], 
+        "context": "The Museum's collections of South and South-East Asian art are the most comprehensive and important in the West comprising nearly 60,000 objects, including about 10,000 textiles and 6000 paintings, the range of the collection is immense. The Jawaharlal Nehru gallery of Indian art, opened in 1991, contains art from about 500 BC to the 19th century. There is an extensive collection of sculpture, mainly of a religious nature, Hindu, Buddhist and Jain. The gallery is richly endowed with art of the Mughal Empire and the Marathas, including fine portraits of the emperors and other paintings and drawings, jade wine cups and gold spoons inset with emeralds, diamonds and rubies, also from this period are parts of buildings such as a jaali and pillars. India was a large producer of textiles, from dyed cotton chintz, muslin to rich embroidery work using gold and silver thread, coloured sequins and beads is displayed, as are carpets from Agra and Lahore. Examples of clothing are also displayed.", 
+        "id": "5726bdc6f1498d1400e8e9c1"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "Which museum would receive items on loans from the Musical Instruments gallery?", 
+        "answers": [
+            "Horniman Museum", 
+            "The Horniman", 
+            "Horniman"
+        ], 
+        "context": "The Musical Instruments gallery closed 25 February 2010, a decision which was highly controversial. An online petition of over 5,100 names on the Parliamentary website led to Chris Smith asking Parliament about the future of the collection. The answer, from Bryan Davies was that the museum intended to preserve and care for the collection and keep it available to the public, with items being redistributed to the British Galleries, the Medieval & Renaissance Galleries, and the planned new galleries for Furniture and Europe 1600\u20131800, and that the Horniman Museum and other institutions were possible candidates for loans of material to ensure that the instruments remained publicly viewable. The Horniman went on to host a joint exhibition with the V&A of musical instruments, and has the loan of 35 instruments from the museum.", 
+        "id": "5726f1ec708984140094d6ab"
+    }, 
+    {
+        "error_type": "sentence selection", 
+        "question": "To which period is the largest item from Italy that is included in the sculpture collection dated?", 
+        "answers": [
+            "1493\u20131500", 
+            "1493\u20131500,", 
+            "1493\u20131500"
+        ], 
+        "context": "The collection of Italian, Medieval, Renaissance, Baroque and Neoclassical sculpture (both original and in cast form) is unequalled outside of Italy. It includes Canova's The Three Graces, which the museum jointly owns with National Galleries of Scotland. Italian sculptors whose work is held by the museum include: Bartolomeo Bon, Bartolomeo Bellano, Luca della Robbia, Giovanni Pisano, Donatello, Agostino di Duccio, Andrea Riccio, Antonio Rossellino, Andrea del Verrocchio, Antonio Lombardo, Pier Jacopo Alari Bonacolsi, Andrea della Robbia, Michelozzo di Bartolomeo, Michelangelo (represented by a freehand wax model and casts of his most famous sculptures), Jacopo Sansovino, Alessandro Algardi, Antonio Calcagni, Benvenuto Cellini (Medusa's head dated c. 1547), Agostino Busti, Bartolomeo Ammannati, Giacomo della Porta, Giambologna (Samson Slaying a Philistine (Giambologna) c. 1562, his finest work outside Italy), Bernini (Neptune and Triton c. 1622\u20133), Giovanni Battista Foggini, Vincenzo Foggini (Samson and the Philistines), Massimiliano Soldani Benzi, Antonio Corradini, Andrea Brustolon, Giovanni Battista Piranesi, Innocenzo Spinazzi, Canova, Carlo Marochetti and Raffaelle Monti. An unusual sculpture is the ancient Roman statue of Narcissus restored by Valerio Cioli c1564 with plaster. There are several small scale bronzes by Donatello, Alessandro Vittoria, Tiziano Aspetti and Francesco Fanelli in the collection. The largest item from Italy is the Chancel Chapel from Santa Chiara Florence dated 1493\u20131500, designed by Giuliano da Sangallo it is 11.1 metres in height by 5.4 metres square, it includes a grand sculpted tabernacle by Antonio Rossellino and coloured terracotta decoration.", 
+        "id": "5726fc63dd62a815002e970a"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "What entity was rumored to be sold by ABC in between May and September 2005?", 
+        "answers": [
+            "ABC Radio", 
+            "ABC Radio", 
+            "ABC Radio"
+        ], 
+        "context": "Between May and September 2005, rumors circulated that Disney\u2013ABC was considering a sale of ABC Radio, with Clear Channel Communications and Westwood One (which had earlier purchased NBC's radio division, as well as the distribution rights to CBS's, and the Mutual Broadcasting System during the 1990s) as potential buyers. On October 19, 2005, ABC announced the restructuring of the group into six divisions: Entertainment Communications, Communications Resources, Kids Communications, News Communications, Corporate Communications, and International Communications.", 
+        "id": "5727387b5951b619008f86e9"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "The 1970s allowed which network to move in to first place in the ratings?", 
+        "answers": [
+            "ABC", 
+            "ABC", 
+            "ABC"
+        ], 
+        "context": "In the early 1970s, ABC completed its transition to color; the decade as a whole would mark a turning point for ABC, as it began to pass CBS and NBC in the ratings to become the first place network. It also began to use behavioral and demographic data to better determine what types of sponsors to sell advertising slots to and provide programming that would appeal towards certain audiences. ABC's gains in audience share were greatly helped by the fact that several smaller markets had grown large enough to allow full-time affiliations from all three networks.", 
+        "id": "572743fb708984140094db94"
+    }, 
+    {
+        "error_type": "factually correct", 
+        "question": "What ABC division handles domestic television distribution?", 
+        "answers": [
+            "Disney\u2013ABC Domestic Television", 
+            "Disney\u2013ABC Domestic Television", 
+            "Disney\u2013ABC Domestic Television"
+        ], 
+        "context": "Also part of the library is the aforementioned Selznick library, the Cinerama Productions/Palomar theatrical library and the Selmur Productions catalog that the network acquired some years back, and the in-house productions it continues to produce (such as America's Funniest Home Videos, General Hospital, and ABC News productions), although Disney\u2013ABC Domestic Television (formerly known as Buena Vista Television) handles domestic television distribution, while Disney\u2013ABC International Television (formerly known as Buena Vista International Television) handles international television distribution.", 
+        "id": "57275273dd62a815002e9b16"
+    }, 
+    {
+        "error_type": "factually correct", 
+        "question": "What ABC action series went up against NBC's variety shows in Fall 1957?", 
+        "answers": [
+            "Zorro", 
+            "Zorro", 
+            "Zorro"
+        ], 
+        "context": "These kinds of programs presented ABC with an image of the \"philosophy of counterprogramming against its competitors\", offering a strong lineup of programs that contrasted with those seen on its rival networks, which helped Goldenson give the network a continuum between film and television. ABC's western series (as well as series such as the actioner Zorro) went up against and defeated the variety shows aired by NBC and CBS in the fall of 1957, and its detective shows did the same in the fall of 1959. To captivate the network's audiences, short 66-minute series were scheduled a half-hour before their hour-long competition. In May 1961, Life criticized the public enthusiasm and sponsorship for these types of shows at the expense of news programming and denounced an unofficial law \"replacing the good programs with the bad ones\".", 
+        "id": "57277944f1498d1400e8f90b"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "Where did Tem\u00fcjin hide during his escape from the Tayichi'ud?", 
+        "answers": [
+            "a river crevice", 
+            "a river crevice", 
+            "a river crevice."
+        ], 
+        "context": "In another incident, around 1177, he was captured in a raid and held prisoner by his father's former allies, the Tayichi'ud. The Tayichi'ud enslaved Tem\u00fcjin (reportedly with a cangue, a sort of portable stocks), but with the help of a sympathetic guard, the father of Chilaun (who later became a general of Genghis Khan), he was able to escape from the ger (yurt) in the middle of the night by hiding in a river crevice.[citation needed] It was around this time that Jelme and Bo'orchu, two of Genghis Khan's future generals, joined forces with him. Tem\u00fcjin's reputation also became widespread after his escape from the Tayichi'ud.", 
+        "id": "5726a5f65951b619008f7907"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "Which male child of Ghengis Khan and B\u00f6rte was born last?", 
+        "answers": [
+            "Tolui", 
+            "Tolui", 
+            "Tolui"
+        ], 
+        "context": "B\u00f6rte had three more sons, Chagatai (1187\u20141241), \u00d6gedei (1189\u20141241), and Tolui (1190\u20131232). Genghis Khan also had many other children with his other wives, but they were excluded from the succession. While the names of sons were documented, daughters were not. The names of at least six daughters are known, and while they played significant roles behind the scenes during his lifetime, no documents have survived that definitively provide the number or names of daughters born to the consorts of Genghis Khan.", 
+        "id": "5726a9ed5951b619008f796c"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "How many people do historians estimate Genghis Khan killed in the Iranian Plateau?", 
+        "answers": [
+            "10 to 15 million", 
+            "10 to 15 million people", 
+            "10 to 15 million people"
+        ], 
+        "context": "In the Middle East, and particularly in Iran, Genghis Khan is almost universally condemned as a destructive and genocidal warlord who caused enormous damage and destruction to the population of these areas. Steven R. Ward wrote that \"Overall, the Mongol violence and depredations killed up to three-fourths of the population of the Iranian Plateau, possibly 10 to 15 million people. Some historians have estimated that Iran's population did not again reach its pre-Mongol levels until the mid-20th century.\"", 
+        "id": "572753af708984140094dc31"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "What is an example of a controlled substance?", 
+        "answers": [
+            "Vicodin, generically known as hydrocodone", 
+            "Vicodin", 
+            "Vicodin"
+        ], 
+        "context": "Of particular concern with Internet pharmacies is the ease with which people, youth in particular, can obtain controlled substances (e.g., Vicodin, generically known as hydrocodone) via the Internet without a prescription issued by a doctor/practitioner who has an established doctor-patient relationship. There are many instances where a practitioner issues a prescription, brokered by an Internet server, for a controlled substance to a \"patient\" s/he has never met.[citation needed] In the United States, in order for a prescription for a controlled substance to be valid, it must be issued for a legitimate medical purpose by a licensed practitioner acting in the course of legitimate doctor-patient relationship. The filling pharmacy has a corresponding responsibility to ensure that the prescription is valid. Often, individual state laws outline what defines a valid patient-doctor relationship.", 
+        "id": "5726ef73f1498d1400e8f062"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "What is the effect of testosterone on the male immune system?", 
+        "answers": [
+            "immunosuppressive", 
+            "immunosuppressive", 
+            "immunosuppressive"
+        ], 
+        "context": "Hormones can act as immunomodulators, altering the sensitivity of the immune system. For example, female sex hormones are known immunostimulators of both adaptive and innate immune responses. Some autoimmune diseases such as lupus erythematosus strike women preferentially, and their onset often coincides with puberty. By contrast, male sex hormones such as testosterone seem to be immunosuppressive. Other hormones appear to regulate the immune system as well, most notably prolactin, growth hormone and vitamin D.", 
+        "id": "5729f9953f37b31900478622"
+    }, 
+    {
+        "error_type": "sentence selection", 
+        "question": "Vice President Agnew describes Civil disobedience in what activities?", 
+        "answers": [
+            "muggers, arsonists, draft evaders, campaign hecklers, campus militants, anti-war demonstrators, juvenile delinquents and political assassins", 
+            "civil disobedience", 
+            "muggers, arsonists, draft evaders, campaign hecklers, campus militants, anti-war demonstrators, juvenile delinquents and political assassins", 
+            "muggers, arsonists, draft evaders, campaign hecklers, campus militants, anti-war demonstrators, juvenile delinquents and political assassins", 
+            "activities of muggers, arsonists, draft evaders, campaign hecklers, campus militants, anti-war demonstrators, juvenile delinquents and political assassins"
+        ], 
+        "context": "It has been argued that the term \"civil disobedience\" has always suffered from ambiguity and in modern times, become utterly debased. Marshall Cohen notes, \"It has been used to describe everything from bringing a test-case in the federal courts to taking aim at a federal official. Indeed, for Vice President Agnew it has become a code-word describing the activities of muggers, arsonists, draft evaders, campaign hecklers, campus militants, anti-war demonstrators, juvenile delinquents and political assassins.\"", 
+        "id": "572726c9708984140094da7b"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "Constitutional impasse is different from civil disobedience because does not include what type of person?", 
+        "answers": [
+            "citizen's", 
+            "head of government", 
+            "private citizen", 
+            "private citizen", 
+            "private"
+        ], 
+        "context": "Civil disobedience is usually defined as pertaining to a citizen's relation to the state and its laws, as distinguished from a constitutional impasse in which two public agencies, especially two equally sovereign branches of government, conflict. For instance, if the head of government of a country were to refuse to enforce a decision of that country's highest court, it would not be civil disobedience, since the head of government would be acting in her or his capacity as public official rather than private citizen.", 
+        "id": "57280f974b864d1900164371"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "What is necessary to disobey?", 
+        "answers": [
+            "rules that conflict with morality", 
+            "rules that conflict with morality", 
+            "rules that conflict with morality", 
+            "rules that conflict with morality"
+        ], 
+        "context": "It is usually recognized that lawbreaking, if it is not done publicly, at least must be publicly announced in order to constitute civil disobedience. But Stephen Eilmann argues that if it is necessary to disobey rules that conflict with morality, we might ask why disobedience should take the form of public civil disobedience rather than simply covert lawbreaking. If a lawyer wishes to help a client overcome legal obstacles to securing her or his natural rights, he might, for instance, find that assisting in fabricating evidence or committing perjury is more effective than open disobedience. This assumes that common morality does not have a prohibition on deceit in such situations. The Fully Informed Jury Association's publication \"A Primer for Prospective Jurors\" notes, \"Think of the dilemma faced by German citizens when Hitler's secret police demanded to know if they were hiding a Jew in their house.\" By this definition, civil disobedience could be traced back to the Book of Exodus, where Shiphrah and Puah refused a direct order of Pharaoh but misrepresented how they did it. (Exodus 1: 15-19)", 
+        "id": "5728dddc2ca10214002da9d3"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "People behaving with civil disobedience that is not-violent is said to make society have more of what?", 
+        "answers": [
+            "tolerance", 
+            "tolerance of civil disobedience", 
+            "tolerance of civil disobedience", 
+            "tolerance of civil disobedience", 
+            "tolerance"
+        ], 
+        "context": "There have been debates as to whether civil disobedience must necessarily be non-violent. Black's Law Dictionary includes non-violence in its definition of civil disobedience. Christian Bay's encyclopedia article states that civil disobedience requires \"carefully chosen and legitimate means,\" but holds that they do not have to be non-violent. It has been argued that, while both civil disobedience and civil rebellion are justified by appeal to constitutional defects, rebellion is much more destructive; therefore, the defects justifying rebellion must be much more serious than those justifying disobedience, and if one cannot justify civil rebellion, then one cannot justify a civil disobedients' use of force and violence and refusal to submit to arrest. Civil disobedients' refraining from violence is also said to help preserve society's tolerance of civil disobedience.", 
+        "id": "57281c594b864d19001644a5"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "What do some civil disobedient people feel the need to acknowledge.", 
+        "answers": [
+            "accept punishment", 
+            "accept punishment", 
+            "punishment", 
+            "punishment", 
+            "punishment"
+        ], 
+        "context": "Some civil disobedients feel it is incumbent upon them to accept punishment because of their belief in the validity of the social contract, which is held to bind all to obey the laws that a government meeting certain standards of legitimacy has established, or else suffer the penalties set out in the law. Other civil disobedients who favor the existence of government still don't believe in the legitimacy of their particular government, or don't believe in the legitimacy of a particular law it has enacted. And still other civil disobedients, being anarchists, don't believe in the legitimacy of any government, and therefore see no need to accept punishment for a violation of criminal law that does not infringe the rights of others.", 
+        "id": "5728eb1a3acd2414000e01c5"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "What region does use the term 'private schools' to refer to universities?", 
+        "answers": [
+            "North America", 
+            "North America", 
+            "North America"
+        ], 
+        "context": "In the United Kingdom and several other Commonwealth countries including Australia and Canada, the use of the term is generally restricted to primary and secondary educational levels; it is almost never used of universities and other tertiary institutions. Private education in North America covers the whole gamut of educational activity, ranging from pre-school to tertiary level institutions. Annual tuition fees at K-12 schools range from nothing at so called 'tuition-free' schools to more than $45,000 at several New England preparatory schools.", 
+        "id": "57274712708984140094dbb0"
+    }, 
+    {
+        "error_type": "sentence selection", 
+        "question": "What do Germans call private schools?", 
+        "answers": [
+            "Ersatzschulen", 
+            "Ersatzschulen", 
+            "Ersatzschulen"
+        ], 
+        "context": "Ersatzschulen are ordinary primary or secondary schools, which are run by private individuals, private organizations or religious groups. These schools offer the same types of diplomas as public schools. Ersatzschulen lack the freedom to operate completely outside of government regulation. Teachers at Ersatzschulen must have at least the same education and at least the same wages as teachers at public schools, an Ersatzschule must have at least the same academic standards as a public school and Article 7, Paragraph 4 of the Grundgesetz, also forbids segregation of pupils according to the means of their parents (the so-called Sonderungsverbot). Therefore, most Ersatzschulen have very low tuition fees and/or offer scholarships, compared to most other Western European countries. However, it is not possible to finance these schools with such low tuition fees, which is why all German Ersatzschulen are additionally financed with public funds. The percentages of public money could reach 100% of the personnel expenditures. Nevertheless, Private Schools became insolvent in the past in Germany.", 
+        "id": "57274a8ff1498d1400e8f5bd"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "After what higher learning model was the school designed?", 
+        "answers": [
+            "English university model", 
+            "English university", 
+            "English university"
+        ], 
+        "context": "In the early years the College trained many Puritan ministers.[citation needed] (A 1643 publication said the school's purpose was \"to advance learning and perpetuate it to posterity, dreading to leave an illiterate ministry to the churches when our present ministers shall lie in the dust\".) It offered a classic curriculum on the English university model\u2014\u200b\u200bmany leaders in the colony had attended the University of Cambridge\u2014\u200b\u200bbut conformed Puritanism. It was never affiliated with any particular denomination, but many of its earliest graduates went on to become clergymen in Congregational and Unitarian churches.", 
+        "id": "5727b0892ca10214002d93e9"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "Which gender is more populous across all groups in Jacksonville?", 
+        "answers": [
+            "females", 
+            "females", 
+            "females"
+        ], 
+        "context": "As of 2010[update], there were 366,273 households out of which 11.8% were vacant. 23.9% of households had children under the age of 18 living with them, 43.8% were married couples, 15.2% had a female householder with no husband present, and 36.4% were non-families. 29.7% of all households were made up of individuals and 7.9% had someone living alone who was 65 years of age or older. The average household size was 2.55 and the average family size was 3.21. In the city, the population was spread out with 23.9% under the age of 18, 10.5% from 18 to 24, 28.5% from 25 to 44, 26.2% from 45 to 64, and 10.9% who were 65 years of age or older. The median age was 35.5 years. For every 100 females there were 94.1 males. For every 100 females age 18 and over, there were 91.3 males.", 
+        "id": "572827fc3acd2414000df5bd"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "Why does Oxfam and Credit Suisse believe their findings are being doubted?", 
+        "answers": [
+            "a diversion", 
+            "the basis of the methodology used", 
+            "there are more poor people in the United States and Western Europe than in China"
+        ], 
+        "context": "A study by the World Institute for Development Economics Research at United Nations University reports that the richest 1% of adults alone owned 40% of global assets in the year 2000. The three richest people in the world possess more financial assets than the lowest 48 nations combined. The combined wealth of the \"10 million dollar millionaires\" grew to nearly $41 trillion in 2008. A January 2014 report by Oxfam claims that the 85 wealthiest individuals in the world have a combined wealth equal to that of the bottom 50% of the world's population, or about 3.5 billion people. According to a Los Angeles Times analysis of the report, the wealthiest 1% owns 46% of the world's wealth; the 85 richest people, a small part of the wealthiest 1%, own about 0.7% of the human population's wealth, which is the same as the bottom half of the population. More recently, in January 2015, Oxfam reported that the wealthiest 1 percent will own more than half of the global wealth by 2016. An October 2014 study by Credit Suisse also claims that the top 1% now own nearly half of the world's wealth and that the accelerating disparity could trigger a recession. In October 2015, Credit Suisse published a study which shows global inequality continues to increase, and that half of the world's wealth is now in the hands of those in the top percentile, whose assets each exceed $759,900. A 2016 report by Oxfam claims that the 62 wealthiest individuals own as much wealth as the poorer half of the global population combined. Oxfam's claims have however been questioned on the basis of the methodology used: by using net wealth (adding up assets and subtracting debts), the Oxfam report, for instance, finds that there are more poor people in the United States and Western Europe than in China (due to a greater tendency to take on debts).[unreliable source?][unreliable source?] Anthony Shorrocks, the lead author of the Credit Suisse report which is one of the sources of Oxfam's data, considers the criticism about debt to be a \"silly argument\" and \"a non-issue . . . a diversion.\"", 
+        "id": "5727e6cbff5b5019007d97f2"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "What pushes businesses to increase pressures on workers?", 
+        "answers": [
+            "reduce costs and maximize profits", 
+            "substitution of capital equipment for labor", 
+            "pressure to reduce costs and maximize profits"
+        ], 
+        "context": "In Marxian analysis, capitalist firms increasingly substitute capital equipment for labor inputs (workers) under competitive pressure to reduce costs and maximize profits. Over the long-term, this trend increases the organic composition of capital, meaning that less workers are required in proportion to capital inputs, increasing unemployment (the \"reserve army of labour\"). This process exerts a downward pressure on wages. The substitution of capital equipment for labor (mechanization and automation) raises the productivity of each worker, resulting in a situation of relatively stagnant wages for the working class amidst rising levels of property income for the capitalist class.", 
+        "id": "5727ea45ff5b5019007d986e"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "In what sector are jobs beginning to increase?", 
+        "answers": [
+            "service", 
+            "service"
+        ], 
+        "context": "Plotting the relationship between level of income and inequality, Kuznets saw middle-income developing economies level of inequality bulging out to form what is now known as the Kuznets curve. Kuznets demonstrated this relationship using cross-sectional data. However, more recent testing of this theory with superior panel data has shown it to be very weak. Kuznets' curve predicts that income inequality will eventually decrease given time. As an example, income inequality did fall in the United States during its High school movement from 1910 to 1940 and thereafter.[citation needed] However, recent data shows that the level of income inequality began to rise after the 1970s. This does not necessarily disprove Kuznets' theory.[citation needed] It may be possible that another Kuznets' cycle is occurring, specifically the move from the manufacturing sector to the service sector.[citation needed] This implies that it may be possible for multiple Kuznets' cycles to be in effect at any given time.", 
+        "id": "57287b322ca10214002da3c0"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "What does child well-being in rich countries correlate most to?", 
+        "answers": [
+            "greater equality", 
+            "greater equality", 
+            "greater equality but not per capita income"
+        ], 
+        "context": "In recent years the characteristic that has strongly correlated with health in developed countries is income inequality. Creating an index of \"Health and Social Problems\" from nine factors, authors Richard Wilkinson and Kate Pickett found health and social problems \"more common in countries with bigger income inequalities\", and more common among states in the US with larger income inequalities. Other studies have confirmed this relationship. The UNICEF index of \"child well-being in rich countries\", studying 40 indicators in 22 countries, correlates with greater equality but not per capita income.", 
+        "id": "572a07a86aef0514001551d6"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "In what episode does the \"Fall of the Eleventh\" happen?", 
+        "answers": [
+            "The Time of the Doctor", 
+            "The Time of the Doctor", 
+            "The Time of the Doctor"
+        ], 
+        "context": "Throughout the programme's long history, there have been revelations about the Doctor that have raised additional questions. In The Brain of Morbius (1976), it was hinted that the First Doctor may not have been the first incarnation (although the other faces depicted may have been incarnations of the Time Lord Morbius). In subsequent stories the First Doctor was depicted as the earliest incarnation of the Doctor. In Mawdryn Undead (1983), the Fifth Doctor explicitly confirmed that he was then currently in his fifth incarnation. Later that same year, during 1983's 20th Anniversary special The Five Doctors, the First Doctor enquires as to the Fifth Doctor's regeneration; when the Fifth Doctor confirms \"Fourth\", the First Doctor excitedly replies \"Goodness me. So there are five of me now.\" In 2010, the Eleventh Doctor similarly calls himself \"the Eleventh\" in \"The Lodger\". In the 2013 episode \"The Time of the Doctor,\" the Eleventh Doctor clarified he was the product of the twelfth regeneration, due to a previous incarnation which he chose not to count and one other aborted regeneration. The name Eleventh is still used for this incarnation; the same episode depicts the prophesied \"Fall of the Eleventh\" which had been trailed throughout the series.", 
+        "id": "57280e323acd2414000df349"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "What was the occupation of Doctor Who's other (non-related) companions?", 
+        "answers": [
+            "teachers", 
+            "to remind the Doctor of his \"moral duty\"", 
+            "teachers"
+        ], 
+        "context": "The companion figure \u2013 generally a human \u2013 has been a constant feature in Doctor Who since the programme's inception in 1963. One of the roles of the companion is to remind the Doctor of his \"moral duty\". The Doctor's first companions seen on screen were his granddaughter Susan Foreman (Carole Ann Ford) and her teachers Barbara Wright (Jacqueline Hill) and Ian Chesterton (William Russell). These characters were intended to act as audience surrogates, through which the audience would discover information about the Doctor who was to act as a mysterious father figure. The only story from the original series in which the Doctor travels alone is The Deadly Assassin. Notable companions from the earlier series included Romana (Mary Tamm and Lalla Ward), a Time Lady; Sarah Jane Smith (Elisabeth Sladen); and Jo Grant (Katy Manning). Dramatically, these characters provide a figure with whom the audience can identify, and serve to further the story by requesting exposition from the Doctor and manufacturing peril for the Doctor to resolve. The Doctor regularly gains new companions and loses old ones; sometimes they return home or find new causes \u2014 or loves \u2014 on worlds they have visited. Some have died during the course of the series. Companions are usually human, or humanoid aliens.", 
+        "id": "5728103eff5b5019007d9c34"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "Who is the new companion for the 10th series of the revival?", 
+        "answers": [
+            "Pearl Mackie as Bill", 
+            "Pearl Mackie", 
+            "Pearl Mackie as Bill"
+        ], 
+        "context": "Since the 2005 revival, the Doctor generally travels with a primary female companion, who occupies a larger narrative role. Steven Moffat described the companion as the main character of the show, as the story begins anew with each companion and she undergoes more change than the Doctor. The primary companions of the Ninth and Tenth Doctors were Rose Tyler (Billie Piper), Martha Jones (Freema Agyeman), and Donna Noble (Catherine Tate) with Mickey Smith (Noel Clarke) and Jack Harkness (John Barrowman) recurring as secondary companion figures. The Eleventh Doctor became the first to travel with a married couple, Amy Pond (Karen Gillan) and Rory Williams (Arthur Darvill), whilst out-of-sync meetings with River Song (Alex Kingston) and Clara Oswald (Jenna Coleman) provided ongoing story arcs. The tenth series will introduce Pearl Mackie as Bill, the Doctor's newest traveling companion.", 
+        "id": "572811434b864d190016438f"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "Fans blame the poor viewership of the late 80's to competition from what show?", 
+        "answers": [
+            "Coronation Street", 
+            "Coronation Street", 
+            "Coronation Street"
+        ], 
+        "context": "During the ITV network strike of 1979, viewership peaked at 16 million.[citation needed] Figures remained respectable into the 1980s, but fell noticeably after the programme's 23rd series was postponed in 1985 and the show was off the air for 18 months. Its late 1980s performance of three to five million viewers was seen as poor at the time and was, according to the BBC Board of Control, a leading cause of the programme's 1989 suspension. Some fans considered this disingenuous, since the programme was scheduled against the soap opera Coronation Street, the most popular show at the time. After the series' revival in 2005 (the third notable period of high ratings), it has consistently had high viewership levels for the evening on which the episode is broadcast.", 
+        "id": "572821ceff5b5019007d9db4"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "What years did Doctor Who win five consecutive awards?", 
+        "answers": [
+            "2005\u20132010", 
+            "2005\u20132010", 
+            "2005\u20132010"
+        ], 
+        "context": "The show has received recognition as one of Britain's finest television programmes, winning the 2006 British Academy Television Award for Best Drama Series and five consecutive (2005\u20132010) awards at the National Television Awards during Russell T Davies' tenure as executive producer. In 2011, Matt Smith became the first Doctor to be nominated for a BAFTA Television Award for Best Actor and in 2016, Michelle Gomez became the first female to receive a BAFTA nomination for the series, getting a Best Supporting Actress nomination for her work as Missy.", 
+        "id": "572838323acd2414000df738"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "A Doctor Who show featuring Vincent Van Gogh was recognized by what award?", 
+        "answers": [
+            "a Mind Award at the 2010 Mind Mental Health Media Awards", 
+            "Mind Award", 
+            "Mind Award", 
+            "Mind Award"
+        ], 
+        "context": "The revived series has received recognition from critics and the public, across various awards ceremonies. It won five BAFTA TV Awards, including Best Drama Series, the highest-profile and most prestigious British television award for which the series has ever been nominated. It was very popular at the BAFTA Cymru Awards, with 25 wins overall including Best Drama Series (twice), Best Screenplay/Screenwriter (thrice) and Best Actor. It was also nominated for 7 Saturn Awards, winning the only Best International Series in the ceremony's history. In 2009, Doctor Who was voted the 3rd greatest show of the 2000s by Channel 4, behind Top Gear and The Apprentice. The episode \"Vincent and the Doctor\" was shortlisted for a Mind Award at the 2010 Mind Mental Health Media Awards for its \"touching\" portrayal of Vincent van Gogh.", 
+        "id": "57283ce72ca10214002da150"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "Besides Confucianism, Buddhism, and Islam, what religions were tolerated during the Yuan?", 
+        "answers": [
+            "Nestorianism and Roman Catholicism", 
+            "Nestorianism and Roman Catholicism", 
+            "Nestorianism and Roman Catholicism"
+        ], 
+        "context": "Western musical instruments were introduced to enrich Chinese performing arts. From this period dates the conversion to Islam, by Muslims of Central Asia, of growing numbers of Chinese in the northwest and southwest. Nestorianism and Roman Catholicism also enjoyed a period of toleration. Buddhism (especially Tibetan Buddhism) flourished, although Taoism endured certain persecutions in favor of Buddhism from the Yuan government. Confucian governmental practices and examinations based on the Classics, which had fallen into disuse in north China during the period of disunity, were reinstated by the Yuan court, probably in the hope of maintaining order over Han society. Advances were realized in the fields of travel literature, cartography, geography, and scientific education.", 
+        "id": "572879574b864d1900164a15"
+    }, 
+    {
+        "error_type": "reasonable answer", 
+        "question": "What language is spoken in Kenya?", 
+        "answers": [
+            "Kenya's various ethnic groups typically speak their mother tongues within their own communities", 
+            "mother tongues", 
+            "mother tongues"
+        ], 
+        "context": "Kenya's various ethnic groups typically speak their mother tongues within their own communities. The two official languages, English and Swahili, are used in varying degrees of fluency for communication with other populations. English is widely spoken in commerce, schooling and government. Peri-urban and rural dwellers are less multilingual, with many in rural areas speaking only their native languages. British English is primarily used in the country. Additionally, a distinct local dialect, Kenyan English, is used by some communities and individuals in the country, and contains features unique to it that were derived from local Bantu languages, such as Swahili and Kikuyu. It has been developing since colonisation and also contains certain elements of American English. Sheng is a Swahili-based cant spoken in some urban areas. Primarily consisting of a mixture of Swahili and English, it is an example of linguistic code-switching.", 
+        "id": "572921646aef051400154a78"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "How many doctors were in Kenya in 2011?", 
+        "answers": [
+            "7,000 doctors", 
+            "7,000", 
+            "7,000"
+        ], 
+        "context": "Nurses treat 80% of the population who visit dispensaries, health centres and private clinics in rural and under-served urban areas. Complicated cases are referred to clinical officers, medical officers and medical practitioners. According to the Kenya National Bureau of Statistics, in 2011 there were 65,000 qualified nurses registered in the country; 8,600 clinical officers and 7,000 doctors for the population of 43 million people (These figures from official registers include those who have died or left the profession hence the actual number of these workers may be lower).", 
+        "id": "572924b53f37b3190047806a"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "How many contributing authors does an IPCC report chapter have?", 
+        "answers": [
+            "a somewhat larger number", 
+            "a somewhat larger number of \"contributing authors\"", 
+            "a somewhat larger number"
+        ], 
+        "context": "Each chapter has a number of authors who are responsible for writing and editing the material. A chapter typically has two \"coordinating lead authors\", ten to fifteen \"lead authors\", and a somewhat larger number of \"contributing authors\". The coordinating lead authors are responsible for assembling the contributions of the other authors, ensuring that they meet stylistic and formatting requirements, and reporting to the Working Group chairs. Lead authors are responsible for writing sections of chapters. Contributing authors prepare text, graphs or data for inclusion by the lead authors.", 
+        "id": "57293d6d1d046914007791b9"
+    }, 
+    {
+        "error_type": "sentence selection", 
+        "question": "What shape is Chlamydomonas's chloroplasts?", 
+        "answers": [
+            "a cup", 
+            "a cup", 
+            "cup"
+        ], 
+        "context": "In land plants, chloroplasts are generally lens-shaped, 5\u20138 \u03bcm in diameter and 1\u20133 \u03bcm thick. Greater diversity in chloroplast shapes exists among the algae, which often contain a single chloroplast that can be shaped like a net (e.g., Oedogonium), a cup (e.g., Chlamydomonas), a ribbon-like spiral around the edges of the cell (e.g., Spirogyra), or slightly twisted bands at the cell edges (e.g., Sirogonium). Some algae have two chloroplasts in each cell; they are star-shaped in Zygnema, or may follow the shape of half the cell in order Desmidiales. In some algae, the chloroplast takes up most of the cell, with pockets for the nucleus and other organelles (for example some species of Chlorella have a cup-shaped chloroplast that occupies much of the cell).", 
+        "id": "57296cb21d04691400779407"
+    }, 
+    {
+        "error_type": "random guess", 
+        "question": "What do pyrenoids store?", 
+        "answers": [
+            "starch", 
+            "starch", 
+            "starch"
+        ], 
+        "context": "The chloroplasts of some hornworts and algae contain structures called pyrenoids. They are not found in higher plants. Pyrenoids are roughly spherical and highly refractive bodies which are a site of starch accumulation in plants that contain them. They consist of a matrix opaque to electrons, surrounded by two hemispherical starch plates. The starch is accumulated as the pyrenoids mature. In algae with carbon concentrating mechanisms, the enzyme rubisco is found in the pyrenoids. Starch can also accumulate around the pyrenoids when CO2 is scarce. Pyrenoids can divide to form new pyrenoids, or be produced \"de novo\".", 
+        "id": "57296f85af94a219006aa406"
+    }, 
+    {
+        "error_type": "same entity type confusion", 
+        "question": "What does ATP synthase change into ATP?", 
+        "answers": [
+            "phosphorylate adenosine diphosphate", 
+            "phosphorylate adenosine diphosphate", 
+            "energy from the flowing hydrogen ions"
+        ], 
+        "context": "Like mitochondria, chloroplasts use the potential energy stored in an H+, or hydrogen ion gradient to generate ATP energy. The two photosystems capture light energy to energize electrons taken from water, and release them down an electron transport chain. The molecules between the photosystems harness the electrons' energy to pump hydrogen ions into the thylakoid space, creating a concentration gradient, with more hydrogen ions (up to a thousand times as many) inside the thylakoid system than in the stroma. The hydrogen ions in the thylakoid space then diffuse back down their concentration gradient, flowing back out into the stroma through ATP synthase. ATP synthase uses the energy from the flowing hydrogen ions to phosphorylate adenosine diphosphate into adenosine triphosphate, or ATP. Because chloroplast ATP synthase projects out into the stroma, the ATP is synthesized there, in position to be used in the dark reactions.", 
+        "id": "572975073f37b31900478418"
+    }
+]

@@ -1,0 +1,1125 @@
+[
+    {
+        "question": "What team was the NFC champion?", 
+        "answers": [
+            "Carolina Panthers", 
+            "Carolina Panthers", 
+            "Carolina Panthers"
+        ], 
+        "inference_type": "word match", 
+        "context": "Super Bowl 50 was an American football game to determine the champion of the National Football League (NFL) for the 2015 season. The American Football Conference (AFC) champion Denver Broncos defeated the National Football Conference (NFC) champion Carolina Panthers 24\u201310 to earn their third Super Bowl title. The game was played on February 7, 2016, at Levi's Stadium in the San Francisco Bay Area at Santa Clara, California. As this was the 50th Super Bowl, the league emphasized the \"golden anniversary\" with various gold-themed initiatives, as well as temporarily suspending the tradition of naming each Super Bowl game with Roman numerals (under which the game would have been known as \"Super Bowl L\"), so that the logo could prominently feature the Arabic numerals 50.", 
+        "id": "56d20362e7d4791d009025ea"
+    }, 
+    {
+        "question": "What is the record number of touchdowns Cam Newton has had? ", 
+        "answers": [
+            "45", 
+            "45", 
+            "45"
+        ], 
+        "inference_type": "corerference", 
+        "context": "The Panthers offense, which led the NFL in scoring (500 points), was loaded with talent, boasting six Pro Bowl selections. Pro Bowl quarterback Cam Newton had one of his best seasons, throwing for 3,837 yards and rushing for 636, while recording a career-high and league-leading 45 total touchdowns (35 passing, 10 rushing), a career-low 10 interceptions, and a career-best quarterback rating of 99.4. Newton's leading receivers were tight end Greg Olsen, who caught a career-high 77 passes for 1,104 yards and seven touchdowns, and wide receiver Ted Ginn, Jr., who caught 44 passes for 739 yards and 10 touchdowns; Ginn also rushed for 60 yards and returned 27 punts for 277 yards. Other key receivers included veteran Jerricho Cotchery (39 receptions for 485 yards), rookie Devin Funchess (31 receptions for 473 yards and five touchdowns), and second-year receiver Corey Brown (31 receptions for 447 yards). The Panthers backfield featured Pro Bowl running back Jonathan Stewart, who led the team with 989 rushing yards and six touchdowns in 13 games, along with Pro Bowl fullback Mike Tolbert, who rushed for 256 yards and caught 18 passes for another 154 yards. Carolina's offensive line also featured two Pro Bowl selections: center Ryan Kalil and guard Trai Turner.", 
+        "id": "56bf6b303aeaaa14008c960b"
+    }, 
+    {
+        "question": "Who did the Panthers play in their division championship game?", 
+        "answers": [
+            "Arizona Cardinals", 
+            "the Seattle Seahawks", 
+            "Cardinals"
+        ], 
+        "inference_type": "implicit relation", 
+        "context": "The Panthers beat the Seattle Seahawks in the divisional round, running up a 31\u20130 halftime lead and then holding off a furious second half comeback attempt to win 31\u201324, avenging their elimination from a year earlier. The Panthers then blew out the Arizona Cardinals in the NFC Championship Game, 49\u201315, racking up 487 yards and forcing seven turnovers.", 
+        "id": "56d99e78dc89441400fdb619"
+    }, 
+    {
+        "question": "What role does John Elway currently have in the Broncos franchise?", 
+        "answers": [
+            "Executive Vice President of Football Operations and General Manager", 
+            "Executive Vice President of Football Operations and General Manager", 
+            "Executive Vice President of Football Operations and General Manager.", 
+            "Executive Vice President of Football Operations and General Manager."
+        ], 
+        "inference_type": "corerference", 
+        "context": "Peyton Manning became the first quarterback ever to lead two different teams to multiple Super Bowls. He is also the oldest quarterback ever to play in a Super Bowl at age 39. The past record was held by John Elway, who led the Broncos to victory in Super Bowl XXXIII at age 38 and is currently Denver's Executive Vice President of Football Operations and General Manager.", 
+        "id": "56beb86b3aeaaa14008c92c0"
+    }, 
+    {
+        "question": "What color jersey has Denver 0-4?", 
+        "answers": [
+            "orange", 
+            "orange", 
+            "orange"
+        ], 
+        "inference_type": "corerference", 
+        "context": "As the designated home team in the annual rotation between AFC and NFC teams, the Broncos elected to wear their road white jerseys with matching white pants. Elway stated, \"We've had Super Bowl success in our white uniforms.\" The Broncos last wore matching white jerseys and pants in the Super Bowl in Super Bowl XXXIII, Elway's last game as Denver QB, when they defeated the Atlanta Falcons 34\u201319. In their only other Super Bowl win in Super Bowl XXXII, Denver wore blue jerseys, which was their primary color at the time. They also lost Super Bowl XXI when they wore white jerseys, but they are 0-4 in Super Bowls when wearing orange jerseys, losing in Super Bowl XII, XXII, XXIV, and XLVIII. The only other AFC champion team to have worn white as the designated home team in the Super Bowl was the Pittsburgh Steelers; they defeated the Seattle Seahawks 21\u201310 in Super Bowl XL 10 seasons prior. The Broncos' decision to wear white meant the Panthers would wear their standard home uniform: black jerseys with silver pants.", 
+        "id": "56d9a637dc89441400fdb699"
+    }, 
+    {
+        "question": "Which mobile service were Verizon customers able to watch Super Bowl 50 on their phones?", 
+        "answers": [
+            "NFL Mobile service.", 
+            "NFL Mobile", 
+            "NFL"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "CBS provided digital streams of the game via CBSSports.com, and the CBS Sports apps on tablets, Windows 10, Xbox One and other digital media players (such as Chromecast and Roku). Due to Verizon Communications exclusivity, streaming on smartphones was only provided to Verizon Wireless customers via the NFL Mobile service. The ESPN Deportes Spanish broadcast was made available through WatchESPN.", 
+        "id": "56d7205e0d65d21400198392"
+    }, 
+    {
+        "question": "Who did play-by-play on Westwood One?", 
+        "answers": [
+            "Kevin Harlan", 
+            "Kevin Harlan", 
+            "Kevin Harlan"
+        ], 
+        "inference_type": "word match", 
+        "context": "Westwood One will carry the game throughout North America, with Kevin Harlan as play-by-play announcer, Boomer Esiason and Dan Fouts as color analysts, and James Lofton and Mark Malone as sideline reporters. Jim Gray will anchor the pre-game and halftime coverage.", 
+        "id": "56bec4a33aeaaa14008c93b2"
+    }, 
+    {
+        "question": "In what year did Harvey Martin die?", 
+        "answers": [
+            "2001", 
+            "2001", 
+            "2001"
+        ], 
+        "inference_type": "corerference", 
+        "context": "In honor of the 50th Super Bowl, the pregame ceremony featured the on-field introduction of 39 of the 43 previous Super Bowl Most Valuable Players. Bart Starr (MVP of Super Bowls I and II) and Chuck Howley (MVP of Super Bowl V) appeared via video, while Peyton Manning (MVP of Super Bowl XLI and current Broncos quarterback) was shown in the locker room preparing for the game. No plans were announced regarding the recognition of Harvey Martin, co-MVP of Super Bowl XII, who died in 2001.", 
+        "id": "56bec6573aeaaa14008c93ec"
+    }, 
+    {
+        "question": "Who ran the ball twice for 20 yards on this drive?", 
+        "answers": [
+            "C. J. Anderson", 
+            "C. J. Anderson", 
+            "Anderson"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "Denver took the opening kickoff and started out strong with Peyton Manning completing an 18-yard pass to tight end Owen Daniels and a 22-yard throw to receiver Andre Caldwell. A pair of carries by C. J. Anderson moved the ball up 20 yards to the Panthers 14-yard line, but Carolina's defense dug in over the next three plays. First, linebacker Shaq Thompson tackled Ronnie Hillman for a 3-yard loss. Then after an incompletion, Thomas Davis tackled Anderson for a 1-yard gain on third down, forcing Denver to settle for a 3\u20130 lead on a Brandon McManus 34-yard field goal. The score marked the first time in the entire postseason that Carolina was facing a deficit.", 
+        "id": "56bec7a63aeaaa14008c941b"
+    }, 
+    {
+        "question": "Who scored the Panthers first touchdown? ", 
+        "answers": [
+            "Jonathan Stewart", 
+            "Jonathan Stewart", 
+            "Stewart"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "After a punt from both teams, Carolina got on track with a 9-play, 73-yard scoring drive. Newton completed 4 of 4 passes for 51 yards and rushed twice for 25 yards, while Jonathan Stewart finished the drive with a 1-yard touchdown run, cutting the score to 10\u20137 with 11:28 left in the second quarter. Later on, Broncos receiver Jordan Norwood received Brad Nortman's short 28-yard punt surrounded by Panthers players, but none of them attempted to make a tackle, apparently thinking Norwood had called a fair catch. Norwood had not done so, and with no resistance around him, he took off for a Super Bowl record 61-yard return before Mario Addison dragged him down on the Panthers 14-yard line. Despite Denver's excellent field position, they could not get the ball into the end zone, so McManus kicked a 33-yard field goal that increased their lead to 13\u20137.", 
+        "id": "56d9c6e0dc89441400fdb7f0"
+    }, 
+    {
+        "question": "What team had the lowest downs and yards ever in the Super Bowl as of Super Bowl 50?", 
+        "answers": [
+            "The Broncos", 
+            "Denver", 
+            "Denver"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "Super Bowl 50 featured numerous records from individuals and teams. Denver won despite being massively outgained in total yards (315 to 194) and first downs (21 to 11). Their 194 yards and 11 first downs were both the lowest totals ever by a Super Bowl winning team. The previous record was 244 yards by the Baltimore Ravens in Super Bowl XXXV. Only seven other teams had ever gained less than 200 yards in a Super Bowl, and all of them had lost. The Broncos' seven sacks tied a Super Bowl record set by the Chicago Bears in Super Bowl XX. Kony Ealy tied a Super Bowl record with three sacks. Jordan Norwood's 61-yard punt return set a new record, surpassing the old record of 45 yards set by John Taylor in Super Bowl XXIII. Denver was just 1-of-14 on third down, while Carolina was barely better at 3-of-15. The two teams' combined third down conversion percentage of 13.8 was a Super Bowl low. Manning and Newton had quarterback passer ratings of 56.6 and 55.4, respectively, and their added total of 112 is a record lowest aggregate passer rating for a Super Bowl. Manning became the oldest quarterback ever to win a Super Bowl at age 39, and the first quarterback ever to win a Super Bowl with two different teams, while Gary Kubiak became the first head coach to win a Super Bowl with the same franchise he went to the Super Bowl with as a player.", 
+        "id": "56d9cd9adc89441400fdb84e"
+    }, 
+    {
+        "question": "What museum preserves the memory of the crime?", 
+        "answers": [
+            "Katy\u0144", 
+            "Katy\u0144 Museum", 
+            "Katy\u0144 Museum"
+        ], 
+        "inference_type": "word match", 
+        "context": "A fine tribute to the fall of Warsaw and history of Poland can be found in the Warsaw Uprising Museum and in the Katy\u0144 Museum which preserves the memory of the crime. The Warsaw Uprising Museum also operates a rare preserved and operating historic stereoscopic theatre, the Warsaw Fotoplastikon. The Museum of Independence preserves patriotic and political objects connected with Poland's struggles for independence. Dating back to 1936 Warsaw Historical Museum contains 60 rooms which host a permanent exhibition of the history of Warsaw from its origins until today.", 
+        "id": "5733a1854776f41900660f0b"
+    }, 
+    {
+        "question": "When did Warsaw become the capital of the Kingdom of Poland?", 
+        "answers": [
+            "1596", 
+            "1596", 
+            "1596"
+        ], 
+        "inference_type": "word match", 
+        "context": "The first historical reference to Warsaw dates back to the year 1313, at a time when Krak\u00f3w served as the Polish capital city. Due to its central location between the Polish\u2013Lithuanian Commonwealth's capitals of Krak\u00f3w and Vilnius, Warsaw became the capital of the Commonwealth and of the Crown of the Kingdom of Poland when King Sigismund III Vasa moved his court from Krak\u00f3w to Warsaw in 1596. After the Third Partition of Poland in 1795, Warsaw was incorporated into the Kingdom of Prussia. In 1806 during the Napoleonic Wars, the city became the official capital of the Grand Duchy of Warsaw, a puppet state of the First French Empire established by Napoleon Bonaparte. In accordance with the decisions of the Congress of Vienna, the Russian Empire annexed Warsaw in 1815 and it became part of the \"Congress Kingdom\". Only in 1918 did it regain independence from the foreign rule and emerge as a new capital of the independent Republic of Poland. The German invasion in 1939, the massacre of the Jewish population and deportations to concentration camps led to the uprising in the Warsaw ghetto in 1943 and to the major and devastating Warsaw Uprising between August and October 1944. Warsaw gained the title of the \"Phoenix City\" because it has survived many wars, conflicts and invasions throughout its long history. Most notably, the city required painstaking rebuilding after the extensive damage it suffered in World War II, which destroyed 85% of its buildings. On 9 November 1940, the city was awarded Poland's highest military decoration for heroism, the Virtuti Militari, during the Siege of Warsaw (1939).", 
+        "id": "5733140a4776f419006606e2"
+    }, 
+    {
+        "question": "What were the structures built by the Soviets typical of?", 
+        "answers": [
+            "an Eastern Bloc city", 
+            "an Eastern Bloc city"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "After World War II, under a Communist regime set up by the conquering Soviets, the \"Bricks for Warsaw\" campaign was initiated, and large prefabricated housing projects were erected in Warsaw to address the housing shortage, along with other typical buildings of an Eastern Bloc city, such as the Palace of Culture and Science, a gift from the Soviet Union. The city resumed its role as the capital of Poland and the country's centre of political and economic life. Many of the historic streets, buildings, and churches were restored to their original form. In 1980, Warsaw's historic Old Town was inscribed onto UNESCO's World Heritage list.", 
+        "id": "57332f81d058e614000b5778"
+    }, 
+    {
+        "question": "How many kilometers is Warsaw from the Carpathian Mountains?", 
+        "answers": [
+            "about 300", 
+            "300", 
+            "300"
+        ], 
+        "inference_type": "word match", 
+        "context": "Warsaw lies in east-central Poland about 300 km (190 mi) from the Carpathian Mountains and about 260 km (160 mi) from the Baltic Sea, 523 km (325 mi) east of Berlin, Germany. The city straddles the Vistula River. It is located in the heartland of the Masovian Plain, and its average elevation is 100 metres (330 ft) above sea level. The highest point on the left side of the city lies at a height of 115.7 metres (379.6 ft) (\"Redutowa\" bus depot, district of Wola), on the right side \u2013 122.1 metres (400.6 ft) (\"Grosz\u00f3wka\" estate, district of Weso\u0142a, by the eastern border). The lowest point lies at a height 75.6 metres (248.0 ft) (at the right bank of the Vistula, by the eastern border of Warsaw). There are some hills (mostly artificial) located within the confines of the city \u2013 e.g. Warsaw Uprising Hill (121 metres (397.0 ft)), Szcz\u0119\u015bliwice hill (138 metres (452.8 ft) \u2013 the highest point of Warsaw in general).", 
+        "id": "5733314e4776f4190066076a"
+    }, 
+    {
+        "question": "In what districts are the registration numbers for cars all of the same type?", 
+        "answers": [
+            "Krak\u00f3w", 
+            "Krak\u00f3w"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "The basic unit of territorial division in Poland is a commune (gmina). A city is also a commune \u2013 but with the city charter. Both cities and communes are governed by a mayor \u2013 but in the communes the mayor is vogt (w\u00f3jt in Polish), however in the cities \u2013 burmistrz. Some bigger cities obtain the entitlements, i.e. tasks and privileges, which are possessed by the units of the second level of the territorial division \u2013 counties or powiats. An example of such entitlement is a car registration: a gmina cannot register cars, this is a powiat's task (i.e. a registration number depends on what powiat a car had been registered, not gmina). In this case we say about city county or powiat grodzki. Such cities are for example Lublin, Krak\u00f3w, Gda\u0144sk, Pozna\u0144. In Warsaw, its districts additionally have some of powiat's entitlements \u2013 like already mentioned car registration. For example, the district Wola has its own evidence and the district Ursyn\u00f3w \u2013 its own (and the cars from Wola have another type of registration number than these from Ursyn\u00f3w). But for instance the districts in Krak\u00f3w do not have entitlements of powiat, so the registration numbers in Krak\u00f3w are of the same type for all districts.", 
+        "id": "573380e0d058e614000b5beb"
+    }, 
+    {
+        "question": "Who was Margaret's brother?", 
+        "answers": [
+            "Edgar", 
+            "Edgar", 
+            "Edgar Atheling"
+        ], 
+        "inference_type": "implicit relation", 
+        "context": "One of the claimants of the English throne opposing William the Conqueror, Edgar Atheling, eventually fled to Scotland. King Malcolm III of Scotland married Edgar's sister Margaret, and came into opposition to William who had already disputed Scotland's southern borders. William invaded Scotland in 1072, riding as far as Abernethy where he met up with his fleet of ships. Malcolm submitted, paid homage to William and surrendered his son Duncan as a hostage, beginning a series of arguments as to whether the Scottish Crown owed allegiance to the King of England.", 
+        "id": "56de17f9cffd8e1900b4b5e0"
+    }, 
+    {
+        "question": "What did Tesla do in Tomingaj?", 
+        "answers": [
+            "he explored the mountains in hunter's garb", 
+            "he explored", 
+            "explored the mountains in hunter's garb"
+        ], 
+        "inference_type": "corerference", 
+        "context": "In 1874, Tesla evaded being drafted into the Austro-Hungarian Army in Smiljan by running away to Tomingaj, near Gra\u010dac. There, he explored the mountains in hunter's garb. Tesla said that this contact with nature made him stronger, both physically and mentally. He read many books while in Tomingaj, and later said that Mark Twain's works had helped him to miraculously recover from his earlier illness.", 
+        "id": "56e0c2bc231d4119001ac38b"
+    }, 
+    {
+        "question": "When was Tesla brought to Gospic?", 
+        "answers": [
+            "1879", 
+            "On 24 March 1879,", 
+            "24 March 1879"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "On 24 March 1879, Tesla was returned to Gospi\u0107 under police guard for not having a residence permit. On 17 April 1879, Milutin Tesla died at the age of 60 after contracting an unspecified illness (although some sources say that he died of a stroke). During that year, Tesla taught a large class of students in his old school, Higher Real Gymnasium, in Gospi\u0107.", 
+        "id": "56e0cd33231d4119001ac3c0"
+    }, 
+    {
+        "question": "Where was the  Continental Edison Company located?", 
+        "answers": [
+            "France", 
+            "in France", 
+            "France"
+        ], 
+        "inference_type": "word match", 
+        "context": "In 1882, Tesla began working for the Continental Edison Company in France, designing and making improvements to electrical equipment. In June 1884, he relocated to New York City:57\u201360 where he was hired by Thomas Edison to work at his Edison Machine Works on Manhattan's lower east side. Tesla's work for Edison began with simple electrical engineering and quickly progressed to solving more difficult problems.", 
+        "id": "56e0d54a7aa994140058e76a"
+    }, 
+    {
+        "question": "How much did Westinghouse pay to license Tesla's designs?", 
+        "answers": [
+            "$60,000 in cash and stock and a royalty of $2.50 per AC horsepower produced by each motor", 
+            "$60,000 in cash and stock and a royalty", 
+            "$60,000 in cash and stock and a royalty of $2.50 per AC horsepower produced by each motor"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "In July 1888, Brown and Peck negotiated a licensing deal with George Westinghouse for Tesla's polyphase induction motor and transformer designs for $60,000 in cash and stock and a royalty of $2.50 per AC horsepower produced by each motor. Westinghouse also hired Tesla for one year for the large fee of $2,000 ($52,700 in today's dollars) per month to be a consultant at the Westinghouse Electric & Manufacturing Company's Pittsburgh labs.", 
+        "id": "56e05900231d4119001ac04e"
+    }, 
+    {
+        "question": "How much money did John Jacob Astor IV provide Tesla with?", 
+        "answers": [
+            "$100,000", 
+            "$100,000", 
+            "$100,000"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "In 1899, John Jacob Astor IV invested $100,000 for Tesla to further develop and produce a new lighting system. Instead, Tesla used the money to fund his Colorado Springs experiments.", 
+        "id": "56e100b6cd28a01900c67403"
+    }, 
+    {
+        "question": "What was used to accelerate the tungsten pellets?", 
+        "answers": [
+            "high voltage", 
+            "high voltage", 
+            "high voltage"
+        ], 
+        "inference_type": "corerference", 
+        "context": "In 1937, at a luncheon in his honor concerning the death ray, Tesla stated, \"But it is not an experiment ... I have built, demonstrated and used it. Only a little time will pass before I can give it to the world.\" His records indicate that the device is based on a narrow stream of small tungsten pellets that are accelerated via high voltage (by means akin to his magnifying transformer).", 
+        "id": "56e10f14e3433e1400422b5f"
+    }, 
+    {
+        "question": "In what city is the Nikola Tesla Museum?", 
+        "answers": [
+            "Belgrade", 
+            "Belgrade", 
+            "Belgrade"
+        ], 
+        "inference_type": "word match", 
+        "context": "During the same year, Tesla wrote a treatise, The Art of Projecting Concentrated Non-dispersive Energy through the Natural Media, concerning charged particle beam weapons. Tesla published the document in an attempt to expound on the technical description of a \"superweapon that would put an end to all war.\" This treatise is currently in the Nikola Tesla Museum archive in Belgrade. It describes an open-ended vacuum tube with a gas jet seal that allows particles to exit, a method of charging particles to millions of volts, and a method of creating and directing non-dispersive particle streams (through electrostatic repulsion). Tesla tried to interest the US War Department, the United Kingdom, the Soviet Union, and Yugoslavia in the device.", 
+        "id": "56e10fbacd28a01900c6750b"
+    }, 
+    {
+        "question": "What day was Tesla's funeral?", 
+        "answers": [
+            "12 January", 
+            "12 January", 
+            "12 January"
+        ], 
+        "inference_type": "implicit relation", 
+        "context": "On 10 January 1943, New York City mayor Fiorello La Guardia read a eulogy written by Slovene-American author Louis Adamic live over the WNYC radio while violin pieces \"Ave Maria\" and \"Tamo daleko\" were played in the background. On 12 January, two thousand people attended a state funeral for Tesla at the Cathedral of Saint John the Divine. After the funeral, Tesla's body was taken to the Ferncliff Cemetery in Ardsley, New York, where it was later cremated. The following day, a second service was conducted by prominent priests in the Trinity Chapel (today's Serbian Orthodox Cathedral of Saint Sava) in New York City.", 
+        "id": "56e111e5e3433e1400422b92"
+    }, 
+    {
+        "question": "Where did Tesla and Twain hang out?", 
+        "answers": [
+            "lab", 
+            "in his lab", 
+            "in his lab and elsewhere"
+        ], 
+        "inference_type": "corerference", 
+        "context": "Tesla was a good friend of Francis Marion Crawford, Robert Underwood Johnson, Stanford White, Fritz Lowenstein, George Scherff, and Kenneth Swezey. In middle age, Tesla became a close friend of Mark Twain; they spent a lot of time together in his lab and elsewhere. Twain notably described Tesla's induction motor invention as \"the most valuable patent since the telephone.\" In the late 1920s, Tesla also befriended George Sylvester Viereck, a poet, writer, mystic, and later, a Nazi propagandist. Tesla occasionally attended dinner parties held by Viereck and his wife.", 
+        "id": "56e11f83cd28a01900c67612"
+    }, 
+    {
+        "question": "A non-deterministic Turing machine has the ability to capture what facet of useful analysis?", 
+        "answers": [
+            "mathematical models", 
+            "mathematical models", 
+            "branching"
+        ], 
+        "inference_type": "corerference", 
+        "context": "However, some computational problems are easier to analyze in terms of more unusual resources. For example, a non-deterministic Turing machine is a computational model that is allowed to branch out to check many different possibilities at once. The non-deterministic Turing machine has very little to do with how we physically want to compute algorithms, but its branching exactly captures many of the mathematical models we want to analyze, so that non-deterministic time is a very important resource in analyzing computational problems.", 
+        "id": "56e1b355e3433e14004230b2"
+    }, 
+    {
+        "question": "The time required to output an answer on a deterministic Turing machine is expressed as what?", 
+        "answers": [
+            "state transitions", 
+            "the total number of state transitions, or steps", 
+            "total number of state transitions, or steps, the machine makes before it halts and outputs the answer"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "For a precise definition of what it means to solve a problem using a given amount of time and space, a computational model such as the deterministic Turing machine is used. The time required by a deterministic Turing machine M on input x is the total number of state transitions, or steps, the machine makes before it halts and outputs the answer (\"yes\" or \"no\"). A Turing machine M is said to operate within time f(n), if the time required by M on each input of length n is at most f(n). A decision problem A can be solved in time f(n) if there exists a Turing machine operating in time f(n) that solves the problem. Since complexity theory is interested in classifying problems based on their difficulty, one defines sets of problems based on some criteria. For instance, the set of problems solvable within time f(n) on a deterministic Turing machine is then denoted by DTIME(f(n)).", 
+        "id": "56e1b62ecd28a01900c67aa3"
+    }, 
+    {
+        "question": "Bounding of time and space or similar measurements is often used by algorithms to define what?", 
+        "answers": [
+            "complexity classes", 
+            "complexity classes", 
+            "complexity classes"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "Many important complexity classes can be defined by bounding the time or space used by the algorithm. Some important complexity classes of decision problems defined in this manner are the following:", 
+        "id": "56e1c3e1e3433e140042314a"
+    }, 
+    {
+        "question": "What type of curricula is it that a teacher may likely follow?", 
+        "answers": [
+            "standardized", 
+            "standardized", 
+            "standardized"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "The objective is typically a course of study, lesson plan, or a practical skill. A teacher may follow standardized curricula as determined by the relevant authority. The teacher may interact with students of different ages, from infants to adults, students with different abilities and students with learning disabilities.", 
+        "id": "56e7535037bdd419002c3e73"
+    }, 
+    {
+        "question": "In a platoon style teaching, what gives the children security?", 
+        "answers": [
+            "staying with the same group of peers for all classes", 
+            "staying with the same group of peers for all classes", 
+            "by staying with the same group of peers for all classes"
+        ], 
+        "inference_type": "long distance", 
+        "context": "This is true throughout most of the United States as well. However, alternative approaches for primary education do exist. One of these, sometimes referred to as a \"platoon\" system, involves placing a group of students together in one class that moves from one specialist to another for every subject. The advantage here is that students learn from teachers who specialize in one subject and who tend to be more knowledgeable in that one area than a teacher who teaches many subjects. Students still derive a strong sense of security by staying with the same group of peers for all classes.", 
+        "id": "56e7560937bdd419002c3e8d"
+    }, 
+    {
+        "question": "Where does the pupil remain while in detention", 
+        "answers": [
+            "in schools", 
+            "school", 
+            "school"
+        ], 
+        "inference_type": "corerference", 
+        "context": "Currently detention is one of the most common punishments in schools in the United States, the UK, Ireland, Singapore and other countries. It requires the pupil to remain in school at a given time in the school day (such as lunch, recess or after school); or even to attend school on a non-school day, e.g. \"Saturday detention\" held at some schools. During detention, students normally have to sit in a classroom and do work, write lines or a punishment essay, or sit quietly.", 
+        "id": "56e75a9037bdd419002c3ec9"
+    }, 
+    {
+        "question": "What countries are used as an example of harsher discipline with successful education?", 
+        "answers": [
+            "East Asia", 
+            "East Asia", 
+            "countries\u2014in East Asia"
+        ], 
+        "inference_type": "corerference", 
+        "context": "Whilst this is the consensus viewpoint amongst the majority of academics, some teachers and parents advocate a more assertive and confrontational style of discipline.[citation needed] Such individuals claim that many problems with modern schooling stem from the weakness in school discipline and if teachers exercised firm control over the classroom they would be able to teach more efficiently. This viewpoint is supported by the educational attainment of countries\u2014in East Asia for instance\u2014that combine strict discipline with high standards of education.[citation needed]", 
+        "id": "56e75d5037bdd419002c3ef6"
+    }, 
+    {
+        "question": "How many teachers were found to have felt occupational stress in a 2000 study?", 
+        "answers": [
+            "42%", 
+            "42%", 
+            "42%"
+        ], 
+        "inference_type": "word match", 
+        "context": "A 2000 study found that 42% of UK teachers experienced occupational stress, twice the figure for the average profession. A 2012 study found that teachers experienced double the rate of anxiety, depression, and stress than average workers.", 
+        "id": "56e76b8337bdd419002c3f7f"
+    }, 
+    {
+        "question": "Who is responsible for education in the country of Australia?", 
+        "answers": [
+            "the individual states and territories", 
+            "individual states", 
+            "individual states and territories"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "Education in Australia is primarily the responsibility of the individual states and territories. Generally, education in Australia follows the three-tier model which includes primary education (primary schools), followed by secondary education (secondary schools/high schools) and tertiary education (universities and/or TAFE colleges).", 
+        "id": "56e76de800c9c71400d77122"
+    }, 
+    {
+        "question": "What is considered an all graduate profession in Scotland?", 
+        "answers": [
+            "Teaching", 
+            "Teaching", 
+            "Teaching"
+        ], 
+        "inference_type": "word match", 
+        "context": "In Scotland, anyone wishing to teach must be registered with the General Teaching Council for Scotland (GTCS). Teaching in Scotland is an all graduate profession and the normal route for graduates wishing to teach is to complete a programme of Initial Teacher Education (ITE) at one of the seven Scottish Universities who offer these courses. Once successfully completed, \"Provisional Registration\" is given by the GTCS which is raised to \"Full Registration\" status after a year if there is sufficient evidence to show that the \"Standard for Full Registration\" has been met.", 
+        "id": "56e775ec00c9c71400d7715d"
+    }, 
+    {
+        "question": "After Archbishop Albrecht reviewed the Theses, where did he send them?", 
+        "answers": [
+            "Rome", 
+            "Rome", 
+            "Rome"
+        ], 
+        "inference_type": "corerference", 
+        "context": "Archbishop Albrecht of Mainz and Magdeburg did not reply to Luther's letter containing the 95 Theses. He had the theses checked for heresy and in December 1517 forwarded them to Rome. He needed the revenue from the indulgences to pay off a papal dispensation for his tenure of more than one bishopric. As Luther later noted, \"the pope had a finger in the pie as well, because one half was to go to the building of St Peter's Church in Rome\".", 
+        "id": "56f80fdfaef2371900625d96"
+    }, 
+    {
+        "question": "What did Luther seek to restore?", 
+        "answers": [
+            "public order", 
+            "public order", 
+            "public order,"
+        ], 
+        "inference_type": "corerference", 
+        "context": "Luther next set about reversing or modifying the new church practices. By working alongside the authorities to restore public order, he signalled his reinvention as a conservative force within the Reformation. After banishing the Zwickau prophets, he now faced a battle against not only the established Church but also the radical reformers who threatened the new order by fomenting social unrest and violence.", 
+        "id": "56f84b68aef2371900625fa7"
+    }, 
+    {
+        "question": "What hymn did Luther write after the martyrdom of Esch and Voes?", 
+        "answers": [
+            "Ein neues Lied wir heben an", 
+            "Ein neues Lied wir heben an", 
+            "Ein neues Lied wir heben an"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "Luther's hymns were frequently evoked by particular events in his life and the unfolding Reformation. This behavior started with his learning of the execution of Johann Esch and Heinrich Voes, the first individuals to be martyred by the Roman Catholic Church for Lutheran views, prompting Luther to write the hymn \"Ein neues Lied wir heben an\" (\"A new song we raise\"), which is generally known in English by John C. Messenger's translation by the title and first line \"Flung to the Heedless Winds\" and sung to the tune Ibstone composed in 1875 by Maria C. Tiddeman.", 
+        "id": "56f8720eaef2371900626091"
+    }, 
+    {
+        "question": "Where is the comparison found of this Lord's Prayer hymn?", 
+        "answers": [
+            "Small Catechism", 
+            "Small Catechism", 
+            "Small Catechism,"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "Luther's 1538 hymnic version of the Lord's Prayer, \"Vater unser im Himmelreich\", corresponds exactly to Luther's explanation of the prayer in the Small Catechism, with one stanza for each of the seven prayer petitions, plus opening and closing stanzas. The hymn functioned both as a liturgical setting of the Lord's Prayer and as a means of examining candidates on specific catechism questions. The extant manuscript shows multiple revisions, demonstrating Luther's concern to clarify and strengthen the text and to provide an appropriately prayerful tune. Other 16th- and 20th-century versifications of the Lord's Prayer have adopted Luther's tune, although modern texts are considerably shorter.", 
+        "id": "56f87531a6d7ea1400e17670"
+    }, 
+    {
+        "question": "What did Luther believe that the soul does after death?", 
+        "answers": [
+            "sleeps", 
+            "sleeps", 
+            "sleeps"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "In contrast to the views of John Calvin and Philipp Melanchthon, throughout his life Luther maintained that it was not false doctrine to believe that a Christian's soul sleeps after it is separated from the body in death; and, accordingly, he disputed traditional interpretations of some Bible passages, such as the parable of the rich man and Lazarus. This also led Luther to reject the idea of torments for the saints: \"It is enough for us to know that souls do not leave their bodies to be threatened by the torments and punishments of hell, but enter a prepared bedchamber in which they sleep in peace.\" He also rejected the existence of Purgatory, which involved Christian souls undergoing penitential suffering after death. He affirmed the continuity of one's personal identity beyond death. In his Smalcald Articles, he described the saints as currently residing \"in their graves and in heaven.\"", 
+        "id": "56f8837aa6d7ea1400e176fd"
+    }, 
+    {
+        "question": "Who did Luther write about, but seldom met?", 
+        "answers": [
+            "Jews", 
+            "Jews", 
+            "Jews"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "Luther wrote about the Jews throughout his career, though only a few of his works dealt with them directly. Luther rarely encountered Jews during his life, but his attitudes reflected a theological and cultural tradition which saw Jews as a rejected people guilty of the murder of Christ, and he lived within a local community that had expelled Jews some ninety years earlier. He considered the Jews blasphemers and liars because they rejected the divinity of Jesus, whereas Christians believed Jesus was the Messiah. But Luther believed that all human beings who set themselves against God were equally guilty. As early as 1516, he wrote that many people \"are proud with marvelous stupidity when they call the Jews dogs, evildoers, or whatever they like, while they too, and equally, do not realize who or what they are in the sight of God\". In 1523, Luther advised kindness toward the Jews in That Jesus Christ was Born a Jew and also aimed to convert them to Christianity. When his efforts at conversion failed, he grew increasingly bitter toward them. In his 2010 book Bonhoeffer: Pastor, Martyr, Prophet, Spy, Christian author Eric Metaxas claimed that Luther's attitude towards Jews \"unraveled along with his health.\"", 
+        "id": "56f8ae099e9bad19000a02ec"
+    }, 
+    {
+        "question": "Who was the most widely read writer of his generation?", 
+        "answers": [
+            "Luther", 
+            "Luther", 
+            "Luther"
+        ], 
+        "inference_type": "word match", 
+        "context": "Luther was the most widely read author of his generation, and within Germany he acquired the status of a prophet. According to the prevailing view among historians, his anti-Jewish rhetoric contributed significantly to the development of antisemitism in Germany, and in the 1930s and 1940s provided an \"ideal underpinning\" for the Nazis' attacks on Jews. Reinhold Lewin writes that anybody who \"wrote against the Jews for whatever reason believed he had the right to justify himself by triumphantly referring to Luther.\" According to Michael, just about every anti-Jewish book printed in the Third Reich contained references to and quotations from Luther. Heinrich Himmler wrote admiringly of his writings and sermons on the Jews in 1940. The city of Nuremberg presented a first edition of On the Jews and their Lies to Julius Streicher, editor of the Nazi newspaper Der St\u00fcrmer, on his birthday in 1937; the newspaper described it as the most radically anti-Semitic tract ever published. It was publicly exhibited in a glass case at the Nuremberg rallies and quoted in a 54-page explanation of the Aryan Law by Dr. E.H. Schulz and Dr. R. Frercks.", 
+        "id": "56f8b4d79b226e1400dd0e75"
+    }, 
+    {
+        "question": "What is the title of Edwards book about Luther?", 
+        "answers": [
+            "Luther's Last Battles: Politics and Polemics 1531\u201346", 
+            "Luther's Last Battles: Politics and Polemics 1531\u201346", 
+            "Luther's Last Battles: Politics and Polemics 1531\u201346"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "Some scholars, such as Mark U. Edwards in his book Luther's Last Battles: Politics and Polemics 1531\u201346 (1983), suggest that since Luther's increasingly antisemitic views developed during the years his health deteriorated, it is possible they were at least partly the product of a declining state of mind. Edwards also comments that Luther often deliberately used \"vulgarity and violence\" for effect, both in his writings condemning the Jews and in diatribes against \"Turks\" (Muslims) and Catholics.", 
+        "id": "56f8bd509b226e1400dd0ef1"
+    }, 
+    {
+        "question": "What is the name of the region that is not defined by the eight or 10 county definitions?", 
+        "answers": [
+            "Southern California Megaregion", 
+            "the greater Southern California Megaregion", 
+            "Southern California Megaregion"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "The 8- and 10-county definitions are not used for the greater Southern California Megaregion, one of the 11 megaregions of the United States. The megaregion's area is more expansive, extending east into Las Vegas, Nevada, and south across the Mexican border into Tijuana.", 
+        "id": "5705e33f52bb89140068964c"
+    }, 
+    {
+        "question": "Other than surf, what other culture is southern California home to?", 
+        "answers": [
+            "skateboard", 
+            "skateboard", 
+            "skateboard"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "Southern California is also home to a large home grown surf and skateboard culture. Companies such as Volcom, Quiksilver, No Fear, RVCA, and Body Glove are all headquartered here. Professional skateboarder Tony Hawk, professional surfers Rob Machado, Tim Curran, Bobby Martinez, Pat O'Connell, Dane Reynolds, and Chris Ward, and professional snowboarder Shaun White live in southern California. Some of the world's legendary surf spots are in southern California as well, including Trestles, Rincon, The Wedge, Huntington Beach, and Malibu, and it is second only to the island of Oahu in terms of famous surf breaks. Some of the world's biggest extreme sports events, including the X Games, Boost Mobile Pro, and the U.S. Open of Surfing are all in southern California. Southern California is also important to the world of yachting. The annual Transpacific Yacht Race, or Transpac, from Los Angeles to Hawaii, is one of yachting's premier events. The San Diego Yacht Club held the America's Cup, the most prestigious prize in yachting, from 1988 to 1995 and hosted three America's Cup races during that time.", 
+        "id": "5705ec1675f01819005e776e"
+    }, 
+    {
+        "question": "What was the name given to the regions in which the pro - slavery southerners lived?", 
+        "answers": [
+            "Cow Counties", 
+            "Cow Counties", 
+            "Cow Counties"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "Subsequently, Californios (dissatisfied with inequitable taxes and land laws) and pro-slavery southerners in the lightly populated \"Cow Counties\" of southern California attempted three times in the 1850s to achieve a separate statehood or territorial status separate from Northern California. The last attempt, the Pico Act of 1859, was passed by the California State Legislature and signed by the State governor John B. Weller. It was approved overwhelmingly by nearly 75% of voters in the proposed Territory of Colorado. This territory was to include all the counties up to the then much larger Tulare County (that included what is now Kings, most of Kern, and part of Inyo counties) and San Luis Obispo County. The proposal was sent to Washington, D.C. with a strong advocate in Senator Milton Latham. However, the secession crisis following the election of Abraham Lincoln in 1860 led to the proposal never coming to a vote.", 
+        "id": "5705f09e75f01819005e77a5"
+    }, 
+    {
+        "question": "What is the low end of the temperature range in summer?", 
+        "answers": [
+            "60's", 
+            "60's", 
+            "60's"
+        ], 
+        "inference_type": "implicit relation", 
+        "context": "Southern California contains a Mediterranean climate, with infrequent rain and many sunny days. Summers are hot and dry, while winters are a bit warm or mild and wet. Serious rain can occur unusually. In the summers, temperature ranges are 90-60's while as winters are 70-50's, usually all of Southern California have Mediterranean climate. But snow is very rare in the Southwest of the state, it occurs on the Southeast of the state.", 
+        "id": "5705fc3a52bb89140068976c"
+    }, 
+    {
+        "question": "How many campuses does the California State University have?", 
+        "answers": [
+            "12", 
+            "12", 
+            "12"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "The Tech Coast is a moniker that has gained use as a descriptor for the region's diversified technology and industrial base as well as its multitude of prestigious and world-renowned research universities and other public and private institutions. Amongst these include 5 University of California campuses (Irvine, Los Angeles, Riverside, Santa Barbara, and San Diego); 12 California State University campuses (Bakersfield, Channel Islands, Dominguez Hills, Fullerton, Los Angeles, Long Beach, Northridge, Pomona, San Bernardino, San Diego, San Marcos, and San Luis Obispo); and private institutions such as the California Institute of Technology, Chapman University, the Claremont Colleges (Claremont McKenna College, Harvey Mudd College, Pitzer College, Pomona College, and Scripps College), Loma Linda University, Loyola Marymount University, Occidental College, Pepperdine University, University of Redlands, University of San Diego, and the University of Southern California.", 
+        "id": "5706139252bb891400689868"
+    }, 
+    {
+        "question": "What replaced the Sky+Box?", 
+        "answers": [
+            "Sky+HD Box", 
+            "Sky+HD Box", 
+            "Sky+HD Box"
+        ], 
+        "inference_type": "implicit relation", 
+        "context": "BSkyB initially charged additional subscription fees for using a Sky+ PVR with their service; waiving the charge for subscribers whose package included two or more premium channels. This changed as from 1 July 2007, and now customers that have Sky+ and subscribe to any BSkyB subscription package get Sky+ included at no extra charge. Customers that do not subscribe to BSkyB's channels can still pay a monthly fee to enable Sky+ functions. In January 2010 BSkyB discontinued the Sky+ Box, limited the standard Sky Box to Multiroom upgrade only and started to issue the Sky+HD Box as standard, thus giving all new subscribers the functions of Sky+. In February 2011 BSkyB discontinued the non-HD variant of its Multiroom box, offering a smaller version of the SkyHD box without Sky+ functionality. In September 2007, Sky launched a new TV advertising campaign targeting Sky+ at women. As of 31 March 2008, Sky had 3,393,000 Sky+ users.", 
+        "id": "57094ca7efce8f15003a7dda"
+    }, 
+    {
+        "question": "What is Sky+ HD material broadcast using?", 
+        "answers": [
+            "MPEG-4", 
+            "MPEG-4", 
+            "MPEG-4"
+        ], 
+        "inference_type": "word match", 
+        "context": "BSkyB's standard definition broadcasts are in DVB-compliant MPEG-2, with the Sky Movies and Sky Box Office channels including optional Dolby Digital soundtracks for recent films, although these are only accessible with a Sky+ box. Sky+ HD material is broadcast using MPEG-4 and most of the HD material uses the DVB-S2 standard. Interactive services and 7-day EPG use the proprietary OpenTV system, with set-top boxes including modems for a return path. Sky News, amongst other channels, provides a pseudo-video on demand interactive service by broadcasting looping video streams.", 
+        "id": "570966e0200fba1400367f51"
+    }, 
+    {
+        "question": "What are free-to-air encrypted broadcasts known as?", 
+        "answers": [
+            "free-to-view", 
+            "free-to-view", 
+            "free-to-air"
+        ], 
+        "inference_type": "corerference", 
+        "context": "Provided is a universal Ku band LNB (9.75/10.600 GHz) which is fitted at the end of the dish and pointed at the correct satellite constellation; most digital receivers will receive the free to air channels. Some broadcasts are free-to-air and unencrypted, some are encrypted but do not require a monthly subscription (known as free-to-view), some are encrypted and require a monthly subscription, and some are pay-per-view services. To view the encrypted content a VideoGuard UK equipped receiver (all of which are dedicated to the Sky service, and cannot be used to decrypt other services) needs to be used. Unofficial CAMs are now available to view the service, although use of them breaks the user's contract with Sky and invalidates the user's rights to use the card.", 
+        "id": "57096c95200fba1400367fbb"
+    }, 
+    {
+        "question": "What group specifically opposed the Huguenots?", 
+        "answers": [
+            "Catholic Church in France", 
+            "Catholic Church in France", 
+            "The Catholic Church in France"
+        ], 
+        "inference_type": "word match", 
+        "context": "The Catholic Church in France and many of its members opposed the Huguenots. Some Huguenot preachers and congregants were attacked as they attempted to meet for worship. The height of this persecution was the St. Bartholomew's Day massacre when 5,000 to 30,000 were killed, although there were also underlying political reasons for this as well, as some of the Huguenots were nobles trying to establish separate centers of power in southern France. Retaliating against the French Catholics, the Huguenots had their own militia.", 
+        "id": "57107e6ca58dae1900cd69f2"
+    }, 
+    {
+        "question": "What was the population of the Dutch Republic before this emigration?", 
+        "answers": [
+            "ca. 2 million", 
+            "2 million", 
+            "2 million"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "After the revocation of the Edict of Nantes, the Dutch Republic received the largest group of Huguenot refugees, an estimated total of 75,000 to 100,000 people. Amongst them were 200 clergy. Many came from the region of the C\u00e9vennes, for instance, the village of Fraissinet-de-Loz\u00e8re. This was a huge influx as the entire population of the Dutch Republic amounted to ca. 2 million at that time. Around 1700, it is estimated that nearly 25% of the Amsterdam population was Huguenot.[citation needed] In 1705, Amsterdam and the area of West Frisia were the first areas to provide full citizens rights to Huguenot immigrants, followed by the Dutch Republic in 1715. Huguenots intermarried with Dutch from the outset.", 
+        "id": "57108d69b654c5140001f985"
+    }, 
+    {
+        "question": "What was Henry IV known as before taking the throne?", 
+        "answers": [
+            "Henry of Navarre", 
+            "Henry of Navarre", 
+            "Henry of Navarre"
+        ], 
+        "inference_type": "corerference", 
+        "context": "The pattern of warfare, followed by brief periods of peace, continued for nearly another quarter-century. The warfare was definitively quelled in 1598, when Henry of Navarre, having succeeded to the French throne as Henry IV, and having recanted Protestantism in favour of Roman Catholicism, issued the Edict of Nantes. The Edict reaffirmed Catholicism as the state religion of France, but granted the Protestants equality with Catholics under the throne and a degree of religious and political freedom within their domains. The Edict simultaneously protected Catholic interests by discouraging the founding of new Protestant churches in Catholic-controlled regions.[citation needed]", 
+        "id": "571093aba58dae1900cd6a5c"
+    }, 
+    {
+        "question": "What reference is there to Huguenot lacemakers in the 19th century?", 
+        "answers": [
+            "twenty-five widows who settled in Dover", 
+            "twenty-five widows who settled in Dover", 
+            "twenty-five widows who settled in Dover"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "Some Huguenots settled in Bedfordshire, one of the main centres of the British lace industry at the time. Although 19th century sources have asserted that some of these refugees were lacemakers and contributed to the East Midlands lace industry, this is contentious. The only reference to immigrant lacemakers in this period is of twenty-five widows who settled in Dover, and there is no contemporary documentation to support there being Huguenot lacemakers in Bedfordshire. The implication that the style of lace known as 'Bucks Point' demonstrates a Huguenot influence, being a \"combination of Mechlin patterns on Lille ground\", is fallacious: what is now known as Mechlin lace did not develop until first half of the eighteenth century and lace with Mechlin patterns and Lille ground did not appear until the end of the 18th century, when it was widely copied throughout Europe.", 
+        "id": "571098f8a58dae1900cd6ab4"
+    }, 
+    {
+        "question": "What leader led the Dutch Revolt and wrote Apologie?", 
+        "answers": [
+            "William the Silent", 
+            "Pierre L'Oyseleur", 
+            "William the Silent"
+        ], 
+        "inference_type": "corerference", 
+        "context": "Some Huguenots fought in the Low Countries alongside the Dutch against Spain during the first years of the Dutch Revolt (1568\u20131609). The Dutch Republic rapidly became a destination for Huguenot exiles. Early ties were already visible in the \"Apologie\" of William the Silent, condemning the Spanish Inquisition, which was written by his court minister, the Huguenot Pierre L'Oyseleur, lord of Villiers. Louise de Coligny, daughter of the murdered Huguenot leader Gaspard de Coligny, married William the Silent, leader of the Dutch (Calvinist) revolt against Spanish (Catholic) rule. As both spoke French in daily life, their court church in the Prinsenhof in Delft held services in French. The practice has continued to the present day. The Prinsenhof is one of the 14 active Walloon churches of the Dutch Reformed Church. The ties between Huguenots and the Dutch Republic's military and political leadership, the House of Orange-Nassau, which existed since the early days of the Dutch Revolt, helped support the many early settlements of Huguenots in the Dutch Republic's colonies. They settled at the Cape of Good Hope in South Africa and New Netherland in North America.", 
+        "id": "5710ed7bb654c5140001fa2e"
+    }, 
+    {
+        "question": "Which Irish cities had large Huguenot enclaves?", 
+        "answers": [
+            "Dublin, Cork, Portarlington, Lisburn, Waterford and Youghal", 
+            "Dublin, Cork, Portarlington, Lisburn, Waterford and Youghal", 
+            "Dublin, Cork, Portarlington, Lisburn, Waterford and Youghal"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "Following the French Crown's revocation of the Edict of Nantes, many Huguenots settled in Ireland in the late 17th and early 18th centuries, encouraged by an act of parliament for Protestants' settling in Ireland. Huguenot regiments fought for William of Orange in the Williamite war in Ireland, for which they were rewarded with land grants and titles, many settling in Dublin. Significant Huguenot settlements were in Dublin, Cork, Portarlington, Lisburn, Waterford and Youghal. Smaller settlements, which included Killeshandra in County Cavan, contributed to the expansion of flax cultivation and the growth of the Irish linen industry.", 
+        "id": "5710f2e2a58dae1900cd6b74"
+    }, 
+    {
+        "question": "What protestant religions made Northern European counties safe for Huguenot immigration?", 
+        "answers": [
+            "Lutheran and Reformed", 
+            "Lutheran and Reformed", 
+            "Lutheran and Reformed"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "Around 1685, Huguenot refugees found a safe haven in the Lutheran and Reformed states in Germany and Scandinavia. Nearly 50,000 Huguenots established themselves in Germany, 20,000 of whom were welcomed in Brandenburg-Prussia, where they were granted special privileges (Edict of Potsdam) and churches in which to worship (such as the Church of St. Peter and St. Paul, Angerm\u00fcnde) by Frederick William, Elector of Brandenburg and Duke of Prussia. The Huguenots furnished two new regiments of his army: the Altpreu\u00dfische Infantry Regiments No. 13 (Regiment on foot Varenne) and 15 (Regiment on foot Wylich). Another 4,000 Huguenots settled in the German territories of Baden, Franconia (Principality of Bayreuth, Principality of Ansbach), Landgraviate of Hesse-Kassel, Duchy of W\u00fcrttemberg, in the Wetterau Association of Imperial Counts, in the Palatinate and Palatinate-Zweibr\u00fccken, in the Rhine-Main-Area (Frankfurt), in modern-day Saarland; and 1,500 found refuge in Hamburg, Bremen and Lower Saxony. Three hundred refugees were granted asylum at the court of George William, Duke of Brunswick-L\u00fcneburg in Celle.", 
+        "id": "57111ab8a58dae1900cd6c3c"
+    }, 
+    {
+        "question": "What is the usual source of heat for boiling water in the steam engine?", 
+        "answers": [
+            "burning combustible materials", 
+            "burning combustible materials", 
+            "burning combustible materials"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "The heat required for boiling the water and supplying the steam can be derived from various sources, most commonly from burning combustible materials with an appropriate supply of air in a closed space (called variously combustion chamber, firebox). In some cases the heat source is a nuclear reactor, geothermal energy, solar energy or waste heat from an internal combustion engine or industrial process. In the case of model or toy steam engines, the heat source can be an electric heating element.", 
+        "id": "571144d1a58dae1900cd6d6e"
+    }, 
+    {
+        "question": "At what angle were the groups of pistons set in relation to one another in a 4-cylinder compound?", 
+        "answers": [
+            "90", 
+            "90\u00b0 to each other", 
+            "90\u00b0"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "With two-cylinder compounds used in railway work, the pistons are connected to the cranks as with a two-cylinder simple at 90\u00b0 out of phase with each other (quartered). When the double expansion group is duplicated, producing a 4-cylinder compound, the individual pistons within the group are usually balanced at 180\u00b0, the groups being set at 90\u00b0 to each other. In one case (the first type of Vauclain compound), the pistons worked in the same phase driving a common crosshead and crank, again set at 90\u00b0 as for a two-cylinder engine. With the 3-cylinder compound arrangement, the LP cranks were either set at 90\u00b0 with the HP one at 135\u00b0 to the other two, or in some cases all three cranks were set at 120\u00b0.[citation needed]", 
+        "id": "5711475ca58dae1900cd6d8c"
+    }, 
+    {
+        "question": "What is a term for the reversing of steam flow in a piston engine after each stroke?", 
+        "answers": [
+            "counterflow", 
+            "counterflow", 
+            "counterflow"
+        ], 
+        "inference_type": "word match", 
+        "context": "In most reciprocating piston engines, the steam reverses its direction of flow at each stroke (counterflow), entering and exhausting from the cylinder by the same port. The complete engine cycle occupies one rotation of the crank and two piston strokes; the cycle also comprises four events \u2013 admission, expansion, exhaust, compression. These events are controlled by valves often working inside a steam chest adjacent to the cylinder; the valves distribute the steam by opening and closing steam ports communicating with the cylinder end(s) and are driven by valve gear, of which there are many types.[citation needed]", 
+        "id": "5711488ab654c5140001fc3d"
+    }, 
+    {
+        "question": "How many valves did the Corliss engine use?", 
+        "answers": [
+            "four", 
+            "four", 
+            "four"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "The acme of the horizontal engine was the Corliss steam engine, patented in 1849, which was a four-valve counter flow engine with separate steam admission and exhaust valves and automatic variable steam cutoff. When Corliss was given the Rumford medal the committee said that \"no one invention since Watt's time has so enhanced the efficiency of the steam engine\". In addition to using 30% less steam, it provided more uniform speed due to variable steam cut off, making it well suited to manufacturing, especially cotton spinning.", 
+        "id": "5711628a2419e314009555df"
+    }, 
+    {
+        "question": "What is an example of a pump component?", 
+        "answers": [
+            "injector", 
+            "condensers", 
+            "injector"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "Other components are often present; pumps (such as an injector) to supply water to the boiler during operation, condensers to recirculate the water and recover the latent heat of vaporisation, and superheaters to raise the temperature of the steam above its saturated vapour point, and various mechanisms to increase the draft for fireboxes. When coal is used, a chain or screw stoking mechanism and its drive engine or motor may be included to move the fuel from a supply bin (bunker) to the firebox. See: Mechanical stoker", 
+        "id": "5711651050c2381900b54acb"
+    }, 
+    {
+        "question": "In what year was HMS Dreadnought launched?", 
+        "answers": [
+            "1905", 
+            "1905", 
+            "1905"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "Land-based steam engines could exhaust much of their steam, as feed water was usually readily available. Prior to and during World War I, the expansion engine dominated marine applications where high vessel speed was not essential. It was however superseded by the British invention steam turbine where speed was required, for instance in warships, such as the dreadnought battleships, and ocean liners. HMS Dreadnought of 1905 was the first major warship to replace the proven technology of the reciprocating engine with the then-novel steam turbine.[citation needed]", 
+        "id": "5711658e50c2381900b54ad9"
+    }, 
+    {
+        "question": "By sunlight, what compound did  Priestley concentrate on to make the gas he called \"dephlogisticated air\"?", 
+        "answers": [
+            "mercuric oxide (HgO)", 
+            "mercuric oxide", 
+            "mercuric oxide", 
+            "mercuric oxide (HgO)", 
+            "mercuric oxide"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "In the meantime, on August 1, 1774, an experiment conducted by the British clergyman Joseph Priestley focused sunlight on mercuric oxide (HgO) inside a glass tube, which liberated a gas he named \"dephlogisticated air\". He noted that candles burned brighter in the gas and that a mouse was more active and lived longer while breathing it. After breathing the gas himself, he wrote: \"The feeling of it to my lungs was not sensibly different from that of common air, but I fancied that my breast felt peculiarly light and easy for some time afterwards.\" Priestley published his findings in 1775 in a paper titled \"An Account of Further Discoveries in Air\" which was included in the second volume of his book titled Experiments and Observations on Different Kinds of Air. Because he published his findings first, Priestley is usually given priority in the discovery.", 
+        "id": "571a4d1a4faf5e1900b8a95a"
+    }, 
+    {
+        "question": "What inventor built on to the findings of Philo of  Byzantium?", 
+        "answers": [
+            "Leonardo da Vinci", 
+            "Leonardo da Vinci", 
+            "Leonardo da Vinci", 
+            "Leonardo da Vinci", 
+            "da Vinci"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "One of the first known experiments on the relationship between combustion and air was conducted by the 2nd century BCE Greek writer on mechanics, Philo of Byzantium. In his work Pneumatica, Philo observed that inverting a vessel over a burning candle and surrounding the vessel's neck with water resulted in some water rising into the neck. Philo incorrectly surmised that parts of the air in the vessel were converted into the classical element fire and thus were able to escape through pores in the glass. Many centuries later Leonardo da Vinci built on Philo's work by observing that a portion of air is consumed during combustion and respiration.", 
+        "id": "571a4ead10f8ca1400304fdd"
+    }, 
+    {
+        "question": "How is dioxygen most simply described?", 
+        "answers": [
+            "covalent double bond", 
+            "a covalent double bond", 
+            "a covalent double bond that results from the filling of molecular orbitals formed from the atomic orbitals of the individual oxygen atoms", 
+            "a covalent double bond", 
+            "a covalent double bond that results from the filling of molecular orbitals formed from the atomic orbitals of the individual oxygen atoms"
+        ], 
+        "inference_type": "word match", 
+        "context": "In this dioxygen, the two oxygen atoms are chemically bonded to each other. The bond can be variously described based on level of theory, but is reasonably and simply described as a covalent double bond that results from the filling of molecular orbitals formed from the atomic orbitals of the individual oxygen atoms, the filling of which results in a bond order of two. More specifically, the double bond is the result of sequential, low-to-high energy, or Aufbau, filling of orbitals, and the resulting cancellation of contributions from the 2s electrons, after sequential filling of the low \u03c3 and \u03c3* orbitals; \u03c3 overlap of the two atomic 2p orbitals that lie along the O-O molecular axis and \u03c0 overlap of two pairs of atomic 2p orbitals perpendicular to the O-O molecular axis, and then cancellation of contributions from the remaining two of the six 2p electrons after their partial filling of the lowest \u03c0 and \u03c0* orbitals.", 
+        "id": "571c83f3dd7acb1400e4c0d8"
+    }, 
+    {
+        "question": "What molecule does the Sun have in higher proportion than Earth?", 
+        "answers": [
+            "oxygen-16", 
+            "oxygen-16", 
+            "oxygen-16", 
+            "oxygen-16", 
+            "oxygen-16"
+        ], 
+        "inference_type": "word match", 
+        "context": "Planetary geologists have measured different abundances of oxygen isotopes in samples from the Earth, the Moon, Mars, and meteorites, but were long unable to obtain reference values for the isotope ratios in the Sun, believed to be the same as those of the primordial solar nebula. Analysis of a silicon wafer exposed to the solar wind in space and returned by the crashed Genesis spacecraft has shown that the Sun has a higher proportion of oxygen-16 than does the Earth. The measurement implies that an unknown process depleted oxygen-16 from the Sun's disk of protoplanetary material prior to the coalescence of dust grains that formed the Earth.", 
+        "id": "571cac5d5efbb31900334dd1"
+    }, 
+    {
+        "question": "Who originally led the Space Task Group?", 
+        "answers": [
+            "Robert R. Gilruth", 
+            "Robert R. Gilruth's", 
+            "Robert R. Gilruth's", 
+            "Robert R. Gilruth", 
+            "Robert R. Gilruth"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "It became clear that managing the Apollo program would exceed the capabilities of Robert R. Gilruth's Space Task Group, which had been directing the nation's manned space program from NASA's Langley Research Center. So Gilruth was given authority to grow his organization into a new NASA center, the Manned Spacecraft Center (MSC). A site was chosen in Houston, Texas, on land donated by Rice University, and Administrator Webb announced the conversion on September 19, 1961. It was also clear NASA would soon outgrow its practice of controlling missions from its Cape Canaveral Air Force Station launch facilities in Florida, so a new Mission Control Center would be included in the MSC.", 
+        "id": "5725be0fec44d21400f3d4a5"
+    }, 
+    {
+        "question": "The initial LM weighed how much in kgs?", 
+        "answers": [
+            "15,100 kg", 
+            "(15,100", 
+            "15,100", 
+            "15,100 kg", 
+            "15,100"
+        ], 
+        "inference_type": "word match", 
+        "context": "The Lunar Module (LM) was designed to descend from lunar orbit to land two astronauts on the Moon and take them back to orbit to rendezvous with the Command Module. Not designed to fly through the Earth's atmosphere or return to Earth, its fuselage was designed totally without aerodynamic considerations, and was of an extremely lightweight construction. It consisted of separate descent and ascent stages, each with its own engine. The descent stage contained storage for the descent propellant, surface stay consumables, and surface exploration equipment. The ascent stage contained the crew cabin, ascent propellant, and a reaction control system. The initial LM model weighed approximately 33,300 pounds (15,100 kg), and allowed surface stays up to around 34 hours. An Extended Lunar Module weighed over 36,200 pounds (16,400 kg), and allowed surface stays of over 3 days.", 
+        "id": "5725ceb989a1e219009abf0d"
+    }, 
+    {
+        "question": "What did Pegasus satellites measure to propose the safety of the environment in space and on the moon?", 
+        "answers": [
+            "frequency and severity of micrometeorite impacts", 
+            "translunar environment by measuring the frequency and severity of micrometeorite impacts.", 
+            "micrometeorite impacts", 
+            "safety of the translunar environment", 
+            "micrometeorite impacts."
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "The first four Saturn I test flights were launched from LC-34, with only live first stages, carrying dummy upper stages filled with water. The first flight with a live S-IV was launched from LC-37. This was followed by five launches of boilerplate CSMs (designated AS-101 through AS-105) into orbit in 1964 and 1965. The last three of these further supported the Apollo program by also carrying Pegasus satellites, which verified the safety of the translunar environment by measuring the frequency and severity of micrometeorite impacts.", 
+        "id": "5725d0e3271a42140099d238"
+    }, 
+    {
+        "question": "How much did the second stage increase thrust by with the integration of the S-IVB-200?", 
+        "answers": [
+            "200,000 lbf", 
+            "200,000 lbf", 
+            "200,000 lbf", 
+            "200,000 lbf (890 kN) of thrust", 
+            "200,000 lbf"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "The Saturn IB was an upgraded version of the Saturn I. The S-IB first stage increased the thrust to 1,600,000 pounds-force (7,120 kN), and the second stage replaced the S-IV with the S-IVB-200, powered by a single J-2 engine burning liquid hydrogen fuel with LOX, to produce 200,000 lbf (890 kN) of thrust. A restartable version of the S-IVB was used as the third stage of the Saturn V. The Saturn IB could send over 40,000 pounds (18,100 kg) into low Earth orbit, sufficient for a partially fueled CSM or the LM. Saturn IB launch vehicles and flights were designated with an AS-200 series number, \"AS\" indicating \"Apollo Saturn\" and the \"2\" indicating the second member of the Saturn rocket family.", 
+        "id": "5725d2ef271a42140099d256"
+    }, 
+    {
+        "question": "What month and year was Apollo 13 launched?", 
+        "answers": [
+            "April 1970", 
+            "April", 
+            "April 1970", 
+            "April 1970", 
+            "April 1970,"
+        ], 
+        "inference_type": "word match", 
+        "context": "The success of the first two landings allowed the remaining missions to be crewed with a single veteran as Commander, with two rookies. Apollo 13 launched Lovell, Jack Swigert, and Fred Haise in April 1970, headed for the Fra Mauro formation. But two days out, a liquid oxygen tank exploded, disabling the Service Module and forcing the crew to use the LM as a \"life boat\" to return to Earth. Another NASA review board was convened to determine the cause, which turned out to be a combination of damage of the tank in the factory, and a subcontractor not making a tank component according to updated design specifications. Apollo was grounded again, for the remainder of 1970 while the oxygen tank was redesigned and an extra one was added.", 
+        "id": "5725e6f6ec44d21400f3d72d"
+    }, 
+    {
+        "question": "What year was the decision made to cancel Apollo missions 18 and 19?", 
+        "answers": [
+            "1971", 
+            "1971", 
+            "1971", 
+            "1971", 
+            "1971"
+        ], 
+        "inference_type": "word match", 
+        "context": "About the time of the first landing in 1969, it was decided to use an existing Saturn V to launch the Skylab orbital laboratory pre-built on the ground, replacing the original plan to construct it in orbit from several Saturn IB launches; this eliminated Apollo 20. NASA's yearly budget also began to shrink in light of the successful landing, and NASA also had to make funds available for the development of the upcoming Space Shuttle. By 1971, the decision was made to also cancel missions 18 and 19. The two unused Saturn Vs became museum exhibits at the John F. Kennedy Space Center on Merritt Island, Florida, George C. Marshall Space Center in Huntsville, Alabama, Michoud Assembly Facility in New Orleans, Louisiana, and Lyndon B. Johnson Space Center in Houston, Texas.", 
+        "id": "5725e95f89a1e219009ac089"
+    }, 
+    {
+        "question": "As the moon has no atmosphere, what is prevalant in many moon rock samples brought back from Apollo missions?", 
+        "answers": [
+            "micrometeoroid impact craters", 
+            "micrometeoroid impact craters", 
+            "micrometeoroid impact craters", 
+            "micrometeoroid impact craters", 
+            "micrometeoroid impact craters"
+        ], 
+        "inference_type": "wrong answer", 
+        "context": "Almost all the rocks show evidence of impact process effects. Many samples appear to be pitted with micrometeoroid impact craters, which is never seen on Earth rocks, due to the thick atmosphere. Many show signs of being subjected to high pressure shock waves that are generated during impact events. Some of the returned samples are of impact melt (materials melted near an impact crater.) All samples returned from the Moon are highly brecciated as a result of being subjected to multiple impact events.", 
+        "id": "5725eb8a38643c19005ace7f"
+    }, 
+    {
+        "question": "What are some supplementary sources of European Union law?", 
+        "answers": [
+            "case law by the Court of Justice, international law and general principles of European Union law", 
+            "general principles of European Union law", 
+            "case law by the Court of Justice", 
+            "case law by the Court of Justice"
+        ], 
+        "inference_type": "word match", 
+        "context": "European Union law is applied by the courts of member states and the Court of Justice of the European Union. Where the laws of member states provide for lesser rights European Union law can be enforced by the courts of member states. In case of European Union law which should have been transposed into the laws of member states, such as Directives, the European Commission can take proceedings against the member state under the Treaty on the Functioning of the European Union. The European Court of Justice is the highest court able to interpret European Union law. Supplementary sources of European Union law include case law by the Court of Justice, international law and general principles of European Union law.", 
+        "id": "57268bf9dd62a815002e890d"
+    }, 
+    {
+        "question": "What is the CJEU's duty?", 
+        "answers": [
+            "to \"ensure that in the interpretation and application of the Treaties the law is observed\"", 
+            "\"ensure that in the interpretation and application of the Treaties the law is observed\"", 
+            "\"ensure that in the interpretation and application of the Treaties the law is observed\"", 
+            "\"ensure that in the interpretation and application of the Treaties the law is observed\""
+        ], 
+        "inference_type": "word match", 
+        "context": "The judicial branch of the EU has played an important role in the development of EU law, by assuming the task of interpreting the treaties, and accelerating economic and political integration. Today the Court of Justice of the European Union (CJEU) is the main judicial body, within which there is a higher European Court of Justice (commonly abbreviated as ECJ) that deals with cases that contain more public importance, and a General Court that deals with issues of detail but without general importance. There is also a Civil Service Tribunal to deal with EU staff issues, and then a separate Court of Auditors. Under the Treaty on European Union article 19(2) there is one judge from each member state, 28 at present, who are supposed to \"possess the qualifications required for appointment to the highest judicial offices\" (or for the General Court, the \"ability required for appointment to high judicial office\"). A president is elected by the judges for three years. Under TEU article 19(3) is to be the ultimate court to interpret questions of EU law. In fact, most EU law is applied by member state courts (the English Court of Appeal, the German Bundesgerichtshof, the Belgian Cour du travail, etc.) but they can refer questions to the EU court for a preliminary ruling. The CJEU's duty is to \"ensure that in the interpretation and application of the Treaties the law is observed\", although realistically it has the ability to expand and develop the law according to the principles it deems to be appropriate. Arguably this has been done through both seminal and controversial judgments, including Van Gend en Loos, Mangold v Helm, and Kadi v Commission.", 
+        "id": "5726965ef1498d1400e8e488"
+    }, 
+    {
+        "question": "Where is the European Court of justice likely to get inspiration from?", 
+        "answers": [
+            "from the constitutional traditions common to the member states", 
+            "the constitutional traditions common to the member states", 
+            "the constitutional traditions common to the member states"
+        ], 
+        "inference_type": "word match", 
+        "context": "Fundamental rights, as in human rights, were first recognised by the European Court of Justice in the late 60s and fundamental rights are now regarded as integral part of the general principles of European Union law. As such the European Court of Justice is bound to draw inspiration from the constitutional traditions common to the member states. Therefore, the European Court of Justice cannot uphold measures which are incompatible with fundamental rights recognised and protected in the constitutions of member states. The European Court of Justice also found that \"international treaties for the protection of human rights on which the member states have collaborated or of which they are signatories, can supply guidelines which should be followed within the framework of Community law.\"", 
+        "id": "5726a1e5dd62a815002e8b86"
+    }, 
+    {
+        "question": "What year was the Treaty of Amsterdam created?", 
+        "answers": [
+            "1997", 
+            "1997", 
+            "1997"
+        ], 
+        "inference_type": "word match", 
+        "context": "The Social Chapter is a chapter of the 1997 Treaty of Amsterdam covering social policy issues in European Union law. The basis for the Social Chapter was developed in 1989 by the \"social partners\" representatives, namely UNICE, the employers' confederation, the European Trade Union Confederation (ETUC) and CEEP, the European Centre of Public Enterprises. A toned down version was adopted as the Social Charter at the 1989 Strasbourg European Council. The Social Charter declares 30 general principles, including on fair remuneration of employment, health and safety at work, rights of disabled and elderly, the rights of workers, on vocational training and improvements of living conditions. The Social Charter became the basis for European Community legislation on these issues in 40 pieces of legislation.", 
+        "id": "5726a3c6f1498d1400e8e5af"
+    }, 
+    {
+        "question": "What did the Works Council Directive require?", 
+        "answers": [
+            "workforce consultation in businesses", 
+            "workforce consultation in businesses", 
+            "workforce consultation in businesses"
+        ], 
+        "inference_type": "word match", 
+        "context": "Following the election of the UK Labour Party to government in 1997, the UK formally subscribed to the Agreement on Social Policy, which allowed it to be included with minor amendments as the Social Chapter of the 1997 Treaty of Amsterdam. The UK subsequently adopted the main legislation previously agreed under the Agreement on Social Policy, the 1994 Works Council Directive, which required workforce consultation in businesses, and the 1996 Parental Leave Directive. In the 10 years following the 1997 Treaty of Amsterdam and adoption of the Social Chapter the European Union has undertaken policy initiatives in various social policy areas, including labour and industry relations, equal opportunity, health and safety, public health, protection of children, the disabled and elderly, poverty, migrant workers, education, training and youth.", 
+        "id": "5726a5525951b619008f78e1"
+    }, 
+    {
+        "question": "What are some of scientists arguments? ", 
+        "answers": [
+            "the rainforest was reduced to small, isolated refugia separated by open forest and grassland", 
+            "the rainforest was reduced to small, isolated refugia separated by open forest and grassland", 
+            "rainforest was reduced"
+        ], 
+        "inference_type": "word match", 
+        "context": "There is evidence that there have been significant changes in Amazon rainforest vegetation over the last 21,000 years through the Last Glacial Maximum (LGM) and subsequent deglaciation. Analyses of sediment deposits from Amazon basin paleolakes and from the Amazon Fan indicate that rainfall in the basin during the LGM was lower than for the present, and this was almost certainly associated with reduced moist tropical vegetation cover in the basin. There is debate, however, over how extensive this reduction was. Some scientists argue that the rainforest was reduced to small, isolated refugia separated by open forest and grassland; other scientists argue that the rainforest remained largely intact but extended less far to the north, south, and east than is seen today. This debate has proved difficult to resolve because the practical limitations of working in the rainforest mean that data sampling is biased away from the center of the Amazon basin, and both explanations are reasonably well supported by the available data.", 
+        "id": "5725c41eec44d21400f3d50d"
+    }, 
+    {
+        "question": "What fish living in the Amazon river is known to bit humans?", 
+        "answers": [
+            "piranha", 
+            "piranha", 
+            "piranha"
+        ], 
+        "inference_type": "word match", 
+        "context": "The rainforest contains several species that can pose a hazard. Among the largest predatory creatures are the black caiman, jaguar, cougar, and anaconda. In the river, electric eels can produce an electric shock that can stun or kill, while piranha are known to bite and injure humans. Various species of poison dart frogs secrete lipophilic alkaloid toxins through their flesh. There are also numerous parasites and disease vectors. Vampire bats dwell in the rainforest and can spread the rabies virus. Malaria, yellow fever and Dengue fever can also be contracted in the Amazon region.", 
+        "id": "5729f3831d0469140077967d"
+    }, 
+    {
+        "question": "What are two factors that made it difficult for colonists to the Amazon forest to survive?", 
+        "answers": [
+            "loss of soil fertility and weed invasion", 
+            "loss of soil fertility and weed invasion", 
+            "soil fertility and weed invasion"
+        ], 
+        "inference_type": "word match", 
+        "context": "Deforestation is the conversion of forested areas to non-forested areas. The main sources of deforestation in the Amazon are human settlement and development of the land. Prior to the early 1960s, access to the forest's interior was highly restricted, and the forest remained basically intact. Farms established during the 1960s were based on crop cultivation and the slash and burn method. However, the colonists were unable to manage their fields and the crops because of the loss of soil fertility and weed invasion. The soils in the Amazon are productive for just a short period of time, so farmers are constantly moving to new areas and clearing more land. These farming practices led to deforestation and caused extensive environmental damage. Deforestation is considerable, and areas cleared of forest are visible to the naked eye from outer space.", 
+        "id": "5729fd56af94a219006aa732"
+    }, 
+    {
+        "question": "What are the hairs on ctenophores called?", 
+        "answers": [
+            "cilia", 
+            "cilia", 
+            "cilia"
+        ], 
+        "inference_type": "corerference", 
+        "context": "Ranging from about 1 millimeter (0.039 in) to 1.5 meters (4.9 ft) in size, ctenophores are the largest non-colonial animals that use cilia (\"hairs\") as their main method of locomotion. Most species have eight strips, called comb rows, that run the length of their bodies and bear comb-like bands of cilia, called \"ctenes,\" stacked along the comb rows so that when the cilia beat, those of each comb touch the comb below. The name \"ctenophora\" means \"comb-bearing\", from the Greek \u03ba\u03c4\u03b5\u03af\u03c2 (stem-form \u03ba\u03c4\u03b5\u03bd-) meaning \"comb\" and the Greek suffix -\u03c6\u03bf\u03c1\u03bf\u03c2 meaning \"carrying\".", 
+        "id": "572648e8dd62a815002e8076"
+    }, 
+    {
+        "question": "How do platyctenids reproduce?", 
+        "answers": [
+            "internal fertilization and keep the eggs in brood chambers until they hatch.", 
+            "internal fertilization", 
+            "internal fertilization"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "Almost all species are hermaphrodites, in other words they function as both males and females at the same time \u2013 except that in two species of the genus Ocryopsis individuals remain of the same single sex all their lives. The gonads are located in the parts of the internal canal network under the comb rows, and eggs and sperm are released via pores in the epidermis. Fertilization is external in most species, but platyctenids use internal fertilization and keep the eggs in brood chambers until they hatch. Self-fertilization has occasionally been seen in species of the genus Mnemiopsis, and it is thought that most of the hermaphroditic species are self-fertile.", 
+        "id": "572683075951b619008f7514"
+    }, 
+    {
+        "question": "What do bathyctena chuni, euplokamis stationis and eurhamphaea vexilligera have in common?", 
+        "answers": [
+            "they produce secretions (ink) that luminesce", 
+            "they produce secretions (ink) that luminesce at much the same wavelengths as their bodies", 
+            "they produce secretions (ink) that luminesce"
+        ], 
+        "inference_type": "multi-corerference", 
+        "context": "When some species, including Bathyctena chuni, Euplokamis stationis and Eurhamphaea vexilligera, are disturbed, they produce secretions (ink) that luminesce at much the same wavelengths as their bodies. Juveniles will luminesce more brightly in relation to their body size than adults, whose luminescence is diffused over their bodies. Detailed statistical investigation has not suggested the function of ctenophores' bioluminescence nor produced any correlation between its exact color and any aspect of the animals' environments, such as depth or whether they live in coastal or mid-ocean waters.", 
+        "id": "572686fc708984140094c8e5"
+    }, 
+    {
+        "question": "Which genus of ctenophores does not have cydipped-like larvae?", 
+        "answers": [
+            "beroids", 
+            "beroids", 
+            "beroids"
+        ], 
+        "inference_type": "implicit relation", 
+        "context": "Since all modern ctenophores except the beroids have cydippid-like larvae, it has widely been assumed that their last common ancestor also resembled cydippids, having an egg-shaped body and a pair of retractable tentacles. Richard Harbison's purely morphological analysis in 1985 concluded that the cydippids are not monophyletic, in other words do not contain all and only the descendants of a single common ancestor that was itself a cydippid. Instead he found that various cydippid families were more similar to members of other ctenophore orders than to other cydippids. He also suggested that the last common ancestor of modern ctenophores was either cydippid-like or beroid-like. A molecular phylogeny analysis in 2001, using 26 species, including 4 recently discovered ones, confirmed that the cydippids are not monophyletic and concluded that the last common ancestor of modern ctenophores was cydippid-like. It also found that the genetic differences between these species were very small \u2013 so small that the relationships between the Lobata, Cestida and Thalassocalycida remained uncertain. This suggests that the last common ancestor of modern ctenophores was relatively recent, and perhaps was lucky enough to survive the Cretaceous\u2013Paleogene extinction event 65.5 million years ago while other lineages perished. When the analysis was broadened to include representatives of other phyla, it concluded that cnidarians are probably more closely related to bilaterians than either group is to ctenophores but that this diagnosis is uncertain.", 
+        "id": "572691bedd62a815002e89dc"
+    }, 
+    {
+        "question": "After reopening, where will the art pieces be located after restoration?", 
+        "answers": [
+            "near their current locations", 
+            "near their current locations", 
+            "near their current locations"
+        ], 
+        "inference_type": "word match", 
+        "context": "Fulton Street in Downtown Fresno was Fresno's main financial and commercial district before being converted into one of the nation's first pedestrian malls in 1964. Renamed the Fulton Mall, the area contains the densest collection of historic buildings in Fresno. While the Fulton Mall corridor has suffered a sharp decline from its heyday, the Mall includes some of the finest public art pieces in the country, including the only Pierre-Auguste Renoir piece in the world that one can walk up to and touch. Current plans call for the reopening of the Fulton Mall to automobile traffic. The public art pieces will be restored and placed near their current locations and will feature wide sidewalks (up to 28' on the east side of the street) to continue with the pedestrian friendly environment of the district.", 
+        "id": "5725daa8ec44d21400f3d6b6"
+    }, 
+    {
+        "question": "Where is the neighborhood of Sunnyside located in Fresno?", 
+        "answers": [
+            "Fresno's far southeast side", 
+            "far southeast side", 
+            "far southeast side"
+        ], 
+        "inference_type": "word match", 
+        "context": "The neighborhood of Sunnyside is on Fresno's far southeast side, bounded by Chestnut Avenue to the West. Its major thoroughfares are Kings Canyon Avenue and Clovis Avenue. Although parts of Sunnyside are within the City of Fresno, much of the neighborhood is a \"county island\" within Fresno County. Largely developed in the 1950s through the 1970s, it has recently experienced a surge in new home construction. It is also the home of the Sunnyside Country Club, which maintains a golf course designed by William P. Bell.", 
+        "id": "5725db98ec44d21400f3d6c5"
+    }, 
+    {
+        "question": "Who is credited with the modern name for this system ", 
+        "answers": [
+            "Davies is credited with coining the modern name packet switching and inspiring numerous packet switching networks in Europe", 
+            "Donald Davies", 
+            "Donald Davies"
+        ], 
+        "inference_type": "paraphrase", 
+        "context": "Starting in the late 1950s, American computer scientist Paul Baran developed the concept Distributed Adaptive Message Block Switching with the goal to provide a fault-tolerant, efficient routing method for telecommunication messages as part of a research program at the RAND Corporation, funded by the US Department of Defense. This concept contrasted and contradicted the theretofore established principles of pre-allocation of network bandwidth, largely fortified by the development of telecommunications in the Bell System. The new concept found little resonance among network implementers until the independent work of Donald Davies at the National Physical Laboratory (United Kingdom) (NPL) in the late 1960s. Davies is credited with coining the modern name packet switching and inspiring numerous packet switching networks in Europe in the decade following, including the incorporation of the concept in the early ARPANET in the United States.", 
+        "id": "572632ceec44d21400f3dc31"
+    }, 
+    {
+        "question": "What did vBNS do ", 
+        "answers": [
+            "provide high-speed interconnection between NSF-sponsored supercomputing centers and select access points in the United States", 
+            "provide high-speed interconnection between NSF-sponsored supercomputing centers and select access points in the United States", 
+            "high-speed interconnection"
+        ], 
+        "inference_type": "long distance", 
+        "context": "The Very high-speed Backbone Network Service (vBNS) came on line in April 1995 as part of a National Science Foundation (NSF) sponsored project to provide high-speed interconnection between NSF-sponsored supercomputing centers and select access points in the United States. The network was engineered and operated by MCI Telecommunications under a cooperative agreement with the NSF. By 1998, the vBNS had grown to connect more than 100 universities and research and engineering institutions via 12 national points of presence with DS-3 (45 Mbit/s), OC-3c (155 Mbit/s), and OC-12c (622 Mbit/s) links on an all OC-12c backbone, a substantial engineering feat for that time. The vBNS installed one of the first ever production OC-48c (2.5 Gbit/s) IP links in February 1999 and went on to upgrade the entire backbone to OC-48c.", 
+        "id": "572648d1708984140094c15e"
+    }, 
+    {
+        "question": "What types of scientists looks for signs of magnetic reversals in igneous rocks within the drill cores?", 
+        "answers": [
+            "Magnetic stratigraphers", 
+            "Magnetic stratigraphers", 
+            "Magnetic stratigraphers"
+        ], 
+        "inference_type": "word match", 
+        "context": "In the laboratory, biostratigraphers analyze rock samples from outcrop and drill cores for the fossils found in them. These fossils help scientists to date the core and to understand the depositional environment in which the rock units formed. Geochronologists precisely date rocks within the stratigraphic section in order to provide better absolute bounds on the timing and rates of deposition. Magnetic stratigraphers look for signs of magnetic reversals in igneous rock units within the drill cores. Other scientists perform stable isotope studies on the rocks to gain information about past climate.", 
+        "id": "57268220f1498d1400e8e219"
+    }, 
+    {
+        "question": "First published by Sir Charles Lyell in 1830 this book was called what? ", 
+        "answers": [
+            "Principles of Geology", 
+            "Principles of Geology", 
+            "Principles of Geology"
+        ], 
+        "inference_type": "word match", 
+        "context": "Sir Charles Lyell first published his famous book, Principles of Geology, in 1830. This book, which influenced the thought of Charles Darwin, successfully promoted the doctrine of uniformitarianism. This theory states that slow geological processes have occurred throughout the Earth's history and are still occurring today. In contrast, catastrophism is the theory that Earth's features formed in single, catastrophic events and remained unchanged thereafter. Though Hutton believed in uniformitarianism, the idea was not widely accepted at the time.", 
+        "id": "57268882f1498d1400e8e306"
+    }, 
+    {
+        "question": "Which theory states that slow geological processes are still occurring today, and have occurred throughout Earth's history?", 
+        "answers": [
+            "uniformitarianism", 
+            "uniformitarianism", 
+            "uniformitarianism"
+        ], 
+        "inference_type": "corerference", 
+        "context": "Sir Charles Lyell first published his famous book, Principles of Geology, in 1830. This book, which influenced the thought of Charles Darwin, successfully promoted the doctrine of uniformitarianism. This theory states that slow geological processes have occurred throughout the Earth's history and are still occurring today. In contrast, catastrophism is the theory that Earth's features formed in single, catastrophic events and remained unchanged thereafter. Though Hutton believed in uniformitarianism, the idea was not widely accepted at the time.", 
+        "id": "57268882f1498d1400e8e308"
+    }, 
+    {
+        "question": "What street does Nikolaus Pevsner think is one of the finest in England?", 
+        "answers": [
+            "Grey Street", 
+            "Grey Street", 
+            "Grey Street"
+        ], 
+        "inference_type": "word match", 
+        "context": "The city has an extensive neoclassical centre referred to as Tyneside Classical largely developed in the 1830s by Richard Grainger and John Dobson, and recently extensively restored. Broadcaster and writer Stuart Maconie described Newcastle as England's best-looking city and the late German-born British scholar of architecture, Nikolaus Pevsner, describes Grey Street as one of the finest streets in England. The street curves down from Grey's Monument towards the valley of the River Tyne and was voted England's finest street in 2005 in a survey of BBC Radio 4 listeners. In the Google Street View awards of 2010, Grey Street came 3rd in the British picturesque category. Osborne Road came 4th in the foodie street category. A portion of Grainger Town was demolished in the 1960s to make way for the Eldon Square Shopping Centre, including all but one side of the original Eldon Square itself.", 
+        "id": "57266ec2dd62a815002e84a2"
+    }, 
+    {
+        "question": "On what street was the Theatre Royal's replacement built?", 
+        "answers": [
+            "Grey Street", 
+            "Mosley Street", 
+            "Grey Street"
+        ], 
+        "inference_type": "corerference", 
+        "context": "The city has a proud history of theatre. Stephen Kemble of the famous Kemble family successfully managed the original Theatre Royal, Newcastle for fifteen years (1791\u20131806). He brought members of his famous acting family such as Sarah Siddons and John Kemble out of London to Newcastle. Stephen Kemble guided the theatre through many celebrated seasons. The original Theatre Royal in Newcastle was opened on 21 January 1788 and was located on Mosley Street. It was demolished to make way for Grey Street, where its replacement was built.", 
+        "id": "57267f695951b619008f74c1"
+    }, 
+    {
+        "question": "What year was the song Fog on the Tyne released?", 
+        "answers": [
+            "1971", 
+            "1971", 
+            "1971"
+        ], 
+        "inference_type": "word match", 
+        "context": "Lindisfarne are a folk-rock group with a strong Tyneside connection. Their most famous song, \"Fog on the Tyne\" (1971), was covered by Geordie ex-footballer Paul Gascoigne in 1990. Venom, reckoned by many to be the originators of black metal and extremely influential to the extreme metal scene as a whole, formed in Newcastle in 1979. Folk metal band Skyclad, often regarded as the first folk metal band, also formed in Newcastle after the break-up of Martin Walkyier thrash metal band, Sabbat. Andy Taylor, former lead guitarist of Duran Duran was born here in 1961. Brian Johnson was a member of local rock band Geordie before becoming the lead vocalist of AC/DC.", 
+        "id": "5726847f708984140094c8ac"
+    }, 
+    {
+        "question": "What year was St. Nicholas' lantern tower made?", 
+        "answers": [
+            "1474", 
+            "1474", 
+            "1474"
+        ], 
+        "inference_type": "corerference", 
+        "context": "Newcastle has three cathedrals, the Anglican St. Nicholas, with its elegant lantern tower of 1474, the Roman Catholic St. Mary's designed by Augustus Welby Pugin and the Coptic Cathedral located in Fenham. All three cathedrals began their lives as parish churches. St Mary's became a cathedral in 1850 and St Nicholas' in 1882. Another prominent church in the city centre is the Church of St Thomas the Martyr which is the only parish church in the Church of England without a parish and which is not a peculiar.", 
+        "id": "572699b55951b619008f7790"
+    }, 
+    {
+        "question": "What title did Newcastle native Basil Hume achieve?", 
+        "answers": [
+            "Archbishop of Westminster", 
+            "Archbishop of Westminster", 
+            "Archbishop of Westminster"
+        ], 
+        "inference_type": "corerference", 
+        "context": "Charles Avison, the leading British composer of concertos in the 18th century, was born in Newcastle upon Tyne in 1709 and died there in 1770. Basil Hume, Archbishop of Westminster, was born in the city in 1923. Vice Admiral Cuthbert Collingwood, 1st Baron Collingwood, was born in the city. Ironmaster, metallurgist, and member of parliament Isaac Lowthian Bell was born in the city in 1816. Other notable people born in or associated with Newcastle include: engineer and industrialist Lord Armstrong, engineer and father of the modern steam railways George Stephenson, his son, also an engineer, Robert Stephenson, engineer and inventor of the steam turbine Sir Charles Parsons, inventor of the incandescent light bulb Sir Joseph Swan, modernist poet Basil Bunting, and Lord Chief Justice Peter Taylor. Portuguese writer E\u00e7a de Queiroz was a diplomat in Newcastle from late 1874 until April 1879\u2014his most productive literary period. Former Prime Minister of Thailand Abhisit Vejjajiva, was born in the city.", 
+        "id": "57269e80f1498d1400e8e521"
+    }
+]
